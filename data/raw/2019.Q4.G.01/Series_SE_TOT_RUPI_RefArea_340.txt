@@ -1,0 +1,8 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2011.0	0.78648	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2011.0	0.5614	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2011.0	0.62679	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2013.0	0.83697	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2013.0	0.95188	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2013.0	0.85839	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	340	Honduras	2013.0	0.83744	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ

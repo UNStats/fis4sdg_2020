@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTCHG	Forest area net change rate (%)	212	Dominica	2005.0	-0.57276	Float					FAO, Global Forest Resources Assessment	['FAO Estimate']	E	PERCENT	G
+AG_LND_FRSTCHG	Forest area net change rate (%)	212	Dominica	2010.0	-0.5852	Float					FAO, Global Forest Resources Assessment	['FAO Estimate']	E	PERCENT	G
+AG_LND_FRSTCHG	Forest area net change rate (%)	212	Dominica	2015.0	-0.60284	Float					FAO, Global Forest Resources Assessment	['FAO Estimate']	E	PERCENT	G

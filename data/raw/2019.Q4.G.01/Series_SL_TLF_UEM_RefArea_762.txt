@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	762	Tajikistan	2009.0	12.3	Float					ILOSTAT - LFS - Labour force survey	[';Nonstandard age group: Excluding ages 76+']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	762	Tajikistan	2009.0	11.5	Float					ILOSTAT - LFS - Labour force survey	[';Nonstandard age group: Excluding ages 76+']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	762	Tajikistan	2009.0	10.5	Float					ILOSTAT - LFS - Labour force survey	[';Nonstandard age group: Excluding ages 76+']	C	PERCENT	15+	FEMALE	G

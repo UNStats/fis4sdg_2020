@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	690	Seychelles	2000.0	0.86535	Float					SACMEQ 2000	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	690	Seychelles	2001.0	0.89994	Float					SACMEQ 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	690	Seychelles	2006.0	0.86267	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	690	Seychelles	2007.0	0.87245	Float					SACMEQ 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH

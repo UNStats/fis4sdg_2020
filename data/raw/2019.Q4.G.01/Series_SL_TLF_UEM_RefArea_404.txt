@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	404	Kenya	2009.0	9.4	Float					ILOSTAT - PC - Population Census	['']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	404	Kenya	2009.0	9.9	Float					ILOSTAT - PC - Population Census	['']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	404	Kenya	2009.0	9.6	Float					ILOSTAT - PC - Population Census	['']	C	PERCENT	15+	BOTHSEX	G

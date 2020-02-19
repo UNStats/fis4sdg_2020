@@ -1,0 +1,12 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2003.0	0.6782	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2007.0	0.70969	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2011.0	0.69202	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2013.0	0.97578	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 3; Minimum proficiency level: Minimum Competency	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2013.0	0.94099	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 6; Minimum proficiency level: Minimum Competency	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2013.0	1.01211	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 3; Minimum proficiency level: Minimum Competency	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2013.0	0.98268	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 6; Minimum proficiency level: Minimum Competency	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2013.0	0.58483	Float					Skills Towards Employability and Productivity (STEP) of World Bank	['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2016.0	1.02857	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 4 (+1); Minimum proficiency level: Minimum Competency	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2016.0	1	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 6; Minimum proficiency level: Minimum Competency	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	288	Ghana	2016.0	1	Float					National Learning Assessment (NLA): National Education Assessment (NEA); Grade 4 (+1); Minimum proficiency level: Minimum Competency	['']	C	Ratio	GRAD23	G	SKILL_MATH

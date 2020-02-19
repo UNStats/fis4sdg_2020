@@ -1,0 +1,19 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2003.0	1.00985	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2003.0	1.17385	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2006.0	1.14252	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2006.0	1.01581	Float					PIRLS 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2006.0	0.93508	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2007.0	0.98925	Float					TIMSS 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2009.0	0.9529	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2009.0	1.23018	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2011.0	1.01451	Float					PIRLS 2011	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2011.0	0.99526	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2012.0	0.9394	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2012.0	0.95141	Float					Programme for the International Assessment of Adult Competencies (PIAAC)	['']	C	Ratio	_T	G	NUME
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2012.0	1.1541	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2012.0	0.9866	Float					Programme for the International Assessment of Adult Competencies (PIAAC)	['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2015.0	1.08333	Float					National Learning Assessment (NLA): National Assesssment; Grade 4; Minimum proficiency level: Level 1	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2015.0	1.08066	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2015.0	0.92642	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	40	Austria	2016.0	1.11392	Float					National Learning Assessment (NLA): National Assesssment; Grade 8; Minimum proficiency level: Level 1	['']	C	Ratio	LOWSEC	G	SKILL_READ

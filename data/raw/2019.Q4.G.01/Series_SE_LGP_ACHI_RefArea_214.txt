@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2006.0	0.88855	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2006.0	0.90998	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.78046	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.61069	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.69788	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.77617	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2015.0	0.7126	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	214	Dominican Republic	2015.0	0.76972	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

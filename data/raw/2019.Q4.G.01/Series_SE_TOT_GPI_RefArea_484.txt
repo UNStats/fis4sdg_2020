@@ -1,0 +1,19 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2003.0	0.85348	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2003.0	1.18221	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2006.0	1.03125	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2006.0	1.23207	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2006.0	0.89716	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2006.0	0.99883	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2009.0	0.87571	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2009.0	1.18396	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2012.0	1.19059	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2012.0	0.84204	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2013.0	1.03629	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2013.0	0.97887	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2013.0	1.01378	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2013.0	1.04439	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2015.0	1.28733	Float					National Learning Assessment (NLA): Plan Nacional para la Evaluación de los Aprendizajes (PLANEA); Grade 6; Minimum proficiency level: Level II	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2015.0	1.14977	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2015.0	0.89921	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	484	Mexico	2015.0	1.06527	Float					National Learning Assessment (NLA): Plan Nacional para la Evaluación de los Aprendizajes (PLANEA); Grade 6; Minimum proficiency level: Level II	['']	C	Ratio	PRIMAR	G	SKILL_MATH

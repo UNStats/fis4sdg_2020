@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	780	Trinidad and Tobago	2006.0	0.98943	Float					PIRLS 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	780	Trinidad and Tobago	2009.0	0.52127	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	780	Trinidad and Tobago	2009.0	0.62224	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	780	Trinidad and Tobago	2011.0	0.97011	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	780	Trinidad and Tobago	2015.0	0.70249	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	780	Trinidad and Tobago	2015.0	0.55893	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

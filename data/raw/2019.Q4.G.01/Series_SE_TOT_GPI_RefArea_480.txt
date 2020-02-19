@@ -1,0 +1,8 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2000.0	0.93911	Float					SACMEQ 2000	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2001.0	0.90377	Float					SACMEQ 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2006.0	0.9204	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2006.0	1.00678	Float					PASEC 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2007.0	0.94797	Float					SACMEQ 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2009.0	0.97767	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	480	Mauritius	2009.0	1.25945	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ

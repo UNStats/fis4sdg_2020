@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	894	Zambia	2000.0	2.76	Float					ILOSTAT - PC - Census of Population and Housing	['Data reference period: October | Age coverage - minimum age: 12 years old']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	894	Zambia	2005.0	4.02	Float					ILOSTAT - HIES - Living Conditions Monitoring Survey	['Data reference period: Average of 2 monthly points']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	894	Zambia	2008.0	3.46	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: November | Population coverage: Excluding institutional population']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	894	Zambia	2012.0	4.12	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: November | Population coverage: Excluding institutional population']	C	PERCENT	G

@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	591	Panama	2009.0	1.2391	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	591	Panama	2009.0	0.87935	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	591	Panama	2013.0	0.72355	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	591	Panama	2013.0	0.79037	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	591	Panama	2013.0	0.87452	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	591	Panama	2013.0	0.77226	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH

@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Reporting Type
+SL_ISV_IFRM	Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)	748	Eswatini	2016.0	53.4	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	BOTHSEX	G
+SL_ISV_IFRM	Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)	748	Eswatini	2016.0	50.0	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	MALE	G
+SL_ISV_IFRM	Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)	748	Eswatini	2016.0	56.9	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	FEMALE	G

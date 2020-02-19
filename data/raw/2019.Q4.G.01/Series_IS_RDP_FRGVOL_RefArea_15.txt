@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	15	Northern Africa	2017.0	21,262,060,969	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	15	Northern Africa	2017.0	106,381,002,104	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	15	Northern Africa	2017.0	548,089,230	Float					ICAO	['']	C	T_KM	AIR	G

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	148	Chad	2014.0	8.60	Float					Autorité de Régulation des Communications Électroniques et des Postes	"[""LTE is only available in N'Djamena.""]"	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	148	Chad	2015.0	8.60	Float					Autorité de Régulation des Communications Électroniques et des Postes	"[""LTE is only available in N'Djamena.""]"	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	148	Chad	2016.0	22.01	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	148	Chad	2017.0	26.63	Float					ITU estimate.	['']	NA	PERCENT	G

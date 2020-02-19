@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2014.0	0.50465	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2014.0	0.56449	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2016.0	0.40459	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 3	['']	C	Ratio	GRAD23	G	SKILL_READ

@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	90	Solomon Islands	2004.0	70	Float					Solomon Islands 2006-2007 Demographic and Health Survey	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	90	Solomon Islands	2009.0	61.6	Float					Solomon Islands 2009 Census	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	90	Solomon Islands	2013.0	78	Float					Solomon Islands 2015 Demographic and Health Survey	['']	C	PER_1000_POP	15-19	FEMALE	G

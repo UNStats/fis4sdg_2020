@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	682	Saudi Arabia	2000.0	NA	String					FAO, Global Forest Resources Assessment	['NA = A figure was not provided.']	E	PERCENT	G
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	682	Saudi Arabia	2005.0	NA	String					FAO, Global Forest Resources Assessment	['NA = A figure was not provided.']	E	PERCENT	G
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	682	Saudi Arabia	2010.0	0.30706	Float					FAO, Global Forest Resources Assessment	['FAO Estimate']	E	PERCENT	G
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	682	Saudi Arabia	2015.0	0.30706	Float					FAO, Global Forest Resources Assessment	['FAO Estimate']	E	PERCENT	G

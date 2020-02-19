@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units
+IT_USE_ii99	Internet users per 100 inhabitants	520	Nauru	2001.0	2.99	Float					Data based on the World Telecommunication/ICT Indicators Database, 2018, International Telecommunication Union (ITU)	['']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	520	Nauru	2011.0	54.00	Float					Nauru Bureau of Statistics  Government Ministry of Finance	['Population age 15+.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	520	Nauru	2017.0	57.00	Float					ITU estimate.	['']	NA	PER_100_POP

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTN	Forest area (thousands of hectares)	29	Caribbean	2000.0	5913.075	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	HA_TH	G
+AG_LND_FRSTN	Forest area (thousands of hectares)	29	Caribbean	2005.0	6340.8	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	HA_TH	G
+AG_LND_FRSTN	Forest area (thousands of hectares)	29	Caribbean	2010.0	6745.22	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	HA_TH	G
+AG_LND_FRSTN	Forest area (thousands of hectares)	29	Caribbean	2015.0	7195.526	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	HA_TH	G

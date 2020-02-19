@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	204	Benin	2014.0	0.3088	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	204	Benin	2014.0	0.8109	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	204	Benin	2014.0	0.58373	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	204	Benin	2014.0	0.63274	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH

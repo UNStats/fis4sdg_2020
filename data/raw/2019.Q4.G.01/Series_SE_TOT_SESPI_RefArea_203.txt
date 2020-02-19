@@ -1,0 +1,17 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2001.0	1.0129	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2003.0	0.75493	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2003.0	0.75389	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2006.0	0.70989	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2006.0	0.69624	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2009.0	0.70791	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2009.0	0.68595	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2011.0	0.83872	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2011.0	0.95684	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2012.0	0.75924	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2012.0	0.68715	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2012.0	0.90705	Float					Programme for the International Assessment of Adult Competencies (PIAAC)	['']	C	Ratio	_T	G	LITE
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2012.0	0.88575	Float					Programme for the International Assessment of Adult Competencies (PIAAC)	['']	C	Ratio	_T	G	NUME
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2015.0	0.63717	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2015.0	0.89219	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	203	Czechia	2015.0	0.6559	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

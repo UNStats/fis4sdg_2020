@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Reporting Type
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	9	Oceania	2010.0	122.33	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 12']	C	NUMBER	15+	G
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	9	Oceania	2015.0	118.56	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 12']	C	NUMBER	15+	G
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	9	Oceania	2017.0	116.97	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 12']	C	NUMBER	15+	G

@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	250	France	2012.0	20.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	250	France	2013.0	63.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	250	France	2014.0	74.00	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	250	France	2015.0	80.00	Float					Autorité de Régulation des Communications électroniques et des postes	['>80%']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	250	France	2016.0	90.00	Float					Autorité de Régulation des Communications électroniques et des postes	['>90']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	250	France	2017.0	98.00	Float					Autorité de Régulation des Communications électroniques et des postes	['>98% at the end of the 1st semester 2017']	NA	PERCENT	G

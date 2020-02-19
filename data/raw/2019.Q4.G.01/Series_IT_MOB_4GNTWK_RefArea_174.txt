@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	174	Comoros	2015.0	57.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	174	Comoros	2016.0	60.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	174	Comoros	2017.0	82.48	Float					Autorité Nationale de Régulation des TIC	['Cette valeur est obtenu après agrégation des données des deux opérateurs']	NA	PERCENT	G

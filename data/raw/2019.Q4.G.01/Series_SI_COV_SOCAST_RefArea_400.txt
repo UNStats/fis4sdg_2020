@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	400	Jordan	2006.0	80.71908	Float					Department of Statistics (DoS)	['Household Income and Expenditure Survey 2006']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	400	Jordan	2006.0	87.00737	Float					Department of Statistics (DoS)	['Household Income and Expenditure Survey 2006']	CA	PERCENT	G	Q1
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	400	Jordan	2010.0	83.30635	Float					Department of Statistics - The Hashemite Kingdom of Jordan	['Household Income and Expenditure Survey 2010']	CA	PERCENT	G	Q1
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	400	Jordan	2010.0	65.67797	Float					Department of Statistics - The Hashemite Kingdom of Jordan	['Household Income and Expenditure Survey 2010']	CA	PERCENT	G	_T

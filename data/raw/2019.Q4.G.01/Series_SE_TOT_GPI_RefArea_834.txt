@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	834	United Republic of Tanzania	2000.0	1.14007	Float					SACMEQ 2000	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	834	United Republic of Tanzania	2001.0	1.01638	Float					SACMEQ 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	834	United Republic of Tanzania	2006.0	1.00548	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	834	United Republic of Tanzania	2007.0	1.06794	Float					SACMEQ 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	834	United Republic of Tanzania	2013.0	1.5	Float					Early Grade Reading Assessment (EGRA) - http://earlygradereadingbarometer.org/iraq/comparisons/sdg; Grade 2	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	834	United Republic of Tanzania	2015.0	0.95409	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 3	['']	C	Ratio	GRAD23	G	SKILL_MATH

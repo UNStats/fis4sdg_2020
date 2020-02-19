@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	270	Gambia	2010.0	1.01883	Float					National Learning Assessment (NLA): National Assessment Test (NAT); Grade 3; Minimum proficiency level: Minimum Level	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	270	Gambia	2010.0	0.93711	Float					National Learning Assessment (NLA): National Assessment Test (NAT); Grade 5 (-1); Minimum proficiency level: Minimum Level	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	270	Gambia	2010.0	1.01617	Float					National Learning Assessment (NLA): National Assessment Test (NAT); Grade 5 (-1); Minimum proficiency level: Minimum Level	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	270	Gambia	2010.0	1.06204	Float					National Learning Assessment (NLA): National Assessment Test (NAT); Grade 3; Minimum proficiency level: Minimum Level	['']	C	Ratio	GRAD23	G	SKILL_READ

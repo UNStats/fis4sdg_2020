@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.77127	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.69085	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.90488	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2013.0	0.60614	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2015.0	0.70519	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2015.0	0.41596	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

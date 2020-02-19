@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	218	Ecuador	2006.0	1.00108	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	218	Ecuador	2006.0	0.79578	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	218	Ecuador	2013.0	0.95892	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	218	Ecuador	2013.0	0.68166	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	218	Ecuador	2013.0	0.8583	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	218	Ecuador	2013.0	0.768	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH

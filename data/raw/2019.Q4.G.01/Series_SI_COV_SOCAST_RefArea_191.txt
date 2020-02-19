@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	191	Croatia	2008.0	46.32311	Float					Croatian Bureau of Statistics - CBS 	['Household Budget Survey']	CA	PERCENT	G	Q1
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	191	Croatia	2008.0	23.31134	Float					Croatian Bureau of Statistics - CBS 	['Household Budget Survey']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	191	Croatia	2010.0	24.56946	Float					Croatian Bureau of Statistics - CBS 	['Household Budget Survey']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	191	Croatia	2010.0	47.88995	Float					Croatian Bureau of Statistics - CBS 	['Household Budget Survey']	CA	PERCENT	G	Q1

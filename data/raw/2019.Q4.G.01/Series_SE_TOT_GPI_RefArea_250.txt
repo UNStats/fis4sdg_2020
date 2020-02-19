@@ -1,0 +1,17 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2001.0	1.02698	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2003.0	1.12978	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2003.0	1.0035	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2006.0	0.99678	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2006.0	1.02097	Float					PIRLS 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2006.0	1.12907	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2009.0	1.13418	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2009.0	0.97747	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2011.0	0.99812	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2012.0	1.1463	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2012.0	0.99977	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2012.0	1.01805	Float					Programme for the International Assessment of Adult Competencies (PIAAC)	['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2012.0	0.9406	Float					Programme for the International Assessment of Adult Competencies (PIAAC)	['']	C	Ratio	_T	G	NUME
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2015.0	0.98639	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2015.0	1.0093	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	250	France	2015.0	1.11075	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

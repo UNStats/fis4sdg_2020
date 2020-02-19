@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Reporting Type
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	512	Oman	2000.0	9.3	Float					ILOSTAT - LFS - Labour force survey	['Population coverage: Nationals, residents | Age coverage - minimum age: 12 years old;']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	512	Oman	2008.0	5.5	Float					ILOSTAT - LFS - Labour force survey	['Data reference period: June | Population coverage: Excluding nationals in the private sector;']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	512	Oman	2016.0	11.1	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 65 years old;']	C	PERCENT	FEMALE	G

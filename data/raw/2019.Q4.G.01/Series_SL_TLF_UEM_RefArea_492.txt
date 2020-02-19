@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	7.4	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old;Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	5.1	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old']	C	PERCENT	25+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	3.5	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	6.6	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old;Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15-24	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	6.9	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old;Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	2.5	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old;Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	5.2	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old;Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	3.6	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old;Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	2.4	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 17 years old']	C	PERCENT	25+	MALE	G

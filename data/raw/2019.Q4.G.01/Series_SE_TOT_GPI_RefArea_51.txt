@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2003.0	1.06478	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2003.0	1.06952	Float					TIMSS 2003	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2007.0	1.01924	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2007.0	1.01908	Float					TIMSS 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2011.0	1.07249	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2011.0	1.03437	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2013.0	1.00051	Float					Skills Towards Employability and Productivity (STEP) of World Bank	['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	51	Armenia	2017.0	1.01274	Float					National Learning Assessment (NLA): National Assessment; Grade 4; Minimum proficiency level: 4-5	['']	C	Ratio	PRIMAR	G	SKILL_MATH

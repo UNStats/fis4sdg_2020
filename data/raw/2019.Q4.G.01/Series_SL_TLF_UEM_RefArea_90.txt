@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	90	Solomon Islands	2009.0	2.0	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 12 years old']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	90	Solomon Islands	2009.0	1.8	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 12 years old']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	90	Solomon Islands	2009.0	2.3	Float					ILOSTAT - PC - Population census	['Age coverage - minimum age: 12 years old']	C	PERCENT	15+	MALE	G

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	64	Bhutan	2007.0	1.56507	Float					National Statistical Bureau	['Living Standards Survey 2007 - South Asia Labor Flagship Dataset']	CA	PERCENT	G	Q1
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	64	Bhutan	2007.0	1.01002	Float					National Statistical Bureau	['Living Standards Survey 2007 - South Asia Labor Flagship Dataset']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	64	Bhutan	2012.0	2.25195	Float					National Statistics Bureau (NSB) - Royal Government of Bhutan	['Bhutan Living Standards Survey']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	64	Bhutan	2012.0	3.92423	Float					National Statistics Bureau (NSB) - Royal Government of Bhutan	['Bhutan Living Standards Survey']	CA	PERCENT	G	Q1

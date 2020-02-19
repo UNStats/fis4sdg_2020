@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	120	Cameroon	2014.0	0.45607	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	120	Cameroon	2014.0	0.43148	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	120	Cameroon	2014.0	0.24692	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	120	Cameroon	2014.0	0.52505	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ

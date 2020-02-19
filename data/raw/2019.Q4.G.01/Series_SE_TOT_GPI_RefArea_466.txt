@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	466	Mali	2003.0	0.93007	Float					PASEC 2003	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	466	Mali	2003.0	0.89143	Float					PASEC 2003	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	466	Mali	2016.0	0.93496	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 5 (-1)	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	466	Mali	2016.0	1.375	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 3	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	466	Mali	2016.0	1.01587	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 5 (-1)	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	466	Mali	2016.0	1.20833	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 3	['']	C	Ratio	GRAD23	G	SKILL_MATH

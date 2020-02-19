@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	188	Costa Rica	2013.0	10.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	188	Costa Rica	2014.0	21.00	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	188	Costa Rica	2015.0	68.90	Float					Superintendencia de Telecomunicaciones	['Estimated based on districts covered.']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	188	Costa Rica	2016.0	71.00	Float					Superintendencia de Telecomunicaciones	['Estimated based on districts covered.']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	188	Costa Rica	2017.0	82.20	Float					Superintendencia de Telecomunicaciones	['Estimated based on districts covered.']	NA	PERCENT	G

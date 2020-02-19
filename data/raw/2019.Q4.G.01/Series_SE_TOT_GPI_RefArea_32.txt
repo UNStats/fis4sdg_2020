@@ -1,0 +1,20 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2001.0	1.14331	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2006.0	1.02944	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2006.0	1.34044	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2006.0	0.99323	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2006.0	0.896	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2009.0	0.88634	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2009.0	1.2474	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2012.0	1.29219	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2012.0	0.81944	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2013.0	1.01248	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2013.0	1.06051	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2013.0	1.0677	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2013.0	1.09205	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2016.0	1.10866	Float					National Learning Assessment (NLA): Aprender; Grade 9; Minimum proficiency level: Satisfactory	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2016.0	1.10849	Float					National Learning Assessment (NLA): Aprender; Grade 6; Minimum proficiency level: Satisfactory	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2016.0	1.09318	Float					National Learning Assessment (NLA): Aprender; Grade 3; Minimum proficiency level: Satisfactory	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2016.0	0.86029	Float					National Learning Assessment (NLA): Aprender; Grade 9; Minimum proficiency level: Satisfactory	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2016.0	0.961	Float					National Learning Assessment (NLA): Aprender; Grade 3; Minimum proficiency level: Satisfactory	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	32	Argentina	2016.0	0.94684	Float					National Learning Assessment (NLA): Aprender; Grade 6; Minimum proficiency level: Satisfactory	['']	C	Ratio	PRIMAR	G	SKILL_MATH

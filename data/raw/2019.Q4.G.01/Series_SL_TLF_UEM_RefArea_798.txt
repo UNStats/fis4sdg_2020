@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	798	Tuvalu	2002.0	5.0	Float					ILOSTAT - PC - Population Census	['Data reference period: November;']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	798	Tuvalu	2002.0	8.6	Float					ILOSTAT - PC - Population Census	['Data reference period: November;']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	798	Tuvalu	2002.0	6.5	Float					ILOSTAT - PC - Population Census	['Data reference period: November;']	C	PERCENT	15+	BOTHSEX	G

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	288	Ghana	2005.0	0.61292	Float					Ghana Statistical Service (GSS)	['Living Standards Survey V 2005-2006']	CA	PERCENT	G	Q1
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	288	Ghana	2005.0	0.85028	Float					Ghana Statistical Service (GSS)	['Living Standards Survey V 2005-2006']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	288	Ghana	2012.0	1.37698	Float					Ghana Statistical Service - Government of Ghana 	['Living Standards Survey V 2012-2013 ']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	288	Ghana	2012.0	1.2836	Float					Ghana Statistical Service - Government of Ghana 	['Living Standards Survey V 2012-2013 ']	CA	PERCENT	G	Q1

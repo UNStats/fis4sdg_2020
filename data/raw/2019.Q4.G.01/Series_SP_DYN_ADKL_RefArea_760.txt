@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	760	Syrian Arab Republic	2000.0	52.6	Float					Syrian Arab Republic 2001 Family Health Survey	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	760	Syrian Arab Republic	2004.0	21.9	Float					Syrian Arab Republic 2006 Multiple Indicator Cluster Survey	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	760	Syrian Arab Republic	2009.0	54	Float					Syrian Arab Republic 2009 Family Health Survey	['']	C	PER_1000_POP	15-19	FEMALE	G

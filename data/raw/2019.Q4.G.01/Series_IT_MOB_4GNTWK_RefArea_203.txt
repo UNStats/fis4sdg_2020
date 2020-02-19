@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	203	Czechia	2012.0	0.00	Float					Czech Telecommunication Office	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	203	Czechia	2013.0	0.00	Float					Czech Telecommunication Office	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	203	Czechia	2014.0	92.10	Float					Czech Telecommunication Office	['LTE, at least 1 operator.']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	203	Czechia	2015.0	98.70	Float					Czech Telecommunication Office	['Coverage at least of one operator only by LTE to the date 31. 12. ']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	203	Czechia	2016.0	99.70	Float					Czech Telecommunication Office	['Coverage at least of one operator only by LTE (800, 900, 1800, 2100, 2600 MHz).']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	203	Czechia	2017.0	99.80	Float					Czech Telecommunication Office	['4G, at least one operator.']	NA	PERCENT	G

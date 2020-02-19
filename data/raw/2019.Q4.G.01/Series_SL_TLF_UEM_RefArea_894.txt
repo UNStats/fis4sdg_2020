@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	894	Zambia	2005.0	15.9	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: Average of 2 monthly points']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	894	Zambia	2008.0	8.1	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: November | Population coverage: Excluding institutional population;']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	894	Zambia	2008.0	7.7	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: November | Population coverage: Excluding institutional population;']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	894	Zambia	2008.0	7.9	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: November | Population coverage: Excluding institutional population;']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	894	Zambia	2012.0	7.9	Float					ILOSTAT - LFS - Labour Force Survey	['Data reference period: November | Population coverage: Excluding institutional population;']	C	PERCENT	15+	BOTHSEX	G

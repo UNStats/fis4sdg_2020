@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	400	Jordan	2006.0	24.89574	Float					Department of Statistics (DoS)	['Household Income and Expenditure Survey 2006']	CA	PERCENT	G	_T
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	400	Jordan	2006.0	20.53495	Float					Department of Statistics (DoS)	['Household Income and Expenditure Survey 2006']	CA	PERCENT	G	Q1
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	400	Jordan	2010.0	24.92073	Float					Department of Statistics - The Hashemite Kingdom of Jordan	['Household Income and Expenditure Survey 2010']	CA	PERCENT	G	Q1
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	400	Jordan	2010.0	28.23461	Float					Department of Statistics - The Hashemite Kingdom of Jordan	['Household Income and Expenditure Survey 2010']	CA	PERCENT	G	_T

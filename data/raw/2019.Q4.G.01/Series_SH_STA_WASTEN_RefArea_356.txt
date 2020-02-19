@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Reporting Type
+SH_STA_WASTEN	Children moderately or severely wasted (millions)	356	India	2006.0	26011.77096	Float					National family health survey (NFHS-3), 2005-06: India: Volume I. Demographic and Health Surveys. Mumbai, India: IIPS, 2007 (and additional analysis).	['']	CA	NUM_U5_M	<5Y	G
+SH_STA_WASTEN	Children moderately or severely wasted (millions)	356	India	2014.0	18510.80521	Float					Rapid survey on children 2013-2014. India factsheet. . http://wcd.nic.in/ accessed 14 August 2014.	['(pending reanalysis)']	CA	NUM_U5_M	<5Y	G
+SH_STA_WASTEN	Children moderately or severely wasted (millions)	356	India	2015.0	25240.12436	Float					National Family Health Survey (NFHS-4), 2015-16: India. Mumbai: IIPS. 2017 (and additional analysis)	['']	CA	NUM_U5_M	<5Y	G

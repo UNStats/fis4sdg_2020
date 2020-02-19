@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_NEET	Proportion of youth not in education, employment or training, by sex and age (%)	748	Eswatini	2016.0	35.5	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_NEET	Proportion of youth not in education, employment or training, by sex and age (%)	748	Eswatini	2016.0	41.2	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_NEET	Proportion of youth not in education, employment or training, by sex and age (%)	748	Eswatini	2016.0	29.9	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	MALE	G

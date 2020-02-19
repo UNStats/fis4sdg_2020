@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	512	Oman	2000.0	4.93	Float					ILOSTAT - LFS - Labour force survey	['Population coverage: Nationals, residents | Age coverage - minimum age: 12 years old']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	512	Oman	2008.0	9.51	Float					ILOSTAT - LFS - Labour force survey	['Data reference period: June | Population coverage: Excluding nationals in the private sector']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	512	Oman	2010.0	5.63	Float					ILOSTAT - PC - Genereal Census of Population Housing & Establishment	['Data reference period: December']	C	PERCENT	G

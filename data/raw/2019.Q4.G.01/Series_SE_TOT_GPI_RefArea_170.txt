@@ -1,0 +1,36 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2001.0	1.08734	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2006.0	0.99157	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2006.0	1.10367	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2006.0	0.95524	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2006.0	0.70076	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2007.0	0.66356	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2007.0	0.8085	Float					TIMSS 2007	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2009.0	0.59308	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2009.0	1.08347	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2011.0	0.99021	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2012.0	1.18938	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2012.0	0.62532	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2012.0	0.9797	Float					Skills Towards Employability and Productivity (STEP) of World Bank	['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2013.0	0.96703	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2013.0	1.0054	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2013.0	1.06869	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2013.0	1.03135	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2015.0	1.10926	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2015.0	1.02532	Float					National Learning Assessment (NLA): SABER; Grade 3; Minimum proficiency level: Minimum	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2015.0	1.09091	Float					National Learning Assessment (NLA): SABER; Grade 5; Minimum proficiency level: Minimum	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2015.0	1.01235	Float					National Learning Assessment (NLA): SABER; Grade 3; Minimum proficiency level: Minimum	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2015.0	1.01563	Float					National Learning Assessment (NLA): SABER; Grade 5; Minimum proficiency level: Minimum	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2015.0	0.83072	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2016.0	1	Float					National Learning Assessment (NLA): SABER; Grade 3; Minimum proficiency level: Minimum	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2016.0	0.94048	Float					National Learning Assessment (NLA): SABER; Grade 9; Minimum proficiency level: Minimum	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2016.0	1.03125	Float					National Learning Assessment (NLA): SABER; Grade 5; Minimum proficiency level: Minimum	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2016.0	1.04819	Float					National Learning Assessment (NLA): SABER; Grade 5; Minimum proficiency level: Minimum	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2016.0	1.06098	Float					National Learning Assessment (NLA): SABER; Grade 9; Minimum proficiency level: Minimum	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2016.0	1.0375	Float					National Learning Assessment (NLA): SABER; Grade 3; Minimum proficiency level: Minimum	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2017.0	1.02326	Float					National Learning Assessment (NLA): SABER; Grade 5; Minimum proficiency level: Minimum	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2017.0	1.02273	Float					National Learning Assessment (NLA): SABER; Grade 9; Minimum proficiency level: Minimum	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2017.0	1.02469	Float					National Learning Assessment (NLA): SABER; Grade 3; Minimum proficiency level: Minimum	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2017.0	0.9625	Float					National Learning Assessment (NLA): SABER; Grade 9; Minimum proficiency level: Minimum	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2017.0	0.98276	Float					National Learning Assessment (NLA): SABER; Grade 5; Minimum proficiency level: Minimum	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	170	Colombia	2017.0	1.0122	Float					National Learning Assessment (NLA): SABER; Grade 3; Minimum proficiency level: Minimum	['']	C	Ratio	GRAD23	G	SKILL_MATH

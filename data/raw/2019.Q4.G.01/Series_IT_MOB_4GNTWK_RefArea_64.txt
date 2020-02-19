@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	64	Bhutan	2013.0	5.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	64	Bhutan	2014.0	10.72	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	64	Bhutan	2015.0	40.00	Float					Ministry of Information & Communications	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	64	Bhutan	2016.0	53.00	Float					Ministry of Information & Communications	['by two operators']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	64	Bhutan	2017.0	55.00	Float					Ministry of Information & Communications	['For two operators']	NA	PERCENT	G

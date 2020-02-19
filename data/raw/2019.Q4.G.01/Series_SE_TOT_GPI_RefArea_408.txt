@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	408	Democratic People's Republic of Korea	2017.0	1.04156	Float					Multiple Indicator Cluster Survey (MICS6); Grade 3; Minimum proficiency level: Foundational numeracy skills	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	408	Democratic People's Republic of Korea	2017.0	1.01834	Float					Multiple Indicator Cluster Survey (MICS6); Grade 3; Minimum proficiency level: Foundational reading skills	['']	C	Ratio	GRAD23	G	SKILL_READ

@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	344	China, Hong Kong Special Administrative Region	2001.0	0.96065	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	344	China, Hong Kong Special Administrative Region	2003.0	0.98689	Float					TIMSS 2003	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	344	China, Hong Kong Special Administrative Region	2011.0	1.03042	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	344	China, Hong Kong Special Administrative Region	2011.0	1.00993	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	344	China, Hong Kong Special Administrative Region	2015.0	1.00229	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH

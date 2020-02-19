@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2006.0	0.85186	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2006.0	0.72923	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2009.0	0.68222	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2009.0	0.75276	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2012.0	0.4871	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2012.0	0.67967	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2013.0	0.83724	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2013.0	0.79894	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2013.0	0.94629	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	32	Argentina	2013.0	0.85846	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH

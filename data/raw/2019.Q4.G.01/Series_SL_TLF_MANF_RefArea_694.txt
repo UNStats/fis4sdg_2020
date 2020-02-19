@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	694	Sierra Leone	2003.0	2.56	Float					ILOSTAT - LFS - Labour force survey	['NA']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	694	Sierra Leone	2004.0	0.49	Float					ILOSTAT - OE - Projections based on the Population and Housing Census 2004	['Data reference period: December | Age coverage - minimum age: 10 years old']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	694	Sierra Leone	2014.0	2.82	Float					ILOSTAT - LFS - Labour force survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	G

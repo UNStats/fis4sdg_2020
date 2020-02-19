@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	524	Nepal	2009.0	20.35	Float					Nepal Telecommunications Authority	['']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	524	Nepal	2014.0	30.00	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	524	Nepal	2015.0	50.00	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	524	Nepal	2016.0	90.00	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	524	Nepal	2017.0	54.10	Float					Nepal Telecommunications Authority	['From NTA']	NA	PERCENT	G

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	480	Mauritius	2006.0	3.28675	Float					Statistics Mauritius - Ministry of Finance and Economic Empowerment	['Household Budget Survey 2006-2007']	CA	PERCENT	G	_T
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	480	Mauritius	2006.0	2.05127	Float					Statistics Mauritius - Ministry of Finance and Economic Empowerment	['Household Budget Survey 2006-2007']	CA	PERCENT	G	Q1
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	480	Mauritius	2012.0	13.63797	Float					Central Statistics Office	['Household Budget Survey']	CA	PERCENT	G	Q1
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	480	Mauritius	2012.0	18.79151	Float					Central Statistics Office	['Household Budget Survey']	CA	PERCENT	G	_T

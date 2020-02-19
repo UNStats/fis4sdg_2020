@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	704	Viet Nam	2012.0	0.80338	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	704	Viet Nam	2012.0	0.92964	Float					Skills Towards Employability and Productivity (STEP) of World Bank	['']	C	Ratio	_T	G	LITE
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	704	Viet Nam	2012.0	0.86864	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	704	Viet Nam	2015.0	0.84261	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	704	Viet Nam	2015.0	0.779	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

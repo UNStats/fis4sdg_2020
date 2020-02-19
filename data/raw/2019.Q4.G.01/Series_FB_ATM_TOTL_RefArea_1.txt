@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Reporting Type
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	1	World	2010.0	44.94	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 186']	C	NUMBER	15+	G
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	1	World	2015.0	64.58	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 186']	C	NUMBER	15+	G
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	1	World	2017.0	66.47	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 186']	C	NUMBER	15+	G

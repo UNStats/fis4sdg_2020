@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Reporting Type
+FB_CBK_BRCH	Number of commercial bank branches per 100,000 adults	199	Least Developed Countries (LDCs)	2010.0	3.50	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 43']	C	NUMBER	15+	G
+FB_CBK_BRCH	Number of commercial bank branches per 100,000 adults	199	Least Developed Countries (LDCs)	2015.0	4.80	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 43']	C	NUMBER	15+	G
+FB_CBK_BRCH	Number of commercial bank branches per 100,000 adults	199	Least Developed Countries (LDCs)	2017.0	5.25	Float					Financial Access Survey (FAS), Statistics Department, International Monetary Fund (IMF)	['Number of countries covered: 43']	C	NUMBER	15+	G

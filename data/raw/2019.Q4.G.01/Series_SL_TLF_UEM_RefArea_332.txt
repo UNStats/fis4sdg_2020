@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	332	Haiti	2007.0	14.9	Float					ILOSTAT - LFS - Labour force and informal economy survey	['Data reference period: Noncalendar year;Nonstandard age group: Including ages 10-14']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	332	Haiti	2007.0	19.2	Float					ILOSTAT - LFS - Labour force and informal economy survey	['Data reference period: Noncalendar year;Nonstandard age group: Including ages 10-14']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	332	Haiti	2007.0	16.8	Float					ILOSTAT - LFS - Labour force and informal economy survey	['Data reference period: Noncalendar year;Nonstandard age group: Including ages 10-14']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	332	Haiti	2012.0	11.5	Float					ILOSTAT - HIES - Enquete sur les conditions de vie en Haiti	[';Nonstandard age group: Including ages 10-14']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	332	Haiti	2012.0	17.3	Float					ILOSTAT - HIES - Enquete sur les conditions de vie en Haiti	[';Nonstandard age group: Including ages 10-14']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	332	Haiti	2012.0	14.1	Float					ILOSTAT - HIES - Enquete sur les conditions de vie en Haiti	[';Nonstandard age group: Including ages 10-14']	C	PERCENT	15+	BOTHSEX	G

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+ER_H2O_STRESS	Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)	132	Cabo Verde	2000.0	9.0	Float					Food and Agriculture Organisation of United Nations (FAO)	['']	NA	PERCENT	G
+ER_H2O_STRESS	Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)	132	Cabo Verde	2005.0	NA	String					Food and Agriculture Organisation of United Nations (FAO)	['NA = A figure was not provided.']	NA	PERCENT	G
+ER_H2O_STRESS	Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)	132	Cabo Verde	2010.0	NA	String					Food and Agriculture Organisation of United Nations (FAO)	['NA = A figure was not provided.']	NA	PERCENT	G
+ER_H2O_STRESS	Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)	132	Cabo Verde	2015.0	NA	String					Food and Agriculture Organisation of United Nations (FAO)	['NA = A figure was not provided.']	NA	PERCENT	G

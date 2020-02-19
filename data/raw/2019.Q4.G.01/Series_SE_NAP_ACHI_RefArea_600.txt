@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	600	Paraguay	2013.0	1.25128	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	600	Paraguay	2013.0	1.10818	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	600	Paraguay	2013.0	1.3622	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	600	Paraguay	2013.0	1.33875	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH

@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	894	Zambia	2000.0	1.29589	Float					SACMEQ 2000	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	894	Zambia	2001.0	1.04178	Float					SACMEQ 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	894	Zambia	2006.0	1.08995	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	894	Zambia	2007.0	1.24117	Float					SACMEQ 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	894	Zambia	2014.0	1	Float					Early Grade Mathematics Assessment (EGMA) - http://earlygradereadingbarometer.org/iraq/comparisons/sdg; Grade 2	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	894	Zambia	2014.0	1	Float					Early Grade Reading Assessment (EGRA) - http://earlygradereadingbarometer.org/iraq/comparisons/sdg; Grade 2	['']	C	Ratio	GRAD23	G	SKILL_READ

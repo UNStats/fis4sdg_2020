@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	50	Bangladesh	2015.0	0.93333	Float					National Learning Assessment (NLA): Learning Assessment of Secondary Institutions (LASI); Grade 8; Minimum proficiency level: Band 4	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	50	Bangladesh	2015.0	0.92391	Float					National Learning Assessment (NLA): Learning Assessment of Secondary Institutions (LASI); Grade 8; Minimum proficiency level: Band 4; Reading	['']	C	Ratio	LOWSEC	G	SKILL_READ

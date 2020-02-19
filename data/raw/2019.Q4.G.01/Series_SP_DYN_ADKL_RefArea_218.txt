@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	218	Ecuador	2001.0	100.9	Float					Ecuador 2004 Encuesta Demográfica y de Salud Materna e Infantil	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	218	Ecuador	2002.0	99.6	Float					Ecuador 2004 Encuesta Demográfica y de Salud Materna e Infantil	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	218	Ecuador	2007.0	111	Float					Ecuador 2012 Encuesta Nacional de Salud y Nutrición	['']	C	PER_1000_POP	15-19	FEMALE	G

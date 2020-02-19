@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	674	San Marino	2003.0	6.4	Float					Registration UNSD	['']	C	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	674	San Marino	2004.0	1.4	Float					Registration UNSD & WPP2017	['']	CA	PER_1000_POP	15-19	FEMALE	G
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	674	San Marino	2012.0	0	Float					Registration National Statistics (Eurostat)	['']	C	PER_1000_POP	15-19	FEMALE	G

@@ -1,0 +1,15 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2006.0	0.95809	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2006.0	1.00658	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2010.0	1.16129	Float					National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Achievement	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2010.0	1.07	Float					National Learning Assessment (NLA): National Assessment; Grade 3; Minimum proficiency level: Achievement	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2010.0	0.9031	Float					National Learning Assessment (NLA): National Assessment; Grade 3; Minimum proficiency level: Achievement	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2010.0	0.926	Float					National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Achievement	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	0.96868	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	0.93839	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	1.03485	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	0.9906	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2014.0	1.06765	Float					National Learning Assessment (NLA): National Assessment; Grade 3; Minimum proficiency level: Achievement	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2014.0	1.13757	Float					National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Achievement	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2014.0	0.90773	Float					National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Achievement	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2014.0	0.90141	Float					National Learning Assessment (NLA): National Assessment; Grade 3; Minimum proficiency level: Achievement	['']	C	Ratio	GRAD23	G	SKILL_MATH

@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	25.8	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	9.1	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	25+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	6.1	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	25+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	11.9	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	9.5	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	11.0	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	25.6	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	7.9	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	212	Dominica	2001.0	26.0	Float					ILOSTAT - PC - Population Census	['Data reference period: May;']	C	PERCENT	15-24	MALE	G

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	780	Trinidad and Tobago	2009.0	0.96914	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	780	Trinidad and Tobago	2009.0	0.95025	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	780	Trinidad and Tobago	2015.0	0.73536	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	780	Trinidad and Tobago	2015.0	0.80297	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

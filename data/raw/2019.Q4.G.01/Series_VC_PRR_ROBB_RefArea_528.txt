@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Reporting Type
+VC_PRR_ROBB	Police reporting rate for robbery, by sex (%)	528	Netherlands	2006.0	62.2	Float					UNODC	['UN-CTS = United Nations Survey of Crime Trends and Criminal Justice Operations']	NA	PERCENT	BOTHSEX	G
+VC_PRR_ROBB	Police reporting rate for robbery, by sex (%)	528	Netherlands	2007.0	59.4	Float					UNODC	['UN-CTS = United Nations Survey of Crime Trends and Criminal Justice Operations']	NA	PERCENT	BOTHSEX	G
+VC_PRR_ROBB	Police reporting rate for robbery, by sex (%)	528	Netherlands	2013.0	40.2	Float					UNODC	['UN-CTS = United Nations Survey of Crime Trends and Criminal Justice Operations']	NA	PERCENT	BOTHSEX	G

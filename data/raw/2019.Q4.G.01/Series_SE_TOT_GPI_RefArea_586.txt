@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	586	Pakistan	2013.0	1.5625	Float					Early Grade Reading Assessment (EGRA) - http://earlygradereadingbarometer.org/iraq/comparisons/sdg; Grade 2	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	586	Pakistan	2016.0	1.13924	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 3	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	586	Pakistan	2016.0	1.04288	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 5	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	586	Pakistan	2016.0	1.11511	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 3	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	586	Pakistan	2016.0	1.02714	Float					PAL Network - Citizen Led Assessment - Includes out-of-school children or young people; Grade 5	['']	C	Ratio	PRIMAR	G	SKILL_MATH

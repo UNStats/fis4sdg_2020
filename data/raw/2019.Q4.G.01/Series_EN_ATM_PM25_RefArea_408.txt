@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Location	Reporting Type
+EN_ATM_PM25	Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)	408	Democratic People's Republic of Korea	2016.0	30.3993721008301	Float					http://apps.who.int/gho/data/node.sdg.11-6	['']	E	mgr/m^3	ALLAREA	G
+EN_ATM_PM25	Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)	408	Democratic People's Republic of Korea	2016.0	30.9742393493652	Float					http://apps.who.int/gho/data/node.sdg.11-6	['']	E	mgr/m^3	URBAN	G

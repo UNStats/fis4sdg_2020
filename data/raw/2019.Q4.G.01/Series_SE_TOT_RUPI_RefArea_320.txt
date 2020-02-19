@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2014.0	0.47055	Float					National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Achievement	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2014.0	0.54427	Float					National Learning Assessment (NLA): National Assessment; Grade 3; Minimum proficiency level: Achievement	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2014.0	0.52508	Float					National Learning Assessment (NLA): National Assessment; Grade 3; Minimum proficiency level: Achievement	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2014.0	0.6019	Float					National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Achievement	['']	C	Ratio	PRIMAR	G	SKILL_MATH

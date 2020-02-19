@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+SL_EMP_GTOTL	Labour share of GDP, comprising wages and social protection transfers (%)	833	Isle of Man	2013.0	33.0	Float					ILOSTAT - SNA - Isle of Man National Income	['Type of prices: Basic prices | System of national accounts: 2008 SNA']	C	PERCENT	G
+SL_EMP_GTOTL	Labour share of GDP, comprising wages and social protection transfers (%)	833	Isle of Man	2014.0	31.0	Float					ILOSTAT - SNA - Isle of Man National Income	['Type of prices: Basic prices | System of national accounts: 2008 SNA']	C	PERCENT	G
+SL_EMP_GTOTL	Labour share of GDP, comprising wages and social protection transfers (%)	833	Isle of Man	2016.0	13.6	Float					ILOSTAT - SNA - Isle of Man National Income	['Type of prices: Basic prices | Break in series: Methodology revised | System of national accounts: 2010 ESA']	C	PERCENT	G

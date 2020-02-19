@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	417	Kyrgyzstan	2006.0	1.60253	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	417	Kyrgyzstan	2006.0	1.68945	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	417	Kyrgyzstan	2009.0	1.56687	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	417	Kyrgyzstan	2009.0	1.4831	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ

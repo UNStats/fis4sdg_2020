@@ -1,0 +1,13 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Education level	Reporting Type	Type of skill
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2006.0	77.57	Float					LLECE 2006	['']	C	PERCENT	FEMALE	PRIMAR	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2006.0	78.87088	Float					LLECE 2006	['']	C	PERCENT	BOTHSEX	PRIMAR	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2006.0	80.51	Float					LLECE 2006	['']	C	PERCENT	MALE	PRIMAR	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2006.0	77.80619	Float					LLECE 2006	['']	C	PERCENT	BOTHSEX	PRIMAR	G	SKILL_READ
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2006.0	77.97	Float					LLECE 2006	['']	C	PERCENT	MALE	PRIMAR	G	SKILL_READ
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2006.0	77.65	Float					LLECE 2006	['']	C	PERCENT	FEMALE	PRIMAR	G	SKILL_READ
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2007.0	25.13	Float					TIMSS 2007	['']	C	PERCENT	MALE	GRAD23	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2007.0	20.91	Float					TIMSS 2007	['']	C	PERCENT	FEMALE	GRAD23	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2007.0	23.07486	Float					TIMSS 2007	['']	C	PERCENT	BOTHSEX	GRAD23	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2007.0	16.89	Float					TIMSS 2007	['']	C	PERCENT	FEMALE	LOWSEC	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2007.0	20.45499	Float					TIMSS 2007	['']	C	PERCENT	BOTHSEX	LOWSEC	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	222	El Salvador	2007.0	24.39	Float					TIMSS 2007	['']	C	PERCENT	MALE	LOWSEC	G	SKILL_MATH

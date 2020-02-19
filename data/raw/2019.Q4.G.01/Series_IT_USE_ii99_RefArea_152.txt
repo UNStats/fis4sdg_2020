@@ -1,0 +1,19 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2000.0	16.60	Float					OSILAC, ECLAC.	['Internet users 5+ over the total population.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2001.0	19.10	Float					ITU estimate.	"[""Estimated based on surveys' results. Internet users 5+ over the total population.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2002.0	22.10	Float					ITU estimate.	"[""Estimated based on surveys' results. Internet users 5+ over the total population.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2003.0	25.47	Float					Ministerio de Planificación.	['Internet users 5+ over the total population.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2004.0	28.18	Float					ITU estimate.	"[""Estimated based on surveys' results. Population age 5+.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2005.0	31.18	Float					ITU estimate.	"[""Estimated based on surveys' results. Population age 5+.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2006.0	34.50	Float					Ministerio de Planificación.	['Population age 5+.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2007.0	35.90	Float					ITU estimate.	"[""Estimated based on surveys' results. Population age 5+.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2008.0	37.30	Float					ITU estimate.	"[""Estimated based on surveys' results. Population age 5+.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2009.0	41.56	Float					Ministerio de Planificación.	['Population age 5+.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2010.0	45.00	Float					ITU estimate.	"[""Estimated based on surveys' results. Population age 5+.""]"	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2011.0	52.25	Float					Ministerio Desarrollo Social	['Population age 5+.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2012.0	55.05	Float					ITU  estimate.	['']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2013.0	58.00	Float					Ministerio Desarrollo Social	['Population age 5+.']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2014.0	61.11	Float					ITU estimate.	['']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2015.0	76.63	Float					Undersecretariat of Telecommunications	['']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2016.0	82.33	Float					ITU Estimate2.	['']	NA	PER_100_POP
+IT_USE_ii99	Internet users per 100 inhabitants	152	Chile	2017.0	82.33	Float					Subsecretaría de Telecomunicaciones	['older than 15 years']	NA	PER_100_POP

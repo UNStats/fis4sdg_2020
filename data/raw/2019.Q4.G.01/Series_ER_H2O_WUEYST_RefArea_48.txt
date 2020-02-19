@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+ER_H2O_WUEYST	Water Use Efficiency (United States dollars per cubic meter)	48	Bahrain	2000.0	NA	String					Food and Agriculture Organisation of United Nations (FAO)	['NA = A figure was not provided.']	NA	USD/m3	G
+ER_H2O_WUEYST	Water Use Efficiency (United States dollars per cubic meter)	48	Bahrain	2005.0	NA	String					Food and Agriculture Organisation of United Nations (FAO)	['NA = A figure was not provided.']	NA	USD/m3	G
+ER_H2O_WUEYST	Water Use Efficiency (United States dollars per cubic meter)	48	Bahrain	2010.0	NA	String					Food and Agriculture Organisation of United Nations (FAO)	['NA = A figure was not provided.']	NA	USD/m3	G
+ER_H2O_WUEYST	Water Use Efficiency (United States dollars per cubic meter)	48	Bahrain	2015.0	73.3	Float					Food and Agriculture Organisation of United Nations (FAO)	['']	NA	USD/m3	G

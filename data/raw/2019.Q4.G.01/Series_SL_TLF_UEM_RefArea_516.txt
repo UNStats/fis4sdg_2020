@@ -1,0 +1,16 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2000.0	20.3	Float					ILOSTAT - LFS - Labour force survey	['Data reference period: September;']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2000.0	19.1	Float					ILOSTAT - LFS - Labour force survey	['Data reference period: September;']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2000.0	21.6	Float					ILOSTAT - LFS - Labour force survey	['Data reference period: September;']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	22.1	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	25.0	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	19.3	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	36.7	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	15-24	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	47.1	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	14.8	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	25+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	18.5	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	25+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	16.7	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2004.0	41.7	Float					ILOSTAT - LFS - Labour force survey	['Age coverage - maximum age: 69 years old']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2010.0	24.0	Float					ILOSTAT - HIES - Household income and expenditure survey	['']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2010.0	22.1	Float					ILOSTAT - HIES - Household income and expenditure survey	['']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	516	Namibia	2010.0	20.3	Float					ILOSTAT - HIES - Household income and expenditure survey	['']	C	PERCENT	15+	MALE	G

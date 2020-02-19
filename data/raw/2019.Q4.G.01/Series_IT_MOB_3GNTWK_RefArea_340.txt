@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	340	Honduras	2012.0	66.76	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	340	Honduras	2013.0	75.84	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	340	Honduras	2014.0	79.79	Float					Comisión Nacional de Telecomunicaciones (CONATEL)	['']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	340	Honduras	2015.0	83.12	Float					Comisión Nacional de Telecomunicaciones (CONATEL)	['']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	340	Honduras	2016.0	61.28	Float					Comisión Nacional de Telecomunicaciones (CONATEL)	['Break in series: better estimation based on an urban/rural disaggregation of towns.']	NA	PERCENT	G
+IT_MOB_3GNTWK	Proportion of population covered by at least a 3G mobile network (%)	340	Honduras	2017.0	76.78	Float					Comisión Nacional de Telecomunicaciones (CONATEL)	['Estimated based on coverage maps from operators.']	NA	PERCENT	G
