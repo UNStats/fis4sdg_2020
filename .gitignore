@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# In this project we do not exclude data from source control, only intermim data
+/data/
+
+# exclude __pycache__
+__pycache__/
+
+# exclude test scripts:
+test_*.py
