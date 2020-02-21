@@ -1,0 +1,311 @@
+level	parentCode	parentName	geoAreaCode	geoAreaName	type	X	Y	ISO3	UN_Member	Country_Profile
+1			1	World	Region					
+2	1	World	10	Antarctica	Country	21.47585697	-80.40897662	ATA	0	1
+2	1	World	2	Africa	Region					
+3	2	Africa	15	Northern Africa	Region					
+4	15	Northern Africa	12	Algeria	Country	2.678164227	28.15940032	DZA	1	1
+4	15	Northern Africa	818	Egypt	Country	29.77468534	26.57438204	EGY	1	1
+4	15	Northern Africa	434	Libya	Country	18.0295985	27.04042819	LBY	1	1
+4	15	Northern Africa	504	Morocco	Country	-6.281942841	31.8440131	MAR	1	1
+4	15	Northern Africa	729	Sudan	Country	29.95650159	16.02643066	SDN	0	1
+4	15	Northern Africa	788	Tunisia	Country	9.572737411	34.11439971	TUN	1	1
+4	15	Northern Africa	732	Western Sahara	Country	-13.13515523	24.66265342	ESH	0	1
+3	2	Africa	202	Sub-Saharan Africa	Region					
+4	202	Sub-Saharan Africa	14	Eastern Africa	Region					
+5	14	Eastern Africa	86	British Indian Ocean Territory	Country	72.38715553	-7.299281071	IOT	0	1
+5	14	Eastern Africa	108	Burundi	Country	29.89080992	-3.366387428	BDI	1	1
+5	14	Eastern Africa	174	Comoros	Country	43.34234565	-11.66121732	COM	1	1
+5	14	Eastern Africa	262	Djibouti	Country	42.18274707	11.56004161	DJI	1	1
+5	14	Eastern Africa	232	Eritrea	Country	38.11074289	16.12894644	ERI	1	1
+5	14	Eastern Africa	231	Ethiopia	Country	39.63505296	8.631223181	ETH	1	1
+5	14	Eastern Africa	260	French Southern Territories	Country	69.64849091	-49.6068576	ATF	0	1
+5	14	Eastern Africa	404	Kenya	Country	37.86096816	0.534797278	KEN	1	1
+5	14	Eastern Africa	450	Madagascar	Country	46.6982339	-19.38514785	MDG	1	1
+5	14	Eastern Africa	454	Malawi	Country	33.4884625	-13.40819859	MWI	1	1
+5	14	Eastern Africa	480	Mauritius	Country	57.568022	-20.28581998	MUS	1	1
+5	14	Eastern Africa	175	Mayotte	Country	45.14015057	-12.82217691	MYT	0	1
+5	14	Eastern Africa	508	Mozambique	Country	38.18479941	-14.27963886	MOZ	1	1
+5	14	Eastern Africa	638	Réunion	Country	55.53171398	-21.13183266	REU	0	1
+5	14	Eastern Africa	646	Rwanda	Country	29.92310194	-1.999842114	RWA	1	1
+5	14	Eastern Africa	690	Seychelles	Country	55.46561591	-4.678053059	SYC	1	1
+5	14	Eastern Africa	706	Somalia	Country	46.20367477	4.406485729	SOM	1	1
+5	14	Eastern Africa	728	South Sudan	Country	30.32618773	7.290839152	SSD	1	1
+5	14	Eastern Africa	834	United Republic of Tanzania	Country	34.80521182	-6.265332606	TZA	1	1
+5	14	Eastern Africa	800	Uganda	Country	32.39100438	1.279557331	UGA	1	1
+5	14	Eastern Africa	894	Zambia	Country	27.850329	-14.59701056	ZMB	1	1
+5	14	Eastern Africa	716	Zimbabwe	Country	29.86909584	-19.00075492	ZWE	1	1
+5	14	Eastern Africa	736	Sudan [former]	Country					
+4	202	Sub-Saharan Africa	17	Middle Africa	Region					
+5	17	Middle Africa	24	Angola	Country	17.57817062	-12.33724746	AGO	1	1
+5	17	Middle Africa	120	Cameroon	Country	12.7419827	5.692387031	CMR	1	1
+5	17	Middle Africa	140	Central African Republic	Country	20.93559492	7.003720791	CAF	1	1
+5	17	Middle Africa	148	Chad	Country	18.66618401	15.36279341	TCD	1	1
+5	17	Middle Africa	180	Democratic Republic of the Congo	Country	23.65496507	-2.877154732	COD	1	1
+5	17	Middle Africa	226	Equatorial Guinea	Country	10.46535826	1.565792376	GNQ	1	1
+5	17	Middle Africa	266	Gabon	Country	11.78727747	-0.60687619	GAB	1	1
+5	17	Middle Africa	678	Sao Tome and Principe	Country	6.609772265	0.241554875	STP	1	1
+4	202	Sub-Saharan Africa	18	Southern Africa	Region					
+5	18	Southern Africa	72	Botswana	Country	23.81380223	-22.18810073	BWA	1	1
+5	18	Southern Africa	426	Lesotho	Country	28.25362195	-29.58041814	LSO	1	1
+5	18	Southern Africa	516	Namibia	Country	17.21907885	-22.13817068	NAM	1	1
+5	18	Southern Africa	710	South Africa	Country	24.67184355	-29.99957544	ZAF	1	1
+5	18	Southern Africa	748	Eswatini	Country	31.50149288	-26.56471011	SWZ	1	1
+4	202	Sub-Saharan Africa	11	Western Africa	Region					
+5	11	Western Africa	204	Benin	Country	2.339933594	9.65401646	BEN	1	1
+5	11	Western Africa	854	Burkina Faso	Country	-1.742843829	12.27491081	BFA	1	1
+5	11	Western Africa	132	Cabo Verde	Country	-23.63544151	15.07791834	CPV	1	1
+5	11	Western Africa	178	Congo	Country	15.22052612	-0.840544119	COG	1	1
+5	11	Western Africa	384	Côte d'Ivoire	Country	-5.552690016	7.62211586	CIV	1	1
+5	11	Western Africa	270	Gambia	Country	-15.39944785	13.45295927	GMB	1	1
+5	11	Western Africa	288	Ghana	Country	-1.205623522	7.964825185	GHA	1	1
+5	11	Western Africa	324	Guinea	Country	-11.28173419	11.00210343	GIN	1	1
+5	11	Western Africa	624	Guinea-Bissau	Country	-14.40182514	12.11760394	GNB	1	1
+5	11	Western Africa	430	Liberia	Country	-9.311879038	6.448381009	LBR	1	1
+5	11	Western Africa	466	Mali	Country	-3.522016039	17.35311254	MLI	1	1
+5	11	Western Africa	478	Mauritania	Country	-10.33187259	20.26089546	MRT	1	1
+5	11	Western Africa	562	Niger	Country	9.400167877	17.42143036	NER	1	1
+5	11	Western Africa	566	Nigeria	Country	8.097363256	9.585789025	NGA	1	1
+5	11	Western Africa	654	Saint Helena	Country	-5.705752501	-15.96503946	SHN	0	1
+5	11	Western Africa	686	Senegal	Country	-14.46636926	14.35920905	SEN	1	1
+5	11	Western Africa	694	Sierra Leone	Country	-11.78306584	8.568604164	SLE	1	1
+5	11	Western Africa	768	Togo	Country	0.97835765	8.532096072	TGO	1	1
+2	1	World	19	Americas	Region					
+3	19	Americas	419	Latin America and the Caribbean	Region					
+4	419	Latin America and the Caribbean	29	Caribbean	Region					
+5	29	Caribbean	660	Anguilla	Country	-63.05651612	18.21525315	AIA	0	1
+5	29	Caribbean	28	Antigua and Barbuda	Country	-61.7999755	17.07761471	ATG	1	1
+5	29	Caribbean	533	Aruba	Country	-69.97050586	12.50878756	ABW	0	1
+5	29	Caribbean	44	Bahamas	Country	-78.05111663	24.69546597	BHS	1	1
+5	29	Caribbean	52	Barbados	Country	-59.5346489	13.13648273	BRB	1	1
+5	29	Caribbean	92	British Virgin Islands	Country	-64.63294223	18.42256578	VGB	0	1
+5	29	Caribbean	136	Cayman Islands	Country	-81.16740559	19.32266656	CYM	0	1
+5	29	Caribbean	192	Cuba	Country	-79.54460144	22.10030366	CUB	1	1
+5	29	Caribbean	212	Dominica	Country	-61.3493756	15.43391378	DMA	1	1
+5	29	Caribbean	214	Dominican Republic	Country	-70.49847576	18.89832088	DOM	1	1
+5	29	Caribbean	308	Grenada	Country	-61.68248568	12.11238395	GRD	1	1
+5	29	Caribbean	312	Guadeloupe	Country	-61.64762115	16.14416917	GLP	0	1
+5	29	Caribbean	332	Haiti	Country	-72.33640958	18.40426539	HTI	1	1
+5	29	Caribbean	388	Jamaica	Country	-77.31068409	18.15616857	JAM	1	1
+5	29	Caribbean	474	Martinique	Country	-60.91544135	14.56086108	MTQ	0	1
+5	29	Caribbean	500	Montserrat	Country	-62.19261223	16.73558313	MSR	0	1
+5	29	Caribbean	530	Netherlands Antilles	Country	-68.30676179	12.22720635	ANT	0	1
+5	29	Caribbean	630	Puerto Rico	Country	-66.47591017	18.22753799	PRI	0	1
+5	29	Caribbean	659	Saint Kitts and Nevis	Country	-62.76628613	17.33994219	KNA	1	1
+5	29	Caribbean	662	Saint Lucia	Country	-60.96529553	13.89405601	LCA	1	1
+5	29	Caribbean	780	Trinidad and Tobago	Country	-61.29389504	10.41877263	TTO	1	1
+5	29	Caribbean	796	Turks and Caicos Islands	Country	-71.745121	21.80780585	TCA	0	1
+5	29	Caribbean	535	Bonaire, Sint Eustatius and Saba	Country					
+5	29	Caribbean	531	Curaçao	Country	-68.95033464	12.15058042	CUW	0	1
+5	29	Caribbean	652	Saint Barthélemy	Country	-62.83173536	17.89513362	BLM	0	1
+5	29	Caribbean	663	Saint Martin (French Part)	Country	-63.04505461	18.0882685	MAF	0	1
+5	29	Caribbean	670	Saint Vincent and the Grenadines	Country	-61.19024321	13.24627968	VCT	1	1
+5	29	Caribbean	534	Sint Maarten (Dutch part)	Country	-63.06198692	18.03926508	SXM	0	1
+5	29	Caribbean	850	United States Virgin Islands	Country	-64.76960113	17.73297693	VIR	0	1
+4	419	Latin America and the Caribbean	13	Central America	Region					
+5	13	Central America	84	Belize	Country	-88.70199554	17.19965901	BLZ	1	1
+5	13	Central America	188	Costa Rica	Country	-84.19712782	9.970998683	CRI	1	1
+5	13	Central America	222	El Salvador	Country	-88.86862995	13.73603564	SLV	1	1
+5	13	Central America	320	Guatemala	Country	-91.2312746	15.00273719	GTM	1	1
+5	13	Central America	340	Honduras	Country	-86.59974381	14.82243161	HND	1	1
+5	13	Central America	484	Mexico	Country	-102.5148166	23.93378032	MEX	1	1
+5	13	Central America	558	Nicaragua	Country	-85.03060315	12.84210839	NIC	1	1
+5	13	Central America	591	Panama	Country	-81.26616623	8.450965746	PAN	1	1
+4	419	Latin America and the Caribbean	5	South America	Region					
+5	5	South America	32	Argentina	Country	-65.14563274	-35.19446255	ARG	1	1
+5	5	South America	68	Bolivia (Plurinational State of)	Country	-64.66224284	-16.71273412	BOL	1	1
+5	5	South America	74	Bouvet Island	Country	3.410732868	-54.43295905	BVT	0	1
+5	5	South America	76	Brazil	Country	-53.08432878	-10.77668561	BRA	1	1
+5	5	South America	152	Chile	Country	-71.23029019	-35.2652885	CHL	1	1
+5	5	South America	170	Colombia	Country	-73.07446751	3.888209046	COL	1	1
+5	5	South America	218	Ecuador	Country	-78.37005241	-1.447785891	ECU	1	1
+5	5	South America	238	Falkland Islands (Malvinas)	Country	-58.75246778	-51.74562601	FLK	0	1
+5	5	South America	254	French Guiana	Country	-53.23619089	3.922673437	GUF	0	1
+5	5	South America	328	Guyana	Country	-58.97322037	4.788012784	GUY	1	1
+5	5	South America	600	Paraguay	Country	-60.54854225	-21.70216237	PRY	1	1
+5	5	South America	604	Peru	Country	-71.82093277	-13.58939705	PER	1	1
+5	5	South America	239	South Georgia and the South Sandwich Islands	Country	-36.90662765	-54.20736749	SGS	0	1
+5	5	South America	740	Suriname	Country	-55.90626394	4.132603197	SUR	1	1
+5	5	South America	858	Uruguay	Country	-56.01387025	-32.8002838	URY	1	1
+5	5	South America	862	Venezuela (Bolivarian Republic of)	Country	-66.15642084	7.121324748	VEN	1	1
+3	19	Americas	21	Northern America	Region					
+4	21	Northern America	60	Bermuda	Country	-64.78155012	32.27881922	BMU	0	1
+4	21	Northern America	124	Canada	Country	-101.6575058	57.72360191	CAN	1	1
+4	21	Northern America	304	Greenland	Country	-41.39371316	74.75625681	GRL	0	1
+4	21	Northern America	666	Saint Pierre and Miquelon	Country	-56.33682442	46.85812735	SPM	0	1
+4	21	Northern America	840	United States of America	Country	-99.13830311	39.5277871	USA	1	1
+2	1	World	150	Europe	Region					
+3	150	Europe	151	Eastern Europe	Region					
+4	151	Eastern Europe	112	Belarus	Country	28.04940161	53.54193075	BLR	1	1
+4	151	Eastern Europe	100	Bulgaria	Country	25.23763153	42.75731323	BGR	1	1
+4	151	Eastern Europe	203	Czechia	Country	15.33151382	49.73913871	CZE	1	1
+4	151	Eastern Europe	348	Hungary	Country	19.41221519	47.1651448	HUN	1	1
+4	151	Eastern Europe	498	Republic of Moldova	Country	28.4650624	47.20236795	MDA	1	1
+4	151	Eastern Europe	616	Poland	Country	19.40660158	52.1226733	POL	1	1
+4	151	Eastern Europe	642	Romania	Country	24.98481009	45.83893563	ROU	1	1
+4	151	Eastern Europe	643	Russian Federation	Country	99.01404926	61.61899849	RUS	1	1
+4	151	Eastern Europe	703	Slovakia	Country	19.48495604	48.70741446	SVK	1	1
+4	151	Eastern Europe	804	Ukraine	Country	31.40270802	49.00735945	UKR	1	1
+4	151	Eastern Europe	412	Kosovo	Country					
+3	150	Europe	154	Northern Europe	Region					
+4	154	Northern Europe	248	Åland Islands	Country	19.80945969	60.1544901	ALA	0	1
+4	154	Northern Europe	208	Denmark	Country	9.326571283	56.03829721	DNK	1	1
+4	154	Northern Europe	233	Estonia	Country	25.84093481	58.68487172	EST	1	1
+4	154	Northern Europe	234	Faroe Islands	Country	-7.122044325	62.21228119	FRO	0	1
+4	154	Northern Europe	246	Finland	Country	23.308447	61.91586738	FIN	1	1
+4	154	Northern Europe	352	Iceland	Country	-19.02116966	64.79134763	ISL	1	1
+4	154	Northern Europe	372	Ireland	Country	-7.121425272	53.25274054	IRL	1	1
+4	154	Northern Europe	833	Isle of Man	Country	-4.538190305	54.22880901	IMN	0	1
+4	154	Northern Europe	428	Latvia	Country	26.42461876	56.64196636	LVA	1	1
+4	154	Northern Europe	440	Lithuania	Country	23.90517807	55.33680309	LTU	1	1
+4	154	Northern Europe	578	Norway	Country	11.47846389	61.34311134	NOR	1	1
+4	154	Northern Europe	744	Svalbard and Jan Mayen Islands	Country	13.38071013	78.82894131	SJM	0	1
+4	154	Northern Europe	752	Sweden	Country	14.3775338	60.60103109	SWE	1	1
+4	154	Northern Europe	826	United Kingdom of Great Britain and Northern Ireland	Country	-2.23830539	53.27691757	GBR	1	1
+4	154	Northern Europe	830	Channel Islands	Region					
+5	830	Channel Islands	831	Guernsey	Country	-2.200712402	49.71561166	GGY	0	1
+5	830	Channel Islands	832	Jersey	Country	-2.136773508	49.22353354	JEY	0	1
+5	830	Channel Islands	680	Sark	Country					
+4	154	Northern Europe	827	United Kingdom (England and Wales)	Country					
+4	154	Northern Europe	828	United Kingdom (Northern Ireland)	Country					
+4	154	Northern Europe	829	United Kingdom (Scotland)	Country					
+3	150	Europe	39	Southern Europe	Region					
+4	39	Southern Europe	8	Albania	Country	20.06660928	41.13897007	ALB	1	1
+4	39	Southern Europe	20	Andorra	Country	1.576257417	42.54548611	AND	1	1
+4	39	Southern Europe	70	Bosnia and Herzegovina	Country	17.78584332	44.16845548	BIH	1	1
+4	39	Southern Europe	191	Croatia	Country	17.95874553	45.45172212	HRV	1	1
+4	39	Southern Europe	292	Gibraltar	Country	-5.347561686	36.13895036	GIB	0	1
+4	39	Southern Europe	300	Greece	Country	22.58307827	39.47301873	GRC	1	1
+4	39	Southern Europe	336	Holy See	Country	12.45315803	41.90343751	VAT	0	1
+4	39	Southern Europe	380	Italy	Country	12.57022427	42.79917282	ITA	1	1
+4	39	Southern Europe	807	North Macedonia	Country	21.7007909	41.60048068	MKD	1	1
+4	39	Southern Europe	470	Malta	Country	14.44617519	35.89194275	MLT	1	1
+4	39	Southern Europe	499	Montenegro	Country	19.25214024	42.78717043	MNE	1	1
+4	39	Southern Europe	620	Portugal	Country	-7.961599811	39.68509315	PRT	1	1
+4	39	Southern Europe	674	San Marino	Country	12.46329038	43.93841766	SMR	1	1
+4	39	Southern Europe	688	Serbia	Country	20.805876	44.03145697	SRB	1	1
+4	39	Southern Europe	705	Slovenia	Country	14.82209486	46.11958061	SVN	1	1
+4	39	Southern Europe	724	Spain	Country	-3.554078296	40.39211472	ESP	1	1
+4	39	Southern Europe	891	Serbia and Montenegro [former]	Country					
+3	150	Europe	155	Western Europe	Region					
+4	155	Western Europe	40	Austria	Country	14.14172472	47.58704857	AUT	1	1
+4	155	Western Europe	56	Belgium	Country	4.660976456	50.64104975	BEL	1	1
+4	155	Western Europe	250	France	Country	2.457288129	46.62660861	FRA	1	1
+4	155	Western Europe	276	Germany	Country	10.3806066	51.08862743	DEU	1	1
+4	155	Western Europe	438	Liechtenstein	Country	9.552985019	47.14167005	LIE	1	1
+4	155	Western Europe	442	Luxembourg	Country	6.092656563	49.77679538	LUX	1	1
+4	155	Western Europe	492	Monaco	Country	7.424214814	43.73532918	MCO	1	1
+4	155	Western Europe	528	Netherlands	Country	5.331480568	51.86728884	NLD	1	1
+4	155	Western Europe	756	Switzerland	Country	8.223158	46.96617097	CHE	1	1
+2	1	World	142	Asia	Region					
+3	142	Asia	143	Central Asia	Region					
+4	143	Central Asia	398	Kazakhstan	Country	66.65359159	48.01963494	KAZ	1	1
+4	143	Central Asia	417	Kyrgyzstan	Country	74.52324839	41.46204516	KGZ	1	1
+4	143	Central Asia	762	Tajikistan	Country	69.294998	38.43069666	TJK	1	1
+4	143	Central Asia	795	Turkmenistan	Country	58.9787665	40.0912346	TKM	1	1
+4	143	Central Asia	860	Uzbekistan	Country	63.11944558	41.77560518	UZB	1	1
+3	142	Asia	30	Eastern Asia	Region					
+4	30	Eastern Asia	156	China	Country	104.1403375	32.30955217	CHN	1	1
+4	30	Eastern Asia	344	China, Hong Kong Special Administrative Region	Country	114.0266445	22.41749934	HKG	0	1
+4	30	Eastern Asia	446	China, Macao Special Administrative Region	Country	113.5665388	22.1237259	MAC	0	1
+4	30	Eastern Asia	392	Japan	Country	139.2716103	36.6554539	JPN	1	1
+4	30	Eastern Asia	408	Democratic People's Republic of Korea	Country	127.1803633	40.1462645	PRK	1	1
+4	30	Eastern Asia	410	Republic of Korea	Country	127.8610254	36.45201023	KOR	1	1
+4	30	Eastern Asia	496	Mongolia	Country	103.0728057	46.83892054	MNG	1	1
+4	30	Eastern Asia	158	Other non-specified areas	Country					
+3	142	Asia	35	South-Eastern Asia	Region					
+4	35	South-Eastern Asia	96	Brunei Darussalam	Country	114.6288563	4.49736984	BRN	1	1
+4	35	South-Eastern Asia	116	Cambodia	Country	104.922836	12.71163737	KHM	1	1
+4	35	South-Eastern Asia	360	Indonesia	Country	113.9174	-0.994582204	IDN	1	1
+4	35	South-Eastern Asia	418	Lao People's Democratic Republic	Country	101.9901968	20.27482773	LAO	1	1
+4	35	South-Eastern Asia	458	Malaysia	Country	116.8346314	5.452415309	MYS	1	1
+4	35	South-Eastern Asia	104	Myanmar	Country	96.51752295	21.19332882	MMR	1	1
+4	35	South-Eastern Asia	608	Philippines	Country	120.8601418	14.16591706	PHL	1	1
+4	35	South-Eastern Asia	702	Singapore	Country	103.8107883	1.361009155	SGP	1	1
+4	35	South-Eastern Asia	764	Thailand	Country	101.0202951	15.13089239	THA	1	1
+4	35	South-Eastern Asia	626	Timor-Leste	Country	125.9451052	-8.797497247	TLS	1	1
+4	35	South-Eastern Asia	704	Viet Nam	Country	105.802499	10.09643079	VNM	1	1
+3	142	Asia	34	Southern Asia	Region					
+4	34	Southern Asia	4	Afghanistan	Country	66.02688198	33.83160199	AFG	1	1
+4	34	Southern Asia	50	Bangladesh	Country	89.17660788	22.86961622	BGD	1	1
+4	34	Southern Asia	64	Bhutan	Country	90.45098484	27.39598568	BTN	1	1
+4	34	Southern Asia	356	India	Country	79.3608464	22.34642074	IND	1	1
+4	34	Southern Asia	364	Iran (Islamic Republic of)	Country	54.19766348	32.74370885	IRN	1	1
+4	34	Southern Asia	462	Maldives	Country	73.09672546	-0.614385021	MDV	1	1
+4	34	Southern Asia	524	Nepal	Country	83.94678863	28.25866332	NPL	1	1
+4	34	Southern Asia	586	Pakistan	Country	68.80479684	29.36491634	PAK	1	1
+4	34	Southern Asia	144	Sri Lanka	Country	80.70489654	7.614693343	LKA	1	1
+3	142	Asia	145	Western Asia	Region					
+4	145	Western Asia	51	Armenia	Country	44.93839317	40.29499741	ARM	1	1
+4	145	Western Asia	31	Azerbaijan	Country	50.01064725	40.39229544	AZE	1	1
+4	145	Western Asia	48	Bahrain	Country	50.5490754	26.04407747	BHR	1	1
+4	145	Western Asia	196	Cyprus	Country	33.22285964	35.05659437	CYP	1	1
+4	145	Western Asia	268	Georgia	Country	43.3713615	42.04813028	GEO	1	1
+4	145	Western Asia	368	Iraq	Country	43.76606267	33.05013795	IRQ	1	1
+4	145	Western Asia	376	Israel	Country	34.62277992	31.06164552	ISR	1	1
+4	145	Western Asia	400	Jordan	Country	37.13024774	30.65365973	JOR	1	1
+4	145	Western Asia	414	Kuwait	Country	47.49305029	29.53949468	KWT	1	1
+4	145	Western Asia	422	Lebanon	Country	35.89391711	33.92152458	LBN	1	1
+4	145	Western Asia	512	Oman	Country	57.87743482	21.98805614	OMN	1	1
+4	145	Western Asia	275	State of Palestine	Country	35.25694122	31.94347933	PSE	0	1
+4	145	Western Asia	634	Qatar	Country	51.19152467	25.28355379	QAT	1	1
+4	145	Western Asia	682	Saudi Arabia	Country	44.54763347	24.12594211	SAU	1	1
+4	145	Western Asia	760	Syrian Arab Republic	Country	38.50466565	35.01676176	SYR	1	1
+4	145	Western Asia	792	Turkey	Country	35.42890329	38.9899684	TUR	1	1
+4	145	Western Asia	784	United Arab Emirates	Country	53.98279159	23.43322219	ARE	1	1
+4	145	Western Asia	887	Yemen	Country	45.22389143	15.22242099	YEM	1	1
+4	145	Western Asia	369	Iraq (Central Iraq)	Country					
+4	145	Western Asia	370	Iraq (Kurdistan Region)	Country					
+3	142	Asia	223	Eastern Asia (excluding Japan and China)	Region					
+2	1	World	9	Oceania	Region					
+3	9	Oceania	53	Australia and New Zealand	Region					
+4	53	Australia and New Zealand	36	Australia	Country	134.3499412	-25.57717202	AUS	1	1
+4	53	Australia and New Zealand	162	Christmas Island	Country	105.6426067	-10.4882473	CXR	0	1
+4	53	Australia and New Zealand	166	Cocos (Keeling) Islands	Country	96.82633757	-12.18600682	CCK	0	1
+4	53	Australia and New Zealand	334	Heard Island and McDonald Islands	Country	73.52633626	-53.09106147	HMD	0	1
+4	53	Australia and New Zealand	554	New Zealand	Country	170.4755673	-43.98721568	NZL	1	1
+4	53	Australia and New Zealand	574	Norfolk Island	Country	167.9515548	-29.03230018	NFK	0	1
+3	9	Oceania	54	Melanesia	Region					
+4	54	Melanesia	242	Fiji	Country	177.9660884	-17.83301566	FJI	1	1
+4	54	Melanesia	540	New Caledonia	Country	165.5067368	-21.41742531	NCL	0	1
+4	54	Melanesia	598	Papua New Guinea	Country	145.8587761	-6.756057077	PNG	1	1
+4	54	Melanesia	90	Solomon Islands	Country	160.1584117	-9.622391719	SLB	1	1
+4	54	Melanesia	548	Vanuatu	Country	167.0679779	-15.34445547	VUT	1	1
+3	9	Oceania	57	Micronesia	Region					
+4	57	Micronesia	316	Guam	Country	144.7029305	13.35485404	GUM	0	1
+4	57	Micronesia	296	Kiribati	Country	-157.5643005	1.768837732	KIR	1	1
+4	57	Micronesia	584	Marshall Islands	Country	171.0839119	7.110213497	MHL	1	1
+4	57	Micronesia	583	Micronesia (Federated States of)	Country	158.225216	6.880670092	FSM	1	1
+4	57	Micronesia	520	Nauru	Country	166.92313	-0.528742623	NRU	1	1
+4	57	Micronesia	580	Northern Mariana Islands	Country	145.7582114	15.19099517	MNP	0	1
+4	57	Micronesia	585	Palau	Country	134.5733878	7.502307591	PLW	1	1
+4	57	Micronesia	581	United States Minor Outlying Islands	Country	-162.4343752	5.874443968	UMI	0	1
+3	9	Oceania	61	Polynesia	Region					
+4	61	Polynesia	16	American Samoa	Country	-170.7187269	-14.30587306	ASM	0	1
+4	61	Polynesia	184	Cook Islands	Country	-159.7711391	-21.22696458	COK	0	1
+4	61	Polynesia	258	French Polynesia	Country	-149.4052367	-17.67709294	PYF	0	1
+4	61	Polynesia	570	Niue	Country	-169.8601693	-19.05000475	NIU	0	1
+4	61	Polynesia	612	Pitcairn	Country	-128.3225873	-24.37538456	PCN	0	1
+4	61	Polynesia	882	Samoa	Country	-172.4430749	-13.61541469	WSM	1	1
+4	61	Polynesia	772	Tokelau	Country	-171.8154473	-9.214545558	TKL	0	1
+4	61	Polynesia	776	Tonga	Country	-175.1959991	-21.19511329	TON	1	1
+4	61	Polynesia	798	Tuvalu	Country	178.6679611	-7.460048071	TUV	1	1
+4	61	Polynesia	876	Wallis and Futuna Islands	Country	-176.2034788	-13.28471201	WLF	0	1
+3	9	Oceania	543	Oceania (exc. Australia and New Zealand)	Region					
+2	1	World	62	Central and Southern Asia	Region					
+2	1	World	513	Europe and Northern America	Region					
+2	1	World	747	Northern Africa and Western Asia	Region					
+2	1	World	753	Eastern and South-Eastern Asia	Region					
+1			910	High income economies (WB)	Group					
+1			911	Low income economies (WB)	Group					
+1			912	Lower middle economies (WB)	Group					
+1			913	Low and middle income economies (WB)	Group					
+1			914	Upper middle economies (WB)	Group					
+1			135	Caucasus and Central Asia	Group					
+1			127	Southern Asia (excluding India)	Group					
+1			199	Least Developed Countries (LDC)	Group					
+1			485	Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)	Group					
+1			514	Developed Regions	Group					
+1			515	Developing Regions	Group					
+1			518	Eastern Asia (excluding Japan)	Group					
+1			738	Sub-Saharan Africa (inc. Sudan)	Group					
+1			746	Northern Africa (exc. Sudan)	Group					

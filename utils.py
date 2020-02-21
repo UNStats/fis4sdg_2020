@@ -40,7 +40,7 @@ def numeric_part(value):
         return None
 
 
-def tsv2dictlist(file, newline='', encoding='latin-1'):
+def tsv2dictlist(file, newline='', encoding='utf-8'):
     '''Read a tab-delimited file and convert each record to a dictionary
     '''
     dictList = []
@@ -148,7 +148,7 @@ def subdict_list(dict_list, keys_list, exclude=False):
     return sub_d_list
 
 
-def select_dict(dict_list, d_kv):
+def select_dict(dict_list, d_kv, keep=True):
     '''Get all the dictionaries in a list that have a specific set of key-value pairs.
        d_kv is a dictionary of key-value pairs
     '''
@@ -158,9 +158,12 @@ def select_dict(dict_list, d_kv):
         value_list = list(d_kv.values())
 
         subdict = {k: d[k] for k in keys_list}
-
-        if list(subdict.values()) == value_list:
-            selected.append(d)
+        if keep:
+            if list(subdict.values()) == value_list:
+                selected.append(d)
+        else:
+            if list(subdict.values()) != value_list:
+                selected.append(d)
     return selected
 
 

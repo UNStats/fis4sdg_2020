@@ -203,3 +203,15 @@ def build_sdg_tree_metadata(framework_file, goals_sheet, targets_sheet, indicato
         
     return framework['goals']
     
+def series_catalog(sdg_metadata):
+    ''' Produce the list of series included in a geneal metadeata file
+    '''
+    series = []
+    for g in sdg_metadata:
+        for t in g['targets']:
+            for i in t['indicators']:
+                if 'series' in i.keys():
+                    for s in i['series']:
+                        series.append(s['code'])
+    return list(set(series))
+    
