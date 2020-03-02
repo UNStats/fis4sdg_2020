@@ -45,7 +45,7 @@ for gm in geo_missing:
 # Merge coordinates and list of geographic areas
 # ---------------------------------------------
 
-xy_geo = utils.tsv2dictlist('data/geography/refAreas.txt')
+xy_geo = utils.tsv2dictlist('data/geography/refAreas.txt', encoding='latin-1')
 
 geo = utils.merge_dict_lists(geo, xy_geo, ['geoAreaCode'], ['M49'], how='left')
 
