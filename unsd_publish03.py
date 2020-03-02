@@ -49,6 +49,6 @@ xy_geo = utils.tsv2dictlist('data/geography/refAreas.txt')
 
 geo = utils.merge_dict_lists(geo, xy_geo, ['geoAreaCode'], ['M49'], how='left')
 
-geo = utils.subdict_list(geo, ['M49','areaName'], exclude=True)
+geo = utils.subdict_list(geo, ['M49', 'areaName'], exclude=True)
 
 utils.dictList2tsv(geo, 'data/geography/geo_tree.txt')

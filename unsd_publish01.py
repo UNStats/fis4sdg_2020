@@ -48,6 +48,3 @@ edit_tags = utils.query_yes_no("Do you want to edit the tags template?")
 
 if edit_tags:
     sys.exit('Run this script again after editing the tags template')
-    
-
-

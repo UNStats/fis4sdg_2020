@@ -17,7 +17,7 @@ def camel_case(st):
 
 
 def numeric_part(value):
-    ''' Extract numberic part of a data value
+    ''' Extract numberic part of a data value.
 
     The regular expression to capture numeric values (including those in scientific notation) is:
     -?      # an optional -
