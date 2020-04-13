@@ -23,7 +23,7 @@ for s in series_list:
     # if s != 'EG_ELC_ACCS':
     #    continue
 
-    file_ts = 'data/interim/' + release + '/time_series/Series_' + s + '.txt'
+    file_ts = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
     file_data = 'data/interim/' + release + '/series/Series_' + s + '.txt'
 
     x = utils.tsv2dictlist(file_ts)
@@ -52,7 +52,7 @@ for s in series_list:
 
     xy = utils.subdict_list(latest_year, ['max_year'], exclude=True)
 
-    outputfile = 'data/interim/' + release + '/latest_data/Series_' + s + '.txt'
+    outputfile = 'data/interim/' + release + '/latest_data/LatestDataPoints_' + s + '.txt'
 
     utils.dictList2tsv(xy, outputfile)
 

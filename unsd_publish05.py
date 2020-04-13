@@ -22,7 +22,7 @@ for s in series_list:
 
     ts = availability.available_time_series(s, release)
 
-    file_out = 'data/interim/' + release + '/time_series/Series_' + s + '.txt'
+    file_out = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
 
     utils.dictList2tsv(ts, file_out)
 
