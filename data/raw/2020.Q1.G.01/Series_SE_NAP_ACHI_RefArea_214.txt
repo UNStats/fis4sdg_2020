@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2015.0	0.415955367354856	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2015.0	0.705192578519525	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	214	Dominican Republic	2018.0	0.794288635918601	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

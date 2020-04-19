@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	780	Trinidad and Tobago	2006.0	0.728253903940771	Float					PIRLS 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	780	Trinidad and Tobago	2009.0	0.702419176246755	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	780	Trinidad and Tobago	2009.0	0.725407677169412	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	780	Trinidad and Tobago	2011.0	0.702066373065522	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	780	Trinidad and Tobago	2016.0	0.752374685024642	Float					PIRLS 2016	['']	C	Ratio	GRAD23	G	SKILL_READ

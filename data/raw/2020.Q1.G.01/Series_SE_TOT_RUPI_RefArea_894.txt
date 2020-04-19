@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	894	Zambia	2006.0	0.375	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	894	Zambia	2006.0	0.272727272727273	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	894	Zambia	2015.0	0.239367536790582	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	894	Zambia	2015.0	0.219017362638034	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

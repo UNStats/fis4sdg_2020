@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	807	North Macedonia	2000.0	1.15984421557007	Float					PISA 2000	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	807	North Macedonia	2000.0	1.15319133090962	Float					PISA 2000	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	807	North Macedonia	2001.0	0.388652074854321	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	807	North Macedonia	2006.0	0.63202206668705	Float					PIRLS 2006	['']	C	Ratio	GRAD23	G	SKILL_READ

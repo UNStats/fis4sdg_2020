@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	414	Kuwait	2001.0	0.980708466865274	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	414	Kuwait	2007.0	2.25546602506027	Float					TIMSS 2007	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	414	Kuwait	2015.0	0.624181177090104	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	414	Kuwait	2015.0	0.400602351758682	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

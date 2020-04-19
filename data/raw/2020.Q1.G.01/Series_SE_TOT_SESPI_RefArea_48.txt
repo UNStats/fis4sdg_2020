@@ -1,0 +1,8 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2003.0	0.238016417071374	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2007.0	0.431401550584725	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2011.0	0.432315805302373	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2011.0	0.460523295005391	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2015.0	0.692937914979592	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2015.0	0.664754233610643	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	48	Bahrain	2016.0	0.720807003912635	Float					PIRLS 2016	['']	C	Ratio	GRAD23	G	SKILL_READ

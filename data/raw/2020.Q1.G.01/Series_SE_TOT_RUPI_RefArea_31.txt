@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	31	Azerbaijan	2006.0	0.480050098067884	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	31	Azerbaijan	2006.0	1.00993388787443	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	31	Azerbaijan	2009.0	0.976805215441942	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	31	Azerbaijan	2009.0	0.528490585305366	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	31	Azerbaijan	2011.0	0.931771899245239	Float					PIRLS 2011	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	31	Azerbaijan	2016.0	0.720126458174113	Float					PIRLS 2016	['']	C	Ratio	PRIMAR	G	SKILL_READ

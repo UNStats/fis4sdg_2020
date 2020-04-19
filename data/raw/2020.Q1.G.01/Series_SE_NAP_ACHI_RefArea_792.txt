@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2001.0	1.33907746612385	Float					PIRLS 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2006.0	0.92465207679893	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2009.0	1.07202704752342	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2011.0	0.877706998108207	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2012.0	0.818904942580503	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2015.0	1.27651570107201	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2015.0	2.33493963471643	Float					TIMSS 2015	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2015.0	0.798590789399412	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	792	Turkey	2018.0	0.995354273160993	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

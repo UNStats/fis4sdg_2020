@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	35	South-Eastern Asia	2017.0	605563235381.65	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	35	South-Eastern Asia	2018.0	656478706728.095	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	35	South-Eastern Asia	2018.0	776053962046.94	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	35	South-Eastern Asia	2018.0	1773269789548.18	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G

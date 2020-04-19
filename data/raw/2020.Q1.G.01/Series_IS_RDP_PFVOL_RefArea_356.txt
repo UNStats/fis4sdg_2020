@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	356	India	2017.0	190343511177.272	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	356	India	2018.0	754212257073.874	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	356	India	2018.0	2348298927815.54	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	356	India	2018.0	221193698478.363	Float					ICAO	['']	C	P_KM	AIR	G

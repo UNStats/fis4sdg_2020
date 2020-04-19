@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	598	Papua New Guinea	2017.0	1747562385.843	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	598	Papua New Guinea	2018.0	15884474286.3697	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	598	Papua New Guinea	2018.0	1538976406.01385	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	598	Papua New Guinea	2018.0	834988373.85	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G

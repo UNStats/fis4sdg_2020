@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	598	Papua New Guinea	2000.0	2.05	Float					PC - Population Census	['Data reference period: July | Age coverage - minimum age: 10 years old']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	598	Papua New Guinea	2000.0	5.27	Float					PC - Population Census	['Data reference period: July | Age coverage - minimum age: 10 years old']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	598	Papua New Guinea	2000.0	2.92	Float					PC - Population Census	['Data reference period: July | Age coverage - minimum age: 10 years old']	C	PERCENT	15+	BOTHSEX	G

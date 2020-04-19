@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	392	Japan	2011.0	0.847137826376647	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	392	Japan	2011.0	0.91851700899995	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	392	Japan	2015.0	0.907841640938455	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	392	Japan	2015.0	0.950991593426323	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	392	Japan	2018.0	0.804950043266581	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

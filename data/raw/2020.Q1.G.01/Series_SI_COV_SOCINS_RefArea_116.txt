@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	116	Cambodia	2008.0	1.3418	Float					National Institute of Statistics - Ministry of Planning	['Socio-Economic Survey 2008']	CA	PERCENT	G	Q1
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	116	Cambodia	2008.0	2.64562	Float					National Institute of Statistics - Ministry of Planning	['Socio-Economic Survey 2008']	CA	PERCENT	G	_T
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	116	Cambodia	2013.0	1.86914	Float					National Institute of Statistics - Ministry of Planning	['Socio-Economic Survey 2013']	CA	PERCENT	G	_T
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	116	Cambodia	2013.0	0.35887	Float					National Institute of Statistics - Ministry of Planning	['Socio-Economic Survey 2013']	CA	PERCENT	G	Q1

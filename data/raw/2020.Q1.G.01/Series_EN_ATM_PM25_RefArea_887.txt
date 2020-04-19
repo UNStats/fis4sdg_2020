@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Location	Reporting Type
+EN_ATM_PM25	Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)	887	Yemen	2016.0	44.9610023498535	Float					http://apps.who.int/gho/data/node.sdg.11-6	['']	E	mgr/m^3	ALLAREA	G
+EN_ATM_PM25	Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)	887	Yemen	2016.0	44.2992897033691	Float					http://apps.who.int/gho/data/node.sdg.11-6	['']	E	mgr/m^3	URBAN	G

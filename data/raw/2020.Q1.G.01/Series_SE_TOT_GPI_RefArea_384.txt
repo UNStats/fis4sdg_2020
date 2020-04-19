@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	384	Côte d'Ivoire	2014.0	0.73293	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	384	Côte d'Ivoire	2014.0	1.17531	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	384	Côte d'Ivoire	2014.0	0.84387	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ

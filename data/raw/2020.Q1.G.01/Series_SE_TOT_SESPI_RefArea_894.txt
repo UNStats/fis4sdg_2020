@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	894	Zambia	2006.0	0.115384615384615	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	894	Zambia	2006.0	0.144117647058824	Float					SACMEQ 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	894	Zambia	2015.0	0.04288929385701	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	894	Zambia	2015.0	0.0398816435354273	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

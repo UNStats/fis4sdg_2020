@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	120	Cameroon	2014.0	0.0335506134969325	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	120	Cameroon	2014.0	0.0683881064162754	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	120	Cameroon	2014.0	0.0460848287112561	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	120	Cameroon	2014.0	0.232424171173289	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH

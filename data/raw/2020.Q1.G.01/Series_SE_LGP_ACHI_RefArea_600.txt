@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	600	Paraguay	2006.0	0.904843731104916	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	600	Paraguay	2006.0	0.668083528331054	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	600	Paraguay	2006.0	0.456933501222154	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	600	Paraguay	2015.0	0.252961329001581	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	600	Paraguay	2015.0	0.391127528075992	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

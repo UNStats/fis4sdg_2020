@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Education level	Reporting Type	Type of skill
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2007.0	13.2093584294118	Float					TIMSS 2007	['']	C	PERCENT	MALE	GRAD23	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2007.0	14.8673428131787	Float					TIMSS 2007	['']	C	PERCENT	FEMALE	GRAD23	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2007.0	14.0670110851713	Float					TIMSS 2007	['']	C	PERCENT	BOTHSEX	GRAD23	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2015.0	20.7497999687547	Float					PISA 2015	['']	C	PERCENT	FEMALE	LOWSEC	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2015.0	19.0432357362718	Float					PISA 2015	['']	C	PERCENT	BOTHSEX	LOWSEC	G	SKILL_MATH
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2015.0	15.0658319243734	Float					PISA 2015	['']	C	PERCENT	MALE	LOWSEC	G	SKILL_READ
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2015.0	27.6763411276817	Float					PISA 2015	['']	C	PERCENT	FEMALE	LOWSEC	G	SKILL_READ
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2015.0	21.0306291484787	Float					PISA 2015	['']	C	PERCENT	BOTHSEX	LOWSEC	G	SKILL_READ
+SE_TOT_PRFL	Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)	12	Algeria	2015.0	17.5115248182352	Float					PISA 2015	['']	C	PERCENT	MALE	LOWSEC	G	SKILL_MATH

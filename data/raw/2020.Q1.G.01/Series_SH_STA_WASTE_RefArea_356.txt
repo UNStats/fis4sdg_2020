@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Reporting Type
+SH_STA_WASTE	Proportion of children moderately or severely wasted (%)	356	India	2006.0	20.02631	Float					National family health survey (NFHS-3), 2005-06: India: Volume I. Demographic and Health Surveys. Mumbai, India: IIPS, 2007 (and additional analysis).	['']	CA	PER_POP_U5	<5Y	G
+SH_STA_WASTE	Proportion of children moderately or severely wasted (%)	356	India	2014.0	15.1	Float					Rapid survey on children 2013-2014. India factsheet. . http://wcd.nic.in/ accessed 14 August 2014.	['(pending reanalysis)']	CA	PER_POP_U5	<5Y	G
+SH_STA_WASTE	Proportion of children moderately or severely wasted (%)	356	India	2015.0	20.78397	Float					National Family Health Survey (NFHS-4), 2015-16: India. Mumbai: IIPS. 2017 (and additional analysis)	['']	CA	PER_POP_U5	<5Y	G
+SH_STA_WASTE	Proportion of children moderately or severely wasted (%)	356	India	2017.0	17.3	Float					Comprehensive National Nutrition Survey (CNNS) National Report. New Delhi	['0-4 years old']	CA	PER_POP_U5	<5Y	G

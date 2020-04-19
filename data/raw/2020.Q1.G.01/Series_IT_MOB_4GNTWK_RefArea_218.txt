@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	218	Ecuador	2013.0	10	Float					ITU estimate.	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	218	Ecuador	2014.0	28.19	Float					Agencia de Regulación y Control de las Telecomunicaciones	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	218	Ecuador	2015.0	49.63	Float					Agencia de Regulación y Control de las Telecomunicaciones	['In order to determine the coverage ARCOTEL analyzes the number of radio bases that exist in each parish, if at least one RB exists there, then the population of that parish is considered to be covered.']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	218	Ecuador	2016.0	50.96	Float					Agencia de Regulación y Control de las Telecomunicaciones	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	218	Ecuador	2017.0	58.75	Float					Agencia de Regulación y Control de las Telecomunicaciones	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	218	Ecuador	2018.0	70.87	Float					Agencia de Regulación y Control de las Telecomunicaciones	['']	NA	PERCENT	G

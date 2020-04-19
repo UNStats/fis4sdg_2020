@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	51	Armenia	2003.0	0.739907639570967	Float					TIMSS 2003	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	51	Armenia	2003.0	0.949861568789185	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	51	Armenia	2007.0	1.03550678515742	Float					TIMSS 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	51	Armenia	2007.0	1.15574579472205	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	51	Armenia	2015.0	0.925655084817182	Float					TIMSS 2015	['']	C	Ratio	PRIMAR	G	SKILL_MATH

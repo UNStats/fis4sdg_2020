@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Reporting Type
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	462	Maldives	2000.0	15.39	Float					PC - Population and Housing Census	['Population coverage: Excluding armed forces and/or conscripts | Age coverage - minimum age: 12 years old']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	462	Maldives	2014.0	18.46	Float					PC - Population and Housing Census	['Data reference period: September']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	462	Maldives	2016.0	19.58	Float					HIES - Household income and Expenditure Survey	['Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers']	C	PERCENT	FEMALE	G

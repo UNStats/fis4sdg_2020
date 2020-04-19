@@ -1,0 +1,13 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2006.0	0.684898380105016	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2006.0	0.726762217174572	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2006.0	0.653252423946757	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2006.0	0.508806656278889	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2006.0	0.585740736929769	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2006.0	0.682459026930166	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2009.0	0.65561993325207	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2009.0	0.71089689785032	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2012.0	0.523802701803135	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2012.0	0.60553192987541	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2018.0	0.469478138473418	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	170	Colombia	2018.0	0.508779324495142	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

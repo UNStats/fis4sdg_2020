@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2009.0	0.51581073927787	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2011.0	0.70821938625222	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2011.0	0.788684638212574	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2011.0	0.795301842540036	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2012.0	0.632795213941119	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2015.0	0.513189842228775	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2015.0	0.580842606353003	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2015.0	0.657272584928169	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2016.0	0.79969502053217	Float					PIRLS 2016	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	784	United Arab Emirates	2018.0	0.483793406210825	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

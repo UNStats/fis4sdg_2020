@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Migratory status	Reporting Type
+SL_EMP_FTLINJUR	Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)	352	Iceland	2011.0	0	Float					ADM - Administrative records and related sources	['']	C	PER_100000_EMP	BOTHSEX	_T	G
+SL_EMP_FTLINJUR	Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)	352	Iceland	2012.0	0	Float					ADM - Administrative records and related sources	['']	C	PER_100000_EMP	BOTHSEX	_T	G
+SL_EMP_FTLINJUR	Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)	352	Iceland	2013.0	0	Float					ADM - Administrative records and related sources	['']	C	PER_100000_EMP	BOTHSEX	_T	G

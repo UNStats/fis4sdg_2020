@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	499	Montenegro	2015.0	0.835206940968824	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	499	Montenegro	2015.0	0.85080630592009	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	499	Montenegro	2018.0	0.671932544535673	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	499	Montenegro	2018.0	0.83075158167418	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH

@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	392	Japan	2011.0	1.02735204531381	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	392	Japan	2015.0	0.985074602141767	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	392	Japan	2015.0	0.923721899873742	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

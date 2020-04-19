@@ -1,0 +1,14 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2006.0	1.25754	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2006.0	0.94981	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2009.0	1.27168	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2009.0	0.95891	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2011.0	1.00872	Float					PIRLS 2011	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2011.0	0.89935	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2012.0	0.9698	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2012.0	1.25043	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2015.0	1.13067	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2015.0	0.92205	Float					TIMSS 2015	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2015.0	0.94382	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2018.0	1.18383	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	191	Croatia	2018.0	0.97934	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH

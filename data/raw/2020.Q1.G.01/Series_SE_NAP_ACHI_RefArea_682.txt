@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	682	Saudi Arabia	2003.0	0.621682960173267	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	682	Saudi Arabia	2011.0	1.12539933426603	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	682	Saudi Arabia	2015.0	0.606355088781505	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	682	Saudi Arabia	2015.0	0.395326252405182	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

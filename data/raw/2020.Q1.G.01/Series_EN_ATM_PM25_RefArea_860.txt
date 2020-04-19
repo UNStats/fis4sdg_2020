@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Location	Reporting Type
+EN_ATM_PM25	Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)	860	Uzbekistan	2016.0	25.2909469604492	Float					http://apps.who.int/gho/data/node.sdg.11-6	['']	E	mgr/m^3	ALLAREA	G
+EN_ATM_PM25	Annual mean levels of fine particulate matter in cities, urban population (micrograms per cubic meter)	860	Uzbekistan	2016.0	28.8543624877930	Float					http://apps.who.int/gho/data/node.sdg.11-6	['']	E	mgr/m^3	URBAN	G

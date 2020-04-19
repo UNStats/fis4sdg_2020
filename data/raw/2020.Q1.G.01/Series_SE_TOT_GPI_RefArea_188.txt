@@ -1,0 +1,17 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2006.0	1.00079	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2006.0	1.02125	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2006.0	0.86336	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2006.0	0.9439	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2009.0	1.14157	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2009.0	0.71368	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2012.0	1.22901	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2012.0	0.69975	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2013.0	1.03559	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2013.0	1.04456	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2013.0	0.89901	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2013.0	0.99103	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2015.0	0.76086	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2015.0	1.13149	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2018.0	0.79525	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	188	Costa Rica	2018.0	1.12019	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

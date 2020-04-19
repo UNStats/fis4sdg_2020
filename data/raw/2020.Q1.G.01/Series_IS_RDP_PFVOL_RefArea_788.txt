@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	788	Tunisia	2017.0	5768526330	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	788	Tunisia	2018.0	67360975055.9565	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	788	Tunisia	2018.0	1002264138.54157	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	788	Tunisia	2018.0	6319079780	Float					ICAO	['']	C	P_KM	AIR	G

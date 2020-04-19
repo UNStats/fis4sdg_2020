@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	710	South Africa	2003.0	8.22886841217256	Float					TIMSS 2003	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	710	South Africa	2006.0	2.69015257702333	Float					PIRLS 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	710	South Africa	2011.0	0.152947425932684	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	710	South Africa	2015.0	1.02324186716984	Float					TIMSS 2015	['']	C	Ratio	PRIMAR	G	SKILL_MATH

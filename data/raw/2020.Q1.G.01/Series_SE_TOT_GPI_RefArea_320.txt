@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2006.0	0.95726	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2006.0	1.04264	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2006.0	0.84002	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2006.0	0.90598	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	0.95278	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	1.01326	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	0.76121	Float					LLECE 2013	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2013.0	0.9394	Float					LLECE 2013	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2015.0	1.18257	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	320	Guatemala	2015.0	0.83694	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

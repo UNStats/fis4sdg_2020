@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	1995.0	0.92169	Float					TIMSS 1995	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2001.0	1.07813	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2003.0	0.95659	Float					TIMSS 2003	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2012.0	1.01475	Float					PIAAC 2012	['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2012.0	0.94667	Float					PIAAC 2012	['']	C	Ratio	_T	G	NUME
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2015.0	0.98768	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2018.0	1.47044	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	196	Cyprus	2018.0	1.10017	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH

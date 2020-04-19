@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	768	Togo	2014.0	1.1622	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	768	Togo	2014.0	0.87355	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	768	Togo	2014.0	0.87419	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	768	Togo	2014.0	0.85684	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH

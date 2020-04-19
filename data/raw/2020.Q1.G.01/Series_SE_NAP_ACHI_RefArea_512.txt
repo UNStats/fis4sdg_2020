@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	512	Oman	2011.0	1.4854513225851	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	512	Oman	2015.0	0.648505968628776	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	512	Oman	2015.0	1.11742219502875	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH

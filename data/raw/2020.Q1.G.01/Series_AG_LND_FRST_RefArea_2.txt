@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+AG_LND_FRST	Forest area as a proportion of total land area (%)	2	Africa	2000.0	22.33551	Float					FAO, Global Forest Resources Assessment and FAOSTAT	['Aggregate, may include official, semi-official, estimated or calculated data']	E	PERCENT	G
+AG_LND_FRST	Forest area as a proportion of total land area (%)	2	Africa	2005.0	21.78698	Float					FAO, Global Forest Resources Assessment and FAOSTAT	['Aggregate, may include official, semi-official, estimated or calculated data']	E	PERCENT	G
+AG_LND_FRST	Forest area as a proportion of total land area (%)	2	Africa	2010.0	21.21749	Float					FAO, Global Forest Resources Assessment and FAOSTAT	['Aggregate, may include official, semi-official, estimated or calculated data']	E	PERCENT	G
+AG_LND_FRST	Forest area as a proportion of total land area (%)	2	Africa	2015.0	20.72245	Float					FAO, Global Forest Resources Assessment and FAOSTAT	['Aggregate, may include official, semi-official, estimated or calculated data']	E	PERCENT	G

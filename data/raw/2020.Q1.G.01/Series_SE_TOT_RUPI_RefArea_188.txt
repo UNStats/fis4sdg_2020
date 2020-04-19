@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2006.0	0.848561914470316	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2006.0	0.784064600900095	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2006.0	0.812644297860793	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2006.0	0.900742998053291	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2009.0	0.814475014584705	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2009.0	0.868707069702588	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2012.0	0.667246895154743	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2012.0	0.839580677307222	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2018.0	0.449517439413408	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	188	Costa Rica	2018.0	0.550832263310382	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

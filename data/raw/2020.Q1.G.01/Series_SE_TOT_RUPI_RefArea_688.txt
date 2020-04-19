@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2003.0	0.767346060123708	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2003.0	0.734796595043698	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2006.0	0.712354710211636	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2006.0	0.668859336076918	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2009.0	0.705998482606162	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2009.0	0.775337942584638	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2011.0	0.597422396016538	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2012.0	0.716549117910239	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2012.0	0.721874469618033	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	688	Serbia	2015.0	0.767746790466269	Float					TIMSS 2015	['']	C	Ratio	PRIMAR	G	SKILL_MATH

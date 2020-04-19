@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Location	Sex	Reporting Type
+SL_DOM_TSPDCW	Proportion of time spent on unpaid care work, by sex, age and location (%)	705	Slovenia	2001.0	0.97208	Float					Statistical Office of the Republic of Slovenia based on Time Use Survey	['Travel related to unpaid care work is not included.']	C	PERCENT	20-74	ALLAREA	MALE	G
+SL_DOM_TSPDCW	Proportion of time spent on unpaid care work, by sex, age and location (%)	705	Slovenia	2001.0	2.29167	Float					Statistical Office of the Republic of Slovenia based on Time Use Survey	['Travel related to unpaid care work is not included.']	C	PERCENT	20-74	ALLAREA	FEMALE	G

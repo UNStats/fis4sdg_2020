@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	19	Americas	2017.0	50489518390.6069	Float					ICAO	['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	19	Americas	2018.0	649038080332.474	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	19	Americas	2018.0	52808646551.4337	Float					ICAO	['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	19	Americas	2018.0	5690938813959.33	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	19	Americas	2018.0	3588306214286.76	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	RAI	G

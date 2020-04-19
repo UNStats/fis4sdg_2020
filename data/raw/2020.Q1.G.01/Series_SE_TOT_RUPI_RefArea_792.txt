@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2001.0	0.845603332382458	Float					PIRLS 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2003.0	0.609580376157129	Float					PISA 2003	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2006.0	0.651694486437266	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2007.0	0.438251250563878	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2009.0	0.749097063742528	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2011.0	0.50540627094003	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2011.0	0.116313685147147	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	792	Turkey	2012.0	0.941078515566102	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ

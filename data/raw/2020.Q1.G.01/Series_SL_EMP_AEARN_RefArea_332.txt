@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Type of occupation	Reporting Type
+SL_EMP_AEARN	Average hourly earnings of managers (ISCO-08) (local currency)	332	Haiti	2001.0	10.6	Float					HIES - Enquete sur les conditions de vie en Haiti	['Repository: SEDLAC (CEDLAS and The World Bank) | Local currency: HTI - Gourde(HTG)']	C	CUR_LCU	MALE	isco08	G
+SL_EMP_AEARN	Average hourly earnings of managers (ISCO-08) (local currency)	332	Haiti	2001.0	8.9	Float					HIES - Enquete sur les conditions de vie en Haiti	['Repository: SEDLAC (CEDLAS and The World Bank) | Local currency: HTI - Gourde(HTG)']	C	CUR_LCU	FEMALE	isco08	G

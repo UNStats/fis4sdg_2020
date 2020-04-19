@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	762	Tajikistan	2004.0	4.7	Float					LFS - Labour force survey	['']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	762	Tajikistan	2009.0	5.5	Float					LFS - Labour force survey	['Age coverage - maximum age: 75 years old']	C	PERCENT	G
+SL_TLF_MANF	Manufacturing employment as a proportion of total employment (%)	762	Tajikistan	2018.0	5.4	Float					LFS - Labour force survey	['Employment definition: Excluding own-use production workers | Population coverage: Excluding armed forces and/or conscripts | Age coverage - maximum age: 74 years old']	C	PERCENT	G

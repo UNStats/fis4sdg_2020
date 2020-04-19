@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2006.0	0.302635604750343	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2006.0	0.3044378216178	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2006.0	0.398124957357627	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2006.0	0.225377755105532	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2009.0	0.251877848781567	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2009.0	0.296882185328591	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2012.0	0.296311099400806	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2012.0	0.340947677903875	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2018.0	0.393140849819382	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	604	Peru	2018.0	0.400681265061039	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

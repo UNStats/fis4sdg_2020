@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	152	Chile	2017.0	34866104129	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	152	Chile	2018.0	69713628107.654	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	152	Chile	2018.0	36806563583	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	152	Chile	2018.0	676509974	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G

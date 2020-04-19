@@ -1,0 +1,12 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2000.0	0.325598399617674	Float					PISA 2000	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2003.0	0.0623451194866679	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2006.0	0.507449362067242	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2009.0	0.547204906127357	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2011.0	0.185919092587303	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2012.0	0.495189457472912	Float					PISA 2012	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2015.0	0.622896953848888	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2015.0	0.277054762424428	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2015.0	0.428314078674056	Float					PIAAC 2015	['']	C	Ratio	_T	G	LITE
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2015.0	0.3408004651548	Float					PIAAC 2015	['']	C	Ratio	_T	G	NUME
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	152	Chile	2018.0	0.63246173820456	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

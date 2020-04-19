@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	180	Democratic Republic of the Congo	2017.0	1344194936.25978	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	180	Democratic Republic of the Congo	2018.0	1136038376.99019	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	180	Democratic Republic of the Congo	2018.0	72063733346.5522	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	180	Democratic Republic of the Congo	2018.0	18450952.90518	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G

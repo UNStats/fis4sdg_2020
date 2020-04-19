@@ -1,0 +1,19 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2000.0	51.300	Float					Statistics Canada.	['Survey result, scope age unknown.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2001.0	60.200	Float					Statistics Canada.	['Survey result, scope age unknown.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2002.0	61.593	Float					Statistics Canada.	['Survey result, scope age unknown.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2003.0	64.200	Float					Statistics Canada.	['Survey result, scope age unknown.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2004.0	65.956	Float					Statistics Canada.	['Survey result, scope age unknown.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2005.0	71.660	Float					Statistics Canada.	['Population age 16+.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2006.0	72.400	Float					ITU estimate.	"[""Estimated based on Survey's results 2005 and 2007. Population age 16+.""]"	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2007.0	73.200	Float					Statistics Canada.	['Population age 16+.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2008.0	76.700	Float					ITU estimate.	"[""Estimate based on Survey's results 2007 and 2009. Population age 16+.""]"	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2009.0	80.300	Float					Statistics Canada.	['Population age 16+.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2010.0	80.300	Float					Statistics Canada.	['Population age 16+. Survey was redesigned, therefore comparison with previous years should not be done.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2011.0	83.000	Float					ITU estimate.	['']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2012.0	83.000	Float					CIUS.	['Residents of Canada 16 years of age or older excluding: Residents of the Yukon, Northwest Territories and Nunavut, Inmates of Institutions, Persons living on Indian Reserves, and Full time members of the Canadian Forces.']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2013.0	85.800	Float					ITU estimate.	['']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2014.0	87.120	Float					ITU estimate.	['']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2015.0	90.000	Float					Pew	['18+']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2016.0	91.160	Float					Statistics Canada	['']	NA	PER_100_POP	G
+IT_USE_ii99	Internet users per 100 inhabitants	124	Canada	2017.0	91.000	Float					Pew	['18+']	NA	PER_100_POP	G

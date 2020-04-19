@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	686	Senegal	2014.0	0.89741	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	686	Senegal	2014.0	0.97244	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	686	Senegal	2014.0	0.86108	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	686	Senegal	2014.0	0.75008	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	686	Senegal	2015.0	1.12467	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	686	Senegal	2015.0	0.85992	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH

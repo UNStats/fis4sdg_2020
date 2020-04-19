@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Type of product	Reporting Type
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2016.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	RIC	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2016.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	MAZ	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2016.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	MIL	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2016.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	SOR	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2016.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	WHE	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2017.0	-2.3	Float					Food Price Monitoring and Analysis (FPMA) online database (FAO/GIEWS/FPMA-Tool)	['Metadata available at: http://www.fao.org/fileadmin/user_upload/sustainable_development_goals/docs/Metadata_template_2.c.1__Food_CPI_add_.pdf | High defined as IFPA>=1; Moderately high defined as 0.5=<IFPA< 1 | Twelve month average of monthly IFPA']	G	INDEX	RIC	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2017.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	MAZ	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2017.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	MIL	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2017.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	SOR	G
+AG_FPA_COMM	Indicator of Food Price Anomalies (IFPA), by type of product	694	Sierra Leone	2017.0	NA	String					NA	['NA = A figure was not provided.']	NA	INDEX	WHE	G

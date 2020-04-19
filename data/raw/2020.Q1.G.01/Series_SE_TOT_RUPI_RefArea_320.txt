@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2006.0	0.561503067714538	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2006.0	0.468738833855889	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2006.0	0.513042752791471	Float					LLECE 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2006.0	0.370784740660238	Float					LLECE 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2015.0	0.103419077796442	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	320	Guatemala	2015.0	0.254790255988054	Float					PISA D 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ

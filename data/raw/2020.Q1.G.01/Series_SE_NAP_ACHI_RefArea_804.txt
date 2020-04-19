@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	804	Ukraine	2007.0	2.19966008725981	Float					TIMSS 2007	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	804	Ukraine	2018.0	0.891224841387714	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	804	Ukraine	2018.0	0.920545420632607	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_2GNTWK	Proportion of population covered by at least a 2G mobile network (%)	340	Honduras	2006.0	57	Float					ITU	['']	NA	PERCENT	G
+IT_MOB_2GNTWK	Proportion of population covered by at least a 2G mobile network (%)	340	Honduras	2007.0	89.93	Float					ITU	['']	NA	PERCENT	G
+IT_MOB_2GNTWK	Proportion of population covered by at least a 2G mobile network (%)	340	Honduras	2015.0	99.87	Float					Comisión Nacional de Telecomunicaciones (CONATEL)	['']	NA	PERCENT	G
+IT_MOB_2GNTWK	Proportion of population covered by at least a 2G mobile network (%)	340	Honduras	2016.0	86.14	Float					Conatel	['Break in series: better estimation based on an urban/rural disaggregation of towns.']	NA	PERCENT	G
+IT_MOB_2GNTWK	Proportion of population covered by at least a 2G mobile network (%)	340	Honduras	2017.0	92.44	Float					Conatel	['Estimación en base poblaciones cubiertas según mapas de cobertura ']	NA	PERCENT	G
+IT_MOB_2GNTWK	Proportion of population covered by at least a 2G mobile network (%)	340	Honduras	2018.0	90.74	Float					Conatel	['Estimación en base poblaciones cubiertas según mapas de cobertura ']	NA	PERCENT	G

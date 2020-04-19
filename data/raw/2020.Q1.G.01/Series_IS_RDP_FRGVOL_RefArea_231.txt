@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	231	Ethiopia	2017.0	2076185020	Float					ICAO	['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	231	Ethiopia	2018.0	27234776644.6919	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	231	Ethiopia	2018.0	2089277540	Float					ICAO	['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	231	Ethiopia	2018.0	15054918.55439	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	231	Ethiopia	2018.0	788911615.09864	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	RAI	G

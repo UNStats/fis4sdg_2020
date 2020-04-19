@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	446	China, Macao Special Administrative Region	2015.0	0.957986518569	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	446	China, Macao Special Administrative Region	2015.0	0.93123039431176	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	446	China, Macao Special Administrative Region	2016.0	0.985290581679421	Float					PIRLS 2016	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	446	China, Macao Special Administrative Region	2018.0	0.956460813564905	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	446	China, Macao Special Administrative Region	2018.0	0.964653138915227	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	682	Saudi Arabia	2011.0	0.964657456411123	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	682	Saudi Arabia	2015.0	0.981469821760367	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	682	Saudi Arabia	2015.0	1.26807450886908	Float					TIMSS 2015	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	682	Saudi Arabia	2016.0	0.804007743844258	Float					PIRLS 2016	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	682	Saudi Arabia	2018.0	0.800457088626899	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

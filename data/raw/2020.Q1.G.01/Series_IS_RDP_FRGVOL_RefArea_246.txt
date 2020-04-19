@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	246	Finland	2017.0	852012630	Float					ICAO	['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	246	Finland	2018.0	957638590	Float					ICAO	['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	246	Finland	2018.0	28413000000	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	246	Finland	2018.0	11200000000	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	246	Finland	2018.0	120000000	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	T_KM	IWW	G

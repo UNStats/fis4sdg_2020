@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	422	Lebanon	2003.0	1.11655357019778	Float					TIMSS 2003	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	422	Lebanon	2011.0	0.820004240020276	Float					TIMSS 2011	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	422	Lebanon	2015.0	1.15864455261381	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	422	Lebanon	2015.0	0.832627150930874	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	422	Lebanon	2018.0	0.577259368466255	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

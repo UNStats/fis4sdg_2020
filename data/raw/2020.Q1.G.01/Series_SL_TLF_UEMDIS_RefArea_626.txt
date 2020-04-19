@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Disability status	Reporting Type
+SL_TLF_UEMDIS	Unemployment rate, by sex and disability (%)	626	Timor-Leste	2016.0	7.49	Float					LFS - Labour Force Survey	['Repository: ILO-STATISTICS - Micro data processing | Employment definition: Including subsistence workers']	C	PERCENT	BOTHSEX	PD	G
+SL_TLF_UEMDIS	Unemployment rate, by sex and disability (%)	626	Timor-Leste	2016.0	4.66	Float					LFS - Labour Force Survey	['Repository: ILO-STATISTICS - Micro data processing | Employment definition: Including subsistence workers']	C	PERCENT	BOTHSEX	_T	G
+SL_TLF_UEMDIS	Unemployment rate, by sex and disability (%)	626	Timor-Leste	2016.0	4.56	Float					LFS - Labour Force Survey	['Repository: ILO-STATISTICS - Micro data processing | Employment definition: Including subsistence workers']	C	PERCENT	BOTHSEX	PWD	G

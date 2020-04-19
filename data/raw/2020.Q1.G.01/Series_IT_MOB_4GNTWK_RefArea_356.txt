@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	356	India	2014.0	2	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	356	India	2015.0	4	Float					ITU estimate	['ITU estimate']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	356	India	2016.0	73.5	Float					Ministry of Communications	['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	356	India	2017.0	88	Float					Ministry of Communications	['43070']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	356	India	2018.0	94	Float					Ministry of Communications	['December 2018, Data from operator having maximum coverage']	NA	PERCENT	G

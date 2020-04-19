@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	446	China, Macao Special Administrative Region	2015.0	1.03285140121433	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	446	China, Macao Special Administrative Region	2015.0	1.07114434943334	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	446	China, Macao Special Administrative Region	2018.0	1.01689599972832	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	446	China, Macao Special Administrative Region	2018.0	1.06270110589284	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

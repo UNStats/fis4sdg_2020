@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Sex	Reporting Type
+IU_COR_BRIB	Prevalence rate of bribery, by sex (%)	8	Albania	2010.0	19.3	Float					UNODC and INSTAT (2011) Corruption in Albania: Bribery as experienced by the population	['']	C	PERCENT	BOTHSEX	G
+IU_COR_BRIB	Prevalence rate of bribery, by sex (%)	8	Albania	2010.0	17	Float					UNODC and INSTAT (2011) Corruption in Albania: Bribery as experienced by the population	['']	C	PERCENT	MALE	G
+IU_COR_BRIB	Prevalence rate of bribery, by sex (%)	8	Albania	2010.0	21.3	Float					UNODC and INSTAT (2011) Corruption in Albania: Bribery as experienced by the population	['']	C	PERCENT	FEMALE	G

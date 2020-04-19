@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2007.0	0.822908959466183	Float					TIMSS 2007	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2009.0	0.723954751953752	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2011.0	0.775220970229545	Float					PIRLS 2011	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2011.0	0.776269938786158	Float					TIMSS 2011	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2015.0	0.752766480109283	Float					PISA 2015	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2015.0	0.787249081563913	Float					TIMSS 2015	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2016.0	0.54349449703445	Float					PIRLS 2016	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	470	Malta	2018.0	0.74505649815137	Float					PISA 2018	['']	C	Ratio	LOWSEC	G	SKILL_READ

@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	6.42	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	6.39	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	7.36	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	6.15	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	25+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	7.3	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	8.05	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	8.94	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	6.76	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	686	Senegal	2015.0	6.83	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	25+	FEMALE	G

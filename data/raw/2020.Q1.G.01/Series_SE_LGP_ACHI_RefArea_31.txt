@@ -1,0 +1,8 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2006.0	1.94073490705094	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2006.0	1.04169669218322	Float					PISA 2006	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2009.0	1.42943542422046	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2009.0	0.906321644287555	Float					PISA 2009	['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2011.0	0.921736678006464	Float					PIRLS 2011	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2011.0	1.09745903272272	Float					TIMSS 2011	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	31	Azerbaijan	2016.0	1.11702299802984	Float					PIRLS 2016	['']	C	Ratio	PRIMAR	G	SKILL_READ

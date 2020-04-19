@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTCHG	Forest area net change rate (%)	155	Western Europe	2005.0	0.39323	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	PERCENT	G
+AG_LND_FRSTCHG	Forest area net change rate (%)	155	Western Europe	2010.0	0.37392	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	PERCENT	G
+AG_LND_FRSTCHG	Forest area net change rate (%)	155	Western Europe	2015.0	0.35445	Float					FAO, Global Forest Resources Assessment	['Aggregate, may include official, semi-official, estimated or calculated data;Data nature not available']	NA	PERCENT	G

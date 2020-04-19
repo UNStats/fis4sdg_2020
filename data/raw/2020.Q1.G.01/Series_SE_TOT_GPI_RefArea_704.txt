@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Type of skill	Reporting Type	Education level
+SE_TOT_GPI	Gender parity index for achievement (ratio)	704	Viet Nam	2012.0	0.98318	Float					Skills Towards Employability and Productivity (STEP) of World Bank	['']	C	Ratio	LITE	G	_T
+SE_TOT_GPI	Gender parity index for achievement (ratio)	704	Viet Nam	2015.0	1.12638	Float					PISA 2015	['']	C	Ratio	SKILL_READ	G	LOWSEC
+SE_TOT_GPI	Gender parity index for achievement (ratio)	704	Viet Nam	2015.0	1.04158	Float					PISA 2015	['']	C	Ratio	SKILL_MATH	G	LOWSEC

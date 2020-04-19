@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	554	New Zealand	2000.0	NA	String					FAO, Global Forest Resources Assessment	['Country data submitted to FAO']	C	PERCENT	G
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	554	New Zealand	2005.0	35.33294	Float					FAO, Global Forest Resources Assessment	['Country data submitted to FAO']	C	PERCENT	G
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	554	New Zealand	2010.0	35.52994	Float					FAO, Global Forest Resources Assessment	['Country data submitted to FAO']	C	PERCENT	G
+AG_LND_FRSTPRCT	Proportion of forest area within legally established protected areas (%)	554	New Zealand	2015.0	36.95823	Float					FAO, Global Forest Resources Assessment	['Country data submitted to FAO']	C	PERCENT	G

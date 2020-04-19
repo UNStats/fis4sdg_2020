@@ -1,0 +1,20 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Type of speed	Reporting Type
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2003.0	15	Float					ITU	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2004.0	23	Float					ITU	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2005.0	59	Float					ITU	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2006.0	95	Float					ITU estimate. 	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2007.0	130	Float					ITU estimate. 	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2008.0	200	Float					ITU estimate. 	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2009.0	500	Float					Telecom Regulator. 	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2010.0	500	Float					Telecommunications & Radiocommunications Regulator	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2011.0	337	Float					Telecommunications & Radiocommunications Regulator	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2012.0	310	Float					Telecommunications & Radiocommunications Regulator	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2013.0	310	Float					Office of theTelecommunications & Radiocommunications Regulator	['']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2014.0	4569	Float					Office of theTelecommunications & Radiocommunications Regulator	['Includes xDSL, fixed wireless data subscription and fixed broadband internet subscribers. The figure excludes prepaid wireless internet subscriptions.  Increase from 2013 has been due to operators investing in fiber optic cable and landing of the subarine cable in Vanuatu in Jan 2014 has increased capacity and reduced price thus increasing the number of subscribers.']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2015.0	4297	Float					Office of theTelecommunications & Radiocommunications Regulator	['Includes xDSL, fixed wireless data subscription and fixed broadband internet subscribers. Numbers are believed to have dropped as some subscribers have preferred to switch to mobile broadband alternatives as prices for these services have fallen and quality has increased.']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2016.0	4386	Float					TRBR	"[""Above is the total as of end of December 2016. Prior data(4'381)represents the annual average monthly number of subscribers.  Prior year values also represent annual averages and can be updated on request.""]"	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2017.0	4543	Float					TRBR	['represent annual average subscribers ']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2018.0	28	Float					TRBR	['']	NA	NUMBER	10MBPS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2018.0	4718	Float					TRBR	['Annual Average number of subscribers']	NA	NUMBER	ANYS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2018.0	476	Float					TRBR	['']	NA	NUMBER	2MT10MBPS	G
+IT_NET_BBN	Number of fixed Internet broadband subscriptions, by speed (number)	548	Vanuatu	2018.0	885	Float					TRBR	['']	NA	NUMBER	256KT2MBPS	G

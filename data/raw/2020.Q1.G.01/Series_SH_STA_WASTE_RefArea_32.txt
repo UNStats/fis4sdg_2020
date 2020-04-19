@@ -1,0 +1,3 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Reporting Type
+SH_STA_WASTE	Proportion of children moderately or severely wasted (%)	32	Argentina	2005.0	1.2	Float					Nutrition status in Argentinean children 6 to 72 months old. Results from the National Nutrition and Health Survey (ENNyS). Archivos Argentinos de Pediatria 2009;107:397-404 (and additional analysis).	['']	CA	PER_POP_U5	<5Y	G
+SH_STA_WASTE	Proportion of children moderately or severely wasted (%)	32	Argentina	2019.0	1.6	Float					Segunda Encuesta Nacional de Nutricion y Salud, Argentina 2004-2005	['overweight using BMI-for-age z-scores']	CA	PER_POP_U5	<5Y	G

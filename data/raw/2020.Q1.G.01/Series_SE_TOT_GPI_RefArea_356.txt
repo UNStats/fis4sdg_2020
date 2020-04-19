@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	356	India	2017.0	1	Float					National Learning Assessment (NLA): National Achievement Survey; Grade 5; Minimum proficiency level: Proficient	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	356	India	2017.0	1	Float					National Learning Assessment (NLA): National Achievement Survey; Grade 3; Minimum proficiency level: Proficient	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	356	India	2017.0	1.04444	Float					National Learning Assessment (NLA): National Achievement Survey; Grade 5; Minimum proficiency level: Proficient	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	356	India	2017.0	1.04255	Float					National Learning Assessment (NLA): National Achievement Survey; Grade 3; Minimum proficiency level: Proficient	['']	C	Ratio	GRAD23	G	SKILL_READ

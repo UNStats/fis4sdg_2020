@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_NEET	Proportion of youth not in education, employment or training, by sex and age (%)	686	Senegal	2015.0	28.7	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	MALE	G
+SL_TLF_NEET	Proportion of youth not in education, employment or training, by sex and age (%)	686	Senegal	2015.0	42.8	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_NEET	Proportion of youth not in education, employment or training, by sex and age (%)	686	Senegal	2015.0	36.2	Float					LFS - National Employment Survey	['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	BOTHSEX	G

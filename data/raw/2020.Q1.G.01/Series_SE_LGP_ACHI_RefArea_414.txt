@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	414	Kuwait	2001.0	0.941341192458853	Float					PIRLS 2001	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	414	Kuwait	2006.0	1.14788360694064	Float					PIRLS 2006	['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	414	Kuwait	2007.0	0.589856518371106	Float					TIMSS 2007	['']	C	Ratio	GRAD23	G	SKILL_MATH

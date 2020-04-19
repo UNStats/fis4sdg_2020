@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	250	France	2001.0	0.990818766405456	Float					PIRLS 2001	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	250	France	2006.0	1.01058007291413	Float					PIRLS 2006	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	250	France	2011.0	0.974720862176589	Float					PIRLS 2011	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	250	France	2015.0	0.842129402582562	Float					TIMSS 2015	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	250	France	2016.0	1.05975614450609	Float					PIRLS 2016	['']	C	Ratio	PRIMAR	G	SKILL_READ

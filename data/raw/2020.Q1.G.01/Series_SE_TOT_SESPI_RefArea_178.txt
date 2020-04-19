@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	178	Congo	2014.0	0.654871122761031	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	178	Congo	2014.0	0.0692995529061103	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	178	Congo	2014.0	0.0814225549836219	Float					PASEC 2014	['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	178	Congo	2014.0	0.323758070892081	Float					PASEC 2014	['']	C	Ratio	GRAD23	G	SKILL_READ

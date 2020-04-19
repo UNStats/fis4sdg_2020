@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	upperBound	lowerBound	basePeriod	source	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	716	Zimbabwe	2017.0	171543067.2	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	716	Zimbabwe	2018.0	171543067.2	Float					ICAO	['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	716	Zimbabwe	2018.0	1559.52272	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	716	Zimbabwe	2018.0	8352566324.09971	Float					the International Transport Forum at the OECD (ITF-OECD)	['']	C	P_KM	ROA	G
