@@ -28,7 +28,6 @@ sdg_meta = metadata.build_sdg_tree_metadata('data/external/GlobalIndicatorFramew
                                             tags_template['seriesTagsCol'],
                                             release)
 
-
 series_missing_tags = []
 for g in sdg_meta:
     for t in g['targets']:
