@@ -202,7 +202,7 @@ def build_sdg_tree_metadata(framework_file, goals_sheet, targets_sheet, indicato
 
 
 def series_catalog(sdg_metadata):
-    ''' Produce the list of series included in a geneal metadeata file
+    ''' Produce the list of series included in a geneal metadata file
     '''
     series = []
     for g in sdg_metadata:

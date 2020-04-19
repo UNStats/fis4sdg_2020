@@ -13,7 +13,7 @@ import re
 
 release = set_release.set_release()
 
-sdg_meta = utils.open_json('data/external/metadata.json')
+sdg_meta = utils.open_json('data/external/metadata_' + release + '.json')
 
 series = metadata.series_catalog(sdg_meta)
 
