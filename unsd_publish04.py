@@ -95,9 +95,13 @@ for entry in catalog:
     # system for global reporting."
     series_data = utils.select_dict(series_data, {'value': 'NV'}, keep=False)
 
-    # Replace non-numeric values(i.e., truncated values) with its numeric part,
-    # and store the full, non-numeric value as a "value detail" column
+    # Rename 'timePeriodStart' to 'timePeriod' and replace non-numeric values
+    # (i.e., truncated values) with its numeric part, and store the full,
+    # non-numeric value as a "value detail" column
+
     for r in series_data:
+
+        r['timePeriod'] = int(float(r.pop('timePeriodStart')))
 
         try:
             r['value_detail'] = None
@@ -124,7 +128,7 @@ for entry in catalog:
 
     # Join geographic coordinates (XY) and other geo attributes
     series_data = utils.merge_dict_lists(series_data, geo_tree, ['geoAreaCode'], [
-                                         'geoAreaCode'], how='left')
+        'geoAreaCode'], how='left')
 
     file_out = 'data/interim/' + release + '/series/Series_' + series + '.txt'
 

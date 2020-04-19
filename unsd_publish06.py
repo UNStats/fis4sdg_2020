@@ -31,6 +31,7 @@ for s in series_list:
                  schema['dim_geo'] + ['years', 'max_year', 'min_year', 'n_years']]
     ts_keys = utils.subdict_list(
         x, schema['dim_series'] + schema['dim_geo'] + ['max_year'] + dim_other)
+
     for i in ts_keys:
         i['year'] = int(float(i['max_year']))
         i.pop('max_year')
@@ -52,7 +53,8 @@ for s in series_list:
 
     xy = utils.subdict_list(latest_year, ['max_year'], exclude=True)
 
-    outputfile = 'data/interim/' + release + '/latest_data/LatestDataPoints_' + s + '.txt'
+    outputfile = 'data/interim/' + release + \
+        '/latest_data/LatestDataPoints_' + s + '.txt'
 
     utils.dictList2tsv(xy, outputfile)
 

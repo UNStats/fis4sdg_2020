@@ -172,7 +172,7 @@ def available_time_series(series, release):
 
         ts = utils.select_dict(x, ts_k)
 
-        years = [int(float(i['timePeriodStart'])) for i in ts]
+        years = [int(float(i['timePeriod'])) for i in ts]
 
         ts_k['years'] = years
         ts_k['min_year'] = min(years)

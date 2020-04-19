@@ -38,6 +38,8 @@ def series_request_details(seriesCode, release):
     seriesRequest = 'https://unstats.un.org/SDGAPI/v1/sdg/Series/Data?seriesCode=' + \
         seriesCode + '&releaseCode=' + release + "&pageSize=2"
 
+    print(seriesRequest)
+
     responseData = utils.get_json_from_web(seriesRequest, method='GET')
 
     pageSize = 700
@@ -140,6 +142,8 @@ def seriesData2tsv(seriesCode, release):
                                                    ['goal', 'target',
                                                        'indicator', 'seriesCount'],
                                                    exclude=True))
+
+    print(x_data)
 
     x_geoAreas = utils.unique_dicts(utils.subdict_list(
         x_data, ['geoAreaCode'], exclude=False))

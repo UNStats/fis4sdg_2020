@@ -54,10 +54,14 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # sdg_api.series_data_to_json('SL_EMP_INJUR', '2019.Q4.G.01')
 
-seriesCode = 'VC_DSR_MISS'
+seriesCode = 'DC_FTA_TOTAL'
 release = '2019.Q4.G.01'
-sdg_api.seriesData2json(seriesCode, release)
 
+x = sdg_api.series_request_details(seriesCode, release)
+print(x)
+print(x['totalElements'])
 
- 
- 
+x = sdg_api.series_data(seriesCode, release)
+print(x[0])
+
+sdg_api.seriesData2tsv(seriesCode, release)

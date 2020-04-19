@@ -877,7 +877,7 @@
                             },
                             {
                                 "code": "SH_STA_STUNTN",
-                                "description": "Children moderately or severely stunted (millions)",
+                                "description": "Children moderately or severely stunted (thousands)",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "hunger",
@@ -921,7 +921,7 @@
                             },
                             {
                                 "code": "SH_STA_WASTEN",
-                                "description": "Children moderately or severely wasted (millions)",
+                                "description": "Children moderately or severely wasted (thousands)",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "hunger",
@@ -950,7 +950,7 @@
                             },
                             {
                                 "code": "SH_STA_OVRWGTN",
-                                "description": "Children moderately or severely overweight (millions)",
+                                "description": "Children moderately or severely overweight (thousands)",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "obesity",
@@ -4475,7 +4475,7 @@
                         "series": [
                             {
                                 "code": "SL_ISV_IFRM",
-                                "description": "Proportion of informal employment in non-agriculture employment, by sex (ILO harmonized estimates) (%)",
+                                "description": "Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "informal sector",
@@ -5579,7 +5579,7 @@
                         "series": [
                             {
                                 "code": "SL_EMP_GTOTL",
-                                "description": "Labour share of GDP, comprising wages and social protection transfers (%)",
+                                "description": "Labour share of GDP (%)",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "income distribution",
@@ -6833,7 +6833,7 @@
                         "series": [
                             {
                                 "code": "SG_HAZ_CMRMNTRL",
-                                "description": "Compliance with the Montreal Protocol on hazardous waste and other chemicals",
+                                "description": "Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "hazardous wastes",
@@ -6842,7 +6842,7 @@
                             },
                             {
                                 "code": "SG_HAZ_CMRROTDAM",
-                                "description": "Compliance with the Rotterdam Convention on hazardous waste and other chemicals",
+                                "description": "Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "hazardous wastes",
@@ -6851,7 +6851,7 @@
                             },
                             {
                                 "code": "SG_HAZ_CMRBASEL",
-                                "description": "Compliance with the Basel Convention on hazardous waste and other chemicals",
+                                "description": "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "hazardous wastes",
@@ -6860,7 +6860,7 @@
                             },
                             {
                                 "code": "SG_HAZ_CMRSTHOLM",
-                                "description": "Compliance with the Stockholm Convention on hazardous waste and other chemicals",
+                                "description": "Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals",
                                 "release": "2019.Q4.G.01",
                                 "tags": [
                                     "hazardous wastes",
@@ -9554,19 +9554,6 @@
                         "descES": "N\u00famero de acuerdos y programas de cooperaci\u00f3n en materia de ciencia o tecnolog\u00eda suscritos por los pa\u00edses, desglosado por tipo de cooperaci\u00f3n",
                         "labelFR": "Indicateur 17.6.1",
                         "descFR": "Nombre d\u2019accords et de programmes de coop\u00e9ration scientifique et technologique entre pays, par type de coop\u00e9ration",
-                        "series": []
-                    },
-                    {
-                        "code": "C170602",
-                        "reference": "17.6.2",
-                        "tier": "I",
-                        "custodianAgencies": "ITU",
-                        "labelEN": "Indicator 17.6.2",
-                        "descEN": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
-                        "labelES": "Indicador 17.6.2",
-                        "descES": "N\u00famero de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad",
-                        "labelFR": "Indicateur 17.6.2",
-                        "descFR": "Abonnements \u00e0 une connexion \u00e0 Internet \u00e0 haut d\u00e9bit fixe pour 100 habitants, par vitesse de connexion",
                         "series": [
                             {
                                 "code": "IT_NET_BBN",
@@ -9591,6 +9578,19 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "code": "C170602",
+                        "reference": "17.6.2",
+                        "tier": "I",
+                        "custodianAgencies": "ITU",
+                        "labelEN": "Indicator 17.6.2",
+                        "descEN": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
+                        "labelES": "Indicador 17.6.2",
+                        "descES": "N\u00famero de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad",
+                        "labelFR": "Indicateur 17.6.2",
+                        "descFR": "Abonnements \u00e0 une connexion \u00e0 Internet \u00e0 haut d\u00e9bit fixe pour 100 habitants, par vitesse de connexion",
+                        "series": []
                     }
                 ]
             },

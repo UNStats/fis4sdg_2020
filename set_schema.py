@@ -8,7 +8,7 @@ def set_schema():
                          'level', 'parentCode', 'parentName', 'type', 'X', 'Y',
                          'ISO3', 'UN_Member', 'Country_Profile']
 
-    schema['dim_time'] = ['timePeriodStart', 'time_detail']
+    schema['dim_time'] = ['timePeriod', 'time_detail']
 
     schema['measure'] = ['value',
                          'upperBound',
