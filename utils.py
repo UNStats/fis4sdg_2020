@@ -288,3 +288,38 @@ def query_yes_no(question, default="yes"):
         else:
             sys.stdout.write("Please respond with 'yes' or 'no' "
                              "(or 'y' or 'n').\n")
+
+
+def year_intervals(years_list):
+    """ Find the coverage of an ordered list of years"""
+
+    years_list = list(map(int, years_list))
+
+    years_list.sort()
+
+    n = len(years_list)
+
+    start_y = list()
+    end_y = list()
+
+    start_y.append(years_list[0])
+
+    if n > 1:
+        for i in range(n-1):
+            if(years_list[i+1] - years_list[i] > 1):
+                start_y.append(years_list[i+1])
+                end_y.append(years_list[i])
+
+    end_y.append(years_list[n-1])
+
+    interval_yy = list()
+
+    for i in range(len(start_y)):
+
+        if end_y[i] - start_y[i] > 0:
+            interval_yy.append(str(start_y[i]) + '-' + str(end_y[i]))
+        else:
+            interval_yy.append(str(start_y[i]))
+
+    x = ",".join(interval_yy)
+    return(x)

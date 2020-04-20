@@ -126,11 +126,17 @@ import re
 
 # ---------------------------
 
-tags = utils.tsv2dict('data/external/tagsTemplate2019.Q3.G.01.txt')
-for i in tags:
-    tags_string = i['TAGS']
-    tags_string = re.sub('[\[\]\']', '', tags_string)
-    tags_list = tags_string.split(', ')
-    i['TAGS'] = tags_list
+# tags = utils.tsv2dictlist('data/external/tagsTemplate2019.Q3.G.01.txt')
+# for i in tags:
+#     tags_string = i['TAGS']
+#     tags_string = re.sub('[\[\]\']', '', tags_string)
+#     tags_list = tags_string.split(', ')
+#     i['TAGS'] = tags_list
 
-print(tags[0:2])
+# print(tags[0:2])
+
+# ----------------------------
+
+x = utils.year_intervals(
+    ['1995', '2000', '1996', '2001', '2002', '2003', '2004'])
+print(x)
