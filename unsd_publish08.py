@@ -80,9 +80,10 @@ for g in sdg_meta:
 
                 # print(new_data[0])
 
+                # Note: ArcGIS only accepts .csv extension (even if it's tab-delimited)
                 file_out = 'data/processed/' + release + '/Indicator_' + \
                     indicator_reference.replace(
-                        '.', '_') + '__Series_' + series_code + '.txt'
+                        '.', '_') + '__Series_' + series_code + '.csv'
 
                 utils.dictList2tsv(new_data, file_out)
 

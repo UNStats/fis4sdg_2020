@@ -1,2 +1,2 @@
 def set_release():
-    return '2019.Q4.G.01'
+    return '2020.Q1.G.01'
