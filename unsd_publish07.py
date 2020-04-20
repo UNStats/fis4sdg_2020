@@ -20,8 +20,10 @@ series_list = availability.available_series(folder, regex, i_series, i_geo)
 
 for s in series_list:
 
-    if s != 'VC_IHR_PSRC':
-        continue
+    print(f'--started processing series {s}')
+
+    # if s != 'AG_PRD_ORTIND':
+    #     continue
 
     # Get Time Series file (with time series keys):
     file_ts = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
@@ -66,7 +68,7 @@ for s in series_list:
     for ts in x:
 
         # print('====================')
-        # print(ts.keys())
+        # print(ts)
         # print('====================')
 
         # select records in y corresponding to timeseries ts:
@@ -134,16 +136,13 @@ for s in series_list:
             if 'basePeriod' in r.keys():
                 slice_basePeriod.append(r['basePeriod'])
             if 'value_detail' in r.keys() and r['value_detail'] != '':
-                slice_valueDetails.append(
-                    '[' + str(r['timePeriod']) + ']: '+r['value_detail'])
+                slice_valueDetails.append(r['value_detail'])
             if has_lb:
-                if 'lowerBound_detail' in r.keys() and r['lowerBound_detail'] != '':
-                    slice_lowerBoundDetails.append(
-                        '[' + str(r['timePeriod']) + ']: '+r['lowerBound_detail'])
+                if 'lowerBound_detail' in r.keys() and r['lowerBound_detail'] != '' and r['lowerBound_detail'] != 'NA':
+                    slice_lowerBoundDetails.append(r['lowerBound_detail'])
             if has_up:
-                if 'upperBound_detail' in r.keys() and r['upperBound_detail'] != '':
-                    slice_upperBoundDetails.append(
-                        '[' + str(r['timePeriod']) + ']: '+r['upperBound_detail'])
+                if 'upperBound_detail' in r.keys() and r['upperBound_detail'] != '' and r['upperBound_detail'] != 'NA':
+                    slice_upperBoundDetails.append(r['upperBound_detail'])
 
         slice_footnotes = list(set(slice_footnotes))
         slice_sources = list(set(slice_sources))
@@ -151,10 +150,14 @@ for s in series_list:
         slice_nature = list(set(slice_nature))
         slice_basePeriod = list(set(slice_basePeriod))
         slice_valueDetails = list(set(slice_valueDetails))
-        if has_up:
-            slice_lowerBoundDetails = list(set(slice_lowerBoundDetails))
         if has_lb:
             slice_upperBoundDetails = list(set(slice_upperBoundDetails))
+            # print('----')
+            # print(slice_upperBoundDetails)
+            # print('----')
+
+        if has_up:
+            slice_lowerBoundDetails = list(set(slice_lowerBoundDetails))
 
         slice_unitsCode = ' // '.join(list(set(slice_unitsCode)))
         slice_unitsDesc = ' // '.join(list(set(slice_unitsDesc)))
@@ -167,6 +170,16 @@ for s in series_list:
         slice_data_wide['unitsDesc'] = slice_unitsDesc
         slice_data_wide['reportingTypeCode'] = slice_reportingTypeCode
         slice_data_wide['reportingTypeDesc'] = slice_reportingTypeDesc
+
+        for yy in timePeriods:
+
+            slice_data_wide['value_' + str(yy)] = None
+
+            if has_lb:
+                slice_data_wide['lowerbound_' + str(yy)] = None
+
+            if has_up:
+                slice_data_wide['upperbound_' + str(yy)] = None
 
         # ======================================================
 
@@ -253,6 +266,7 @@ for s in series_list:
                     if len(slice_lowerBoundDetails) > 1:
                         slice_lowerBoundDetails_join.append(
                             '['+utils.year_intervals(fn_years)+']: ' + fn)
+
                     if len(slice_lowerBoundDetails) == 1:
                         slice_lowerBoundDetails_join.append(fn)
 
@@ -384,6 +398,8 @@ for s in series_list:
         data_new.append(slice_data_wide)
 
     file_out = 'data/interim/' + release + '/pivot/PivotSeries_' + s + '.txt'
+
+    # print(data_new)
 
     utils.dictList2tsv(data_new, file_out)
 
