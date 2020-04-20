@@ -86,7 +86,7 @@ def dictList2tsv(dictList, outputfile):
 
 
 def clean_str(v):
-    return str(v).replace(u'\xa0', u' ').replace(u'\u0151', u'o').replace(u'\u2011', u'-').encode("utf-8").decode("utf-8").replace('\n', ' ').strip()
+    return str(v).replace(u'\xa0', u' ').replace(u'\u0151', u'o').replace(u'\u2011', u'-').encode("utf-8").decode("utf-8").replace('\n', ' ').replace('\r', ' ').replace('  ', ' ').strip()
 
 
 def xlsx2dict(file, sheet_name):
