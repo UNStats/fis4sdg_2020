@@ -43,7 +43,7 @@ print(f'{len(series_missing_tags)} series are missing tags. \n {series_missing_t
 # Run the above to generate a new tags Template. After editing the tags tamplate, save it as a new txt file under data/external/
 # and re-run the same command (changing the name of the tagsTemplate file if necessary).
 
-nedit_tags = utils.query_yes_no("Do you want to edit the tags template?")
+edit_tags = utils.query_yes_no("Do you want to edit the tags template?")
 
 if edit_tags:
     sys.exit('Run this script again after editing the tags template')

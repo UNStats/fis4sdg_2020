@@ -4,7 +4,7 @@ import utils
 import availability
 
 # *******************************************************************
-# Obtain latest data point for each available time series
+# Create pivot tables
 # *******************************************************************
 
 schema = set_schema.set_schema()

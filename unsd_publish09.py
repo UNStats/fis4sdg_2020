@@ -7,7 +7,9 @@ import utils_arcgis
 import requests
 from arcgis.gis import GIS
 
-# ------------------------------------------
+# ====================================
+# Upload to ArcGIS into staging folder
+# ====================================
 
 release = set_release.set_release()
 
@@ -106,16 +108,11 @@ for g in sdgTree:
 
                     this_g = {k: g[k]
                               for k in g.keys() if k not in ['targets']}
-                    # this_g
-                    # print('\n')
+
                     this_t = {k: t[k]
                               for k in t.keys() if k not in ['indicators']}
-                    # this_t
-                    # print('\n')
+
                     this_i = {k: i[k] for k in i.keys() if k not in ['series']}
-                    # this_i
-                    # print('\n')
-                    # s
 
                     s_card = utils_arcgis.build_series_card(
                         this_g, this_t, this_i, s)
