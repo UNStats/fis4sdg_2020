@@ -109,6 +109,7 @@ def build_sdg_tree_metadata(framework_file, goals_sheet, targets_sheet, indicato
         g['hex'] = col_scheme['hex']
         g['rgb'] = col_scheme['rgb']
         g['ColorScheme'] = col_scheme['ColorScheme']
+        g['thumbnail'] = col_scheme['thumbnail']
 
     # ---------------------------------------
     # Add series to indicators

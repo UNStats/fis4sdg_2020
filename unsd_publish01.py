@@ -15,7 +15,7 @@ release = set_release.set_release()
 # Read or update sdg metadata file
 # ---------------------------------------------
 
-tags_template = {'file': 'data/external/tagsTemplate2019.Q4.G.01.txt',
+tags_template = {'file': 'data/external/tagsTemplate2020.Q1.G.01.txt',
                  'seriesCodeCol': 'seriesCode',
                  'seriesTagsCol': 'seriesTags'}
 
@@ -43,7 +43,7 @@ print(f'{len(series_missing_tags)} series are missing tags. \n {series_missing_t
 # Run the above to generate a new tags Template. After editing the tags tamplate, save it as a new txt file under data/external/
 # and re-run the same command (changing the name of the tagsTemplate file if necessary).
 
-edit_tags = utils.query_yes_no("Do you want to edit the tags template?")
+nedit_tags = utils.query_yes_no("Do you want to edit the tags template?")
 
 if edit_tags:
     sys.exit('Run this script again after editing the tags template')

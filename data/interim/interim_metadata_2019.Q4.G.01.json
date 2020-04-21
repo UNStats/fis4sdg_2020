@@ -23,6 +23,7 @@
             "BF162F",
             "93071F"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG01.png",
         "targets": [
             {
                 "code": "1.1",
@@ -344,7 +345,7 @@
                         "code": "C010402",
                         "reference": "1.4.2",
                         "tier": "II",
-                        "custodianAgencies": "World Bank,  UN-Habitat",
+                        "custodianAgencies": "World Bank, UN-Habitat",
                         "labelEN": "Indicator 1.4.2",
                         "descEN": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
                         "labelES": "Indicador 1.4.2",
@@ -757,6 +758,7 @@
             "5B3000",
             "422400"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG02.png",
         "targets": [
             {
                 "code": "2.1",
@@ -852,7 +854,7 @@
                         "code": "C020201",
                         "reference": "2.2.1",
                         "tier": "I",
-                        "custodianAgencies": "UNICEF,  WHO",
+                        "custodianAgencies": "UNICEF, WHO",
                         "labelEN": "Indicator 2.2.1",
                         "descEN": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
                         "labelES": "Indicador 2.2.1",
@@ -896,7 +898,7 @@
                         "code": "C020202",
                         "reference": "2.2.2",
                         "tier": "I",
-                        "custodianAgencies": "UNICEF,  WHO",
+                        "custodianAgencies": "UNICEF, WHO",
                         "labelEN": "Indicator 2.2.2",
                         "descEN": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
                         "labelES": "Indicador 2.2.2",
@@ -1306,6 +1308,7 @@
             "1B5058",
             "053E44"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG03.png",
         "targets": [
             {
                 "code": "3.1",
@@ -1350,7 +1353,7 @@
                         "code": "C030102",
                         "reference": "3.1.2",
                         "tier": "I",
-                        "custodianAgencies": "UNICEF,  WHO",
+                        "custodianAgencies": "UNICEF, WHO",
                         "labelEN": "Indicator 3.1.2",
                         "descEN": "Proportion of births attended by skilled health personnel",
                         "labelES": "Indicador 3.1.2",
@@ -2316,7 +2319,7 @@
         "labelES": "Objetivo 4",
         "descES": "Garantizar una educaci\u00f3n inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos",
         "labelFR": "Objectif 4",
-        "descFR": "Assurer \u00e0 tous une \u00e9ducation \u00e9quitable, inclusive et de qualit\u00e9 et des possibilit\u00e9s d\u2019apprentissage    tout au long de la vie",
+        "descFR": "Assurer \u00e0 tous une \u00e9ducation \u00e9quitable, inclusive et de qualit\u00e9 et des possibilit\u00e9s d\u2019apprentissage tout au long de la vie",
         "hex": "c5192d",
         "rgb": [
             197,
@@ -2333,6 +2336,7 @@
             "792037",
             "462039"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG04.png",
         "targets": [
             {
                 "code": "4.1",
@@ -2479,7 +2483,7 @@
                         "code": "C040401",
                         "reference": "4.4.1",
                         "tier": "II",
-                        "custodianAgencies": "UNESCO-UIS,  ITU",
+                        "custodianAgencies": "UNESCO-UIS, ITU",
                         "labelEN": "Indicator 4.4.1",
                         "descEN": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
                         "labelES": "Indicador 4.4.1",
@@ -2901,6 +2905,7 @@
             "9A3033",
             "60030A"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG05.png",
         "targets": [
             {
                 "code": "5.1",
@@ -2988,7 +2993,7 @@
                         "code": "C050201",
                         "reference": "5.2.1",
                         "tier": "II",
-                        "custodianAgencies": "UNICEF,  UN Women, UNFPA,  WHO, UNODC",
+                        "custodianAgencies": "UNICEF, UN Women, UNFPA, WHO, UNODC",
                         "labelEN": "Indicator 5.2.1",
                         "descEN": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
                         "labelES": "Indicador 5.2.1",
@@ -3017,7 +3022,7 @@
                         "code": "C050202",
                         "reference": "5.2.2",
                         "tier": "II",
-                        "custodianAgencies": "UNICEF,  UN Women, UNFPA,  WHO, UNODC",
+                        "custodianAgencies": "UNICEF, UN Women, UNFPA, WHO, UNODC",
                         "labelEN": "Indicator 5.2.2",
                         "descEN": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",
                         "labelES": "Indicador 5.2.2",
@@ -3174,7 +3179,7 @@
                         "code": "C050501",
                         "reference": "5.5.1",
                         "tier": "I/II",
-                        "custodianAgencies": "IPU,  UN Women",
+                        "custodianAgencies": "IPU, UN Women",
                         "labelEN": "Indicator 5.5.1",
                         "descEN": "Proportion of seats held by women in (a) national parliaments and (b) local governments",
                         "labelES": "Indicador 5.5.1",
@@ -3492,6 +3497,7 @@
             "414476",
             "492054"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG06.png",
         "targets": [
             {
                 "code": "6.1",
@@ -3596,7 +3602,7 @@
                         "code": "C060301",
                         "reference": "6.3.1",
                         "tier": "II",
-                        "custodianAgencies": "WHO,  UN-Habitat, UNSD",
+                        "custodianAgencies": "WHO, UN-Habitat, UNSD",
                         "labelEN": "Indicator 6.3.1",
                         "descEN": "Proportion of wastewater safely treated",
                         "labelES": "Indicador 6.3.1",
@@ -3775,7 +3781,7 @@
                         "code": "C060502",
                         "reference": "6.5.2",
                         "tier": "I",
-                        "custodianAgencies": "UNESCO-IHP,  UNECE",
+                        "custodianAgencies": "UNESCO-IHP, UNECE",
                         "labelEN": "Indicator 6.5.2",
                         "descEN": "Proportion of transboundary basin area with an operational arrangement for water cooperation",
                         "labelES": "Indicador 6.5.2",
@@ -4168,6 +4174,7 @@
             "853C00",
             "604000"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG07.png",
         "targets": [
             {
                 "code": "7.1",
@@ -4309,7 +4316,7 @@
                         "code": "C070a01",
                         "reference": "7.a.1",
                         "tier": "II",
-                        "custodianAgencies": "OECD,  IRENA",
+                        "custodianAgencies": "OECD, IRENA",
                         "labelEN": "Indicator 7.a.1",
                         "descEN": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
                         "labelES": "Indicador 7.a.1",
@@ -4384,6 +4391,7 @@
             "792037",
             "462039"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG08.png",
         "targets": [
             {
                 "code": "8.1",
@@ -5009,6 +5017,7 @@
             "BF4116",
             "60030A"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG09.png",
         "targets": [
             {
                 "code": "9.1",
@@ -5205,7 +5214,7 @@
                         "code": "C090401",
                         "reference": "9.4.1",
                         "tier": "I",
-                        "custodianAgencies": "UNIDO,  IEA",
+                        "custodianAgencies": "UNIDO, IEA",
                         "labelEN": "Indicator 9.4.1",
                         "descEN": "CO2 emission per unit of value added",
                         "labelES": "Indicador 9.4.1",
@@ -5474,6 +5483,7 @@
             "7F0844",
             "560130"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG10.png",
         "targets": [
             {
                 "code": "10.1",
@@ -5932,6 +5942,7 @@
             "993300",
             "7F1909"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG11.png",
         "targets": [
             {
                 "code": "11.1",
@@ -6624,6 +6635,7 @@
             "824B19",
             "60030A"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG12.png",
         "targets": [
             {
                 "code": "12.1",
@@ -6799,7 +6811,7 @@
                         "code": "C120301",
                         "reference": "12.3.1",
                         "tier": "II/III",
-                        "custodianAgencies": "FAO,  UNEP",
+                        "custodianAgencies": "FAO, UNEP",
                         "labelEN": "Indicator 12.3.1",
                         "descEN": "(a) Food loss index and (b) food waste index",
                         "labelES": "Indicador 12.3.1",
@@ -6873,7 +6885,7 @@
                         "code": "C120402",
                         "reference": "12.4.2",
                         "tier": "III",
-                        "custodianAgencies": "UNSD,  UNEP",
+                        "custodianAgencies": "UNSD, UNEP",
                         "labelEN": "Indicator 12.4.2",
                         "descEN": "Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment",
                         "labelES": "Indicador 12.4.2",
@@ -6921,7 +6933,7 @@
                         "code": "C120601",
                         "reference": "12.6.1",
                         "tier": "III",
-                        "custodianAgencies": "UNEP,   UNCTAD",
+                        "custodianAgencies": "UNEP, UNCTAD",
                         "labelEN": "Indicator 12.6.1",
                         "descEN": "Number of companies publishing sustainability reports",
                         "labelES": "Indicador 12.6.1",
@@ -7106,6 +7118,7 @@
             "14472B",
             "103F3F"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG13.png",
         "targets": [
             {
                 "code": "13.1",
@@ -7411,7 +7424,7 @@
                         "code": "C130b01",
                         "reference": "13.b.1",
                         "tier": "III",
-                        "custodianAgencies": "OHRLLS,  Regional Commissions, AOSIS,  SIDS,  Samoa Pathway",
+                        "custodianAgencies": "OHRLLS, Regional Commissions, AOSIS, SIDS, Samoa Pathway",
                         "labelEN": "Indicator 13.b.1",
                         "descEN": "Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities",
                         "labelES": "Indicador 13.b.1",
@@ -7448,6 +7461,7 @@
             "414476",
             "492054"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG14.png",
         "targets": [
             {
                 "code": "14.1",
@@ -7804,6 +7818,7 @@
             "0B6B52",
             "085C60"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG15.png",
         "targets": [
             {
                 "code": "15.1",
@@ -8464,6 +8479,7 @@
             "414476",
             "492054"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG16.png",
         "targets": [
             {
                 "code": "16.1",
@@ -8943,7 +8959,7 @@
                         "code": "C160701",
                         "reference": "16.7.1",
                         "tier": "II",
-                        "custodianAgencies": "IPU,  UNDP",
+                        "custodianAgencies": "IPU, UNDP",
                         "labelEN": "Indicator 16.7.1",
                         "descEN": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",
                         "labelES": "Indicador 16.7.1",
@@ -9242,6 +9258,7 @@
             "14496B",
             "05354F"
         ],
+        "thumbnail": "https://raw.githubusercontent.com/UNStats/FIS4SDGs_New/master/sdgIcons/sdgIcons_thumbnails/SDG17.png",
         "targets": [
             {
                 "code": "17.1",
@@ -9907,7 +9924,7 @@
                         "code": "C171501",
                         "reference": "17.15.1",
                         "tier": "II",
-                        "custodianAgencies": "OECD,  UNDP",
+                        "custodianAgencies": "OECD, UNDP",
                         "labelEN": "Indicator 17.15.1",
                         "descEN": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation",
                         "labelES": "Indicador 17.15.1",
@@ -10018,7 +10035,7 @@
                         "code": "C171601",
                         "reference": "17.16.1",
                         "tier": "II",
-                        "custodianAgencies": "OECD,  UNDP",
+                        "custodianAgencies": "OECD, UNDP",
                         "labelEN": "Indicator 17.16.1",
                         "descEN": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals",
                         "labelES": "Indicador 17.16.1",
