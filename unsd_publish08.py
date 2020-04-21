@@ -85,6 +85,6 @@ for g in sdg_meta:
                     indicator_reference.replace(
                         '.', '_') + '__Series_' + series_code + '.csv'
 
-                utils.dictList2tsv(new_data, file_out)
+                utils.dictList2csv(new_data, file_out)
 
                 print(f'--finished processing file {file_out}')

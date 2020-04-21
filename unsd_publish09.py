@@ -88,8 +88,8 @@ for g in sdgTree:
         continue
 
     for t in g['targets']:
-        if t['code'] not in ['1.1']:
-            continue
+        # if t['code'] not in ['1.1']:
+        #     continue
 
         for i in t['indicators']:
             # if i['reference'] != '1.1.1':

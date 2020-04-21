@@ -92,6 +92,16 @@ def dictList2tsv(dictList, outputfile):
         dict_writer.writerows(dictList)
 
 
+def dictList2csv(dictList, outputfile):
+    '''Write a dictList as a comma-spearated file.
+    '''
+    keys = dictList[0].keys()
+    with open(outputfile, 'w', newline='', encoding='utf-8') as f:
+        dict_writer = csv.DictWriter(f,  keys, delimiter=',',)
+        dict_writer.writeheader()
+        dict_writer.writerows(dictList)
+
+
 def clean_str(v):
     return str(v).replace(u'\xa0', u' ').replace(u'\u0151', u'o').replace(u'\u2011', u'-').encode("utf-8").decode("utf-8").replace('\n', ' ').replace('\r', ' ').replace('  ', ' ').strip()
 
