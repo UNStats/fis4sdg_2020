@@ -38,8 +38,8 @@ for s in series_list:
 
     y = utils.tsv2dictlist(file_data)
     for i in y:
-        i['year'] = int(float(i['timePeriodStart']))
-        i.pop('timePeriodStart')
+        i['year'] = int(float(i['timePeriod']))
+        i.pop('timePeriod')
 
     latest_year = utils.merge_dict_lists(ts_keys,
                                          y,

@@ -86,7 +86,7 @@ print(sdgTree[0]['code'])
 
 for g in sdgTree:
 
-    if g['code'] not in ['1']:
+    if g['code'] not in ['2']:
         continue
 
     for t in g['targets']:
