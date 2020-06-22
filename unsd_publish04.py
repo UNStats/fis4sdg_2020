@@ -95,6 +95,9 @@ for entry in catalog:
     # system for global reporting."
     series_data = utils.select_dict(series_data, {'value': 'NV'}, keep=False)
 
+    # Remove records where value is nan (e.g., in series AG_FPA_COMM):
+    series_data = utils.select_dict(series_data, {'value': 'nan'}, keep=False)
+
     # Rename 'timePeriodStart' to 'timePeriod' and replace non-numeric values
     # (i.e., truncated values) with its numeric part, and store the full,
     # non-numeric value as a "value detail" column

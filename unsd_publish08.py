@@ -44,8 +44,8 @@ for g in sdg_meta:
             for s in i['series']:
 
                 # Use this for release 2020.Q1.G.01
-                if s['code'] == 'SE_ADT_ACTS':
-                    continue
+                # if s['code'] == 'SE_ADT_ACTS':
+                #    continue
 
                 series_code = utils.clean_str(s['code'])
                 series_description = utils.clean_str(s['description'])
