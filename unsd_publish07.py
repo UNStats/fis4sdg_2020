@@ -25,6 +25,9 @@ for s in series_list:
     # if s != 'AG_PRD_ORTIND':
     #     continue
 
+    # if s[0:2] != 'AG':
+    #    continue
+
     # Get Time Series file (with time series keys):
     file_ts = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
     x = utils.tsv2dictlist(file_ts)

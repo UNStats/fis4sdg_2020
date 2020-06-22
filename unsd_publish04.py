@@ -33,7 +33,7 @@ for entry in catalog:
 
     series = entry['seriesCode']
 
-    # if series != 'AG_PRD_FIESSIN':
+    # if series[0:2] != 'AG':
     #    continue
 
     codes = sdg_api.series_code_lists(series, release)
@@ -98,6 +98,8 @@ for entry in catalog:
     # Remove records where value is nan (e.g., in series AG_FPA_COMM):
     series_data = utils.select_dict(series_data, {'value': 'nan'}, keep=False)
 
+    # Remove records where value is nan (e.g., in series AG_FPA_COMM):
+    series_data = utils.select_dict(series_data, {'value': 'NaN'}, keep=False)
     # Rename 'timePeriodStart' to 'timePeriod' and replace non-numeric values
     # (i.e., truncated values) with its numeric part, and store the full,
     # non-numeric value as a "value detail" column

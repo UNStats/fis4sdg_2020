@@ -28,8 +28,6 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	154	Northern Europe	3	150	Europ
 AG_LND_FRSTN	Forest area (thousands of hectares)	155	Western Europe	3	150	Europe	Region								[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	156	China	4	30	Eastern Asia	Country	104.1403375	32.30955217	CHN	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	16	American Samoa	4	61	Polynesia	Country	-170.7187269	-14.30587306	ASM	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	162	Christmas Island	4	53	Australia and New Zealand	Country	105.6426067	-10.4882473	CXR	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	166	Cocos (Keeling) Islands	4	53	Australia and New Zealand	Country	96.82633757	-12.18600682	CCK	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	17	Middle Africa	4	202	Sub-Saharan Africa	Region								[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	170	Colombia	5	5	South America	Country	-73.07446751	3.888209046	COL	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	174	Comoros	5	14	Eastern Africa	Country	43.34234565	-11.66121732	COM	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
@@ -61,15 +59,12 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	232	Eritrea	5	14	Eastern Africa
 AG_LND_FRSTN	Forest area (thousands of hectares)	233	Estonia	4	154	Northern Europe	Country	25.84093481	58.68487172	EST	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	234	Faroe Islands	4	154	Northern Europe	Country	-7.122044325	62.21228119	FRO	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	238	Falkland Islands (Malvinas)	5	5	South America	Country	-58.75246778	-51.74562601	FLK	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	239	South Georgia and the South Sandwich Islands	5	5	South America	Country	-36.90662765	-54.20736749	SGS	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	24	Angola	5	17	Middle Africa	Country	17.57817062	-12.33724746	AGO	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	242	Fiji	4	54	Melanesia	Country	177.9660884	-17.83301566	FJI	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	246	Finland	4	154	Northern Europe	Country	23.308447	61.91586738	FIN	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	248	Åland Islands	4	154	Northern Europe	Country	19.80945969	60.1544901	ALA	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	250	France	4	155	Western Europe	Country	2.457288129	46.62660861	FRA	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	254	French Guiana	5	5	South America	Country	-53.23619089	3.922673437	GUF	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	258	French Polynesia	4	61	Polynesia	Country	-149.4052367	-17.67709294	PYF	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	260	French Southern Territories	5	14	Eastern Africa	Country	69.64849091	-49.6068576	ATF	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	262	Djibouti	5	14	Eastern Africa	Country	42.18274707	11.56004161	DJI	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	266	Gabon	5	17	Middle Africa	Country	11.78727747	-0.60687619	GAB	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	268	Georgia	4	145	Western Asia	Country	43.3713615	42.04813028	GEO	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
@@ -93,11 +88,9 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	320	Guatemala	5	13	Central Amer
 AG_LND_FRSTN	Forest area (thousands of hectares)	324	Guinea	5	11	Western Africa	Country	-11.28173419	11.00210343	GIN	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	328	Guyana	5	5	South America	Country	-58.97322037	4.788012784	GUY	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	332	Haiti	5	29	Caribbean	Country	-72.33640958	18.40426539	HTI	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	334	Heard Island and McDonald Islands	4	53	Australia and New Zealand	Country	73.52633626	-53.09106147	HMD	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	336	Holy See	4	39	Southern Europe	Country	12.45315803	41.90343751	VAT	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	34	Southern Asia	3	142	Asia	Region								[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	340	Honduras	5	13	Central America	Country	-86.59974381	14.82243161	HND	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	344	China, Hong Kong Special Administrative Region	4	30	Eastern Asia	Country	114.0266445	22.41749934	HKG	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	348	Hungary	4	151	Eastern Europe	Country	19.41221519	47.1651448	HUN	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	35	South-Eastern Asia	3	142	Asia	Region								[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	352	Iceland	4	154	Northern Europe	Country	-19.02116966	64.79134763	ISL	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
@@ -134,7 +127,6 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	438	Liechtenstein	4	155	Western
 AG_LND_FRSTN	Forest area (thousands of hectares)	44	Bahamas	5	29	Caribbean	Country	-78.05111663	24.69546597	BHS	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	440	Lithuania	4	154	Northern Europe	Country	23.90517807	55.33680309	LTU	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	442	Luxembourg	4	155	Western Europe	Country	6.092656563	49.77679538	LUX	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	446	China, Macao Special Administrative Region	4	30	Eastern Asia	Country	113.5665388	22.1237259	MAC	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	450	Madagascar	5	14	Eastern Africa	Country	46.6982339	-19.38514785	MDG	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	454	Malawi	5	14	Eastern Africa	Country	33.4884625	-13.40819859	MWI	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	458	Malaysia	4	35	South-Eastern Asia	Country	116.8346314	5.452415309	MYS	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
@@ -186,7 +178,6 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	570	Niue	4	61	Polynesia	Country
 AG_LND_FRSTN	Forest area (thousands of hectares)	574	Norfolk Island	4	53	Australia and New Zealand	Country	167.9515548	-29.03230018	NFK	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	578	Norway	4	154	Northern Europe	Country	11.47846389	61.34311134	NOR	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	580	Northern Mariana Islands	4	57	Micronesia	Country	145.7582114	15.19099517	MNP	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	581	United States Minor Outlying Islands	4	57	Micronesia	Country	-162.4343752	5.874443968	UMI	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	583	Micronesia (Federated States of)	4	57	Micronesia	Country	158.225216	6.880670092	FSM	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	584	Marshall Islands	4	57	Micronesia	Country	171.0839119	7.110213497	MHL	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	585	Palau	4	57	Micronesia	Country	134.5733878	7.502307591	PLW	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
@@ -270,7 +261,6 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	804	Ukraine	4	151	Eastern Europ
 AG_LND_FRSTN	Forest area (thousands of hectares)	807	North Macedonia	4	39	Southern Europe	Country	21.7007909	41.60048068	MKD	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	818	Egypt	4	15	Northern Africa	Country	29.77468534	26.57438204	EGY	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	826	United Kingdom of Great Britain and Northern Ireland	4	154	Northern Europe	Country	-2.23830539	53.27691757	GBR	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	830	Channel Islands	4	154	Northern Europe	Region								[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	831	Guernsey	5	830	Channel Islands	Country	-2.200712402	49.71561166	GGY	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	832	Jersey	5	830	Channel Islands	Country	-2.136773508	49.22353354	JEY	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	833	Isle of Man	4	154	Northern Europe	Country	-4.538190305	54.22880901	IMN	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
@@ -280,7 +270,6 @@ AG_LND_FRSTN	Forest area (thousands of hectares)	840	United States of America	4	
 AG_LND_FRSTN	Forest area (thousands of hectares)	850	United States Virgin Islands	5	29	Caribbean	Country	-64.76960113	17.73297693	VIR	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	854	Burkina Faso	5	11	Western Africa	Country	-1.742843829	12.27491081	BFA	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	858	Uruguay	5	5	South America	Country	-56.01387025	-32.8002838	URY	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
-AG_LND_FRSTN	Forest area (thousands of hectares)	86	British Indian Ocean Territory	5	14	Eastern Africa	Country	72.38715553	-7.299281071	IOT	0	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	860	Uzbekistan	4	143	Central Asia	Country	63.11944558	41.77560518	UZB	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	862	Venezuela (Bolivarian Republic of)	5	5	South America	Country	-66.15642084	7.121324748	VEN	1	1			[2000, 2005, 2010, 2015]	2000	2015	4
 AG_LND_FRSTN	Forest area (thousands of hectares)	876	Wallis and Futuna Islands	4	61	Polynesia	Country	-176.2034788	-13.28471201	WLF	0	1			[2000, 2005, 2010, 2015]	2000	2015	4

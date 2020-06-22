@@ -20,6 +20,9 @@ for s in series_list:
     # if s != 'VC_VOV_SEXL':
     #    continue
 
+    # if s[0:2] != 'AG':
+    #    continue
+
     ts = availability.available_time_series(s, release)
 
     file_out = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
