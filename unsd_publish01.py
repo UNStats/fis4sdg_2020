@@ -20,8 +20,8 @@ tags_template = {'file': 'data/external/tagsTemplate2020.Q1.G.01.txt',
                  'seriesTagsCol': 'seriesTags'}
 
 
-sdg_meta = metadata.build_sdg_tree_metadata('data/external/GlobalIndicatorFramework2019_EN_ES_FR.xlsx',
-                                            'Goals', 'Targets', 'Indicators', 'TierClassification',
+sdg_meta = metadata.build_sdg_tree_metadata('data/external/GlobalIndicatorFramework2020_EN_ES_FR_RU_ZN.xlsx',
+                                            'Goals', 'Targets', 'Indicators',
                                             'data/external/sdgColors.json',
                                             tags_template['file'],
                                             tags_template['seriesCodeCol'],

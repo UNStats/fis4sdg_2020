@@ -37,13 +37,13 @@ def read_tags(tags_file, tags_seriesCodeCol, tags_tagsListCol):
 # ---------------------------------------
 # Get goals, targets, and indicators from global indicator framework, as captured in local file,
 
-def read_indicator_framework(framework_file, goals_sheet, targets_sheet, indicators_sheet, tierClassification_sheet):
+def read_indicator_framework(framework_file, goals_sheet, targets_sheet, indicators_sheet):
     ''' Read goals, targets, indicators, and tier classification from 
         local xlsx framework_file
 
         Example: 
             read_indicator_framework('data/external/GlobalIndicatorFramework2019_EN_ES_FR.xlsx',
-            'Goals','Targets','Indicators', 'TierClassification')
+            'Goals','Targets','Indicators')
     '''
 
     goals = utils.xlsx2dict(framework_file, goals_sheet)
@@ -64,39 +64,35 @@ def read_indicator_framework(framework_file, goals_sheet, targets_sheet, indicat
         for k, v in i.items():
             i[k] = utils.clean_str(v)
 
-    tiers = utils.xlsx2dict(framework_file, tierClassification_sheet)
-
-    for r in tiers:
-        for k, v in r.items():
-            r[k] = utils.clean_str(v)
-
     return {'goals': goals,
             'targets': targets,
-            'indicators': indicators,
-            'tiers': tiers}
+            'indicators': indicators}
 
 # ---------------------------------------
 # Add colors to goals:
 
 
-def build_sdg_tree_metadata(framework_file, goals_sheet, targets_sheet, indicators_sheet, tierClassification_sheet,
+def build_sdg_tree_metadata(framework_file, goals_sheet, targets_sheet, indicators_sheet,
                             sdgColors_file,
-                            tags_file, tags_seriesCodeCol, tags_tagsListCol, release):
+                            tags_file,
+                            tags_seriesCodeCol,
+                            tags_tagsListCol,
+                            release):
     ''' Read sdg framework and sdg colors from local sdg files; add series from sdg_api call.
 
         Example call:
             build_sdg_tree_metadata('data/external/GlobalIndicatorFramework2019_EN_ES_FR.xlsx',
-                                    'Goals','Targets','Indicators', 'TierClassification',
+                                    'Goals','Targets','Indicators', 
                                     'data/external/sdgColors.json',
-                                    'data/external/tagsTemplate2019.Q4.G.01.txt','seriesCode', 'seriesTags','2019.Q4.G.01')
+                                    'data/external/tagsTemplate2019.Q4.G.01.txt',
+                                    'seriesCode', 'seriesTags','2019.Q4.G.01')
 
     '''
 
     framework = read_indicator_framework(framework_file,
                                          goals_sheet,
                                          targets_sheet,
-                                         indicators_sheet,
-                                         tierClassification_sheet)
+                                         indicators_sheet)
 
     tags_list = read_tags(tags_file, tags_seriesCodeCol, tags_tagsListCol)
 
@@ -114,6 +110,7 @@ def build_sdg_tree_metadata(framework_file, goals_sheet, targets_sheet, indicato
     # ---------------------------------------
     # Add series to indicators
     sdg_api_tree = sdg_api.sdg_tree()
+    print(sdg_api)
 
     # create a goals/targets/indicators tree
     for g in framework['goals']:
