@@ -1,0 +1,21 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	1999.0	0.78025	Float						TIMSS 1999		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2000.0	1.22082	Float						PISA 2000		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2003.0	0.68732	Float						TIMSS 2003		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2006.0	1.12948	Float						PISA 2006		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2006.0	1.01422	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2006.0	0.92883	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2006.0	0.96081	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2006.0	1.03545	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2009.0	1.17705	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2011.0	0.83878	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2012.0	1.19866	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2013.0	1.09165	Float						LLECE 2013		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2013.0	1.02202	Float						LLECE 2013		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2013.0	0.997	Float						LLECE 2013		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2013.0	1.01319	Float						LLECE 2013		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2015.0	1.07696	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2015.0	0.73733	Float						TIMSS 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2015.0	0.70061	Float						PIAAC 2015		['']	C	Ratio	_T	G	NUME
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2015.0	0.89933	Float						PIAAC 2015		['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	152	Chile	2018.0	1.15184	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ

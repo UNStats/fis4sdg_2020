@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Age	Reporting Type
+SH_STA_OVRWGTN	Children moderately or severely overweight (thousands)	36	Australia	2007.0	102.25754	Float						The 2007 national children's nutrition and physical activity survey. Canberra, Australia: DoHA, 2010 (and additional analysis).		['Age-adjusted;']	CA	NUM_TH	<5Y	G
+SH_STA_OVRWGTN	Children moderately or severely overweight (thousands)	36	Australia	2014.0	277.63115	Float						Australia National Health Survey 2014-15		['Age-adjusted;']	CA	NUM_TH	<5Y	G
+SH_STA_OVRWGTN	Children moderately or severely overweight (thousands)	36	Australia	2017.0	350.99878	Float						Australia National Health Survey 2017-18		['Age-adjusted;']	CA	NUM_TH	<5Y	G

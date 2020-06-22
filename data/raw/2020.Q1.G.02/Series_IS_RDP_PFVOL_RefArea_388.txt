@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	388	Jamaica	2017.0	488940750	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	388	Jamaica	2018.0	37187446049.6656	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	388	Jamaica	2018.0	676560.28165	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	388	Jamaica	2018.0	566941690.909	Float						ICAO		['']	C	P_KM	AIR	G

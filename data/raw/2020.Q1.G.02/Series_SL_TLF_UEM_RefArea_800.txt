@@ -1,0 +1,13 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2003.0	3.6	Float						LFS - National Labour Force		['Age coverage - minimum age: 10 years old']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2003.0	4.49	Float						LFS - National Labour Force		['Age coverage - minimum age: 10 years old']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2003.0	2.7	Float						LFS - National Labour Force		['Age coverage - minimum age: 10 years old']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	2.79	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	4.29	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	6.03	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	3.55	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	25+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	4.76	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	2.87	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	2.09	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	25+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	5.37	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	800	Uganda	2012.0	3.55	Float						LFS - National Labour Force		['Repository: ILO-STATISTICS - Micro data processing']	C	PERCENT	15+	BOTHSEX	G

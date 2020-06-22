@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	19.03	Float						LFS - Labour force survey		['']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	20.94	Float						LFS - Labour force survey		['']	C	PERCENT	25+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	67.84	Float						LFS - Labour force survey		['']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	25.05	Float						LFS - Labour force survey		['']	C	PERCENT	15+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	12.72	Float						LFS - Labour force survey		['']	C	PERCENT	25+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	40.82	Float						LFS - Labour force survey		['']	C	PERCENT	15-24	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	15.88	Float						LFS - Labour force survey		['']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	15.6	Float						LFS - Labour force survey		['']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	434	Libya	2012.0	48.7	Float						LFS - Labour force survey		['']	C	PERCENT	15-24	BOTHSEX	G

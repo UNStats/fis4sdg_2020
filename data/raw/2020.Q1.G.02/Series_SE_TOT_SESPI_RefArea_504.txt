@@ -1,0 +1,13 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2001.0	1.32149228777185	Float						PIRLS 2001		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2003.0	0.766124980918517	Float						TIMSS 2003		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2003.0	1.09746135151061	Float						TIMSS 2003		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2006.0	0.359708134854141	Float						PIRLS 2006		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2007.0	0.231011292471144	Float						TIMSS 2007		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2007.0	0.253085522754218	Float						TIMSS 2007		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2011.0	0.271060787957998	Float						TIMSS 2011		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2011.0	0.287817234606797	Float						PIRLS 2011		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2011.0	0.139922681311354	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2015.0	0.267752086302296	Float						TIMSS 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2015.0	0.318917029032185	Float						TIMSS 2015		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	504	Morocco	2018.0	0.326215021311728	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ

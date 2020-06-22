@@ -31,4 +31,6 @@ print(f'{len(series_done)} have already been processed')
 print(f'{len(series)} remain')
 
 for s in series:
+    # if s == 'EN_MAT_DOMCMPC':
+    #    continue
     sdg_api.seriesData2tsv(s, release)

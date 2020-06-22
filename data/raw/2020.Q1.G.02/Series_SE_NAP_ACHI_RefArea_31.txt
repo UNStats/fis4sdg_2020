@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	31	Azerbaijan	2006.0	1.01635387378317	Float						PISA 2006		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	31	Azerbaijan	2009.0	1.09261375088018	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	31	Azerbaijan	2009.0	0.996439972322872	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_READ

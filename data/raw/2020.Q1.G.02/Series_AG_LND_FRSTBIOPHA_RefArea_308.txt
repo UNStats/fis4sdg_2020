@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTBIOPHA	Above-ground biomass stock in forest (tonnes per hectare)	308	Grenada	2000.0	137.49	Float						FAO, Global Forest Resources Assessment		['FAO Estimate']	E	T_PER_HA	G
+AG_LND_FRSTBIOPHA	Above-ground biomass stock in forest (tonnes per hectare)	308	Grenada	2005.0	87.52	Float						FAO, Global Forest Resources Assessment		['FAO Estimate']	E	T_PER_HA	G
+AG_LND_FRSTBIOPHA	Above-ground biomass stock in forest (tonnes per hectare)	308	Grenada	2010.0	112.48	Float						FAO, Global Forest Resources Assessment		['FAO Estimate']	E	T_PER_HA	G
+AG_LND_FRSTBIOPHA	Above-ground biomass stock in forest (tonnes per hectare)	308	Grenada	2015.0	NaN	String						FAO, Global Forest Resources Assessment		['NA = A figure was not provided.']	E	T_PER_HA	G

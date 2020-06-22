@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	795	Turkmenistan	2010.0	4	Float						OE - Official Estimates		['']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	795	Turkmenistan	2010.0	5.3	Float						OE - Official Estimates		['']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	795	Turkmenistan	2010.0	2.3	Float						OE - Official Estimates		['']	C	PERCENT	15+	FEMALE	G

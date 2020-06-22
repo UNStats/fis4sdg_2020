@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	1995.0	0	Float						FAO		['']	NA	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2000.0	0	Float						FAO		['']	NA	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2005.0	0	Float						FAO		['']	NA	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2010.0	5292	Float						FAO-WIEWS (http://www.fao.org/wiews)		['Estimate based on the acquisition date of each conserved accession as reported in 2017.']	E	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2012.0	5292	Float						FAO-WIEWS (http://www.fao.org/wiews)		['Estimate based on the acquisition date of each conserved accession as reported in 2017.']	E	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2014.0	5923	Float						FAO-WIEWS (http://www.fao.org/wiews)		['Estimate based on the acquisition date of each conserved accession as reported in 2017.']	E	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2016.0	19784	Float						FAO-WIEWS (http://www.fao.org/wiews)		['Estimate based on the acquisition date of each conserved accession as reported in 2017.']	E	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2017.0	19999	Float						FAO-WIEWS (http://www.fao.org/wiews)		['']	C	NUMBER	G
+ER_GRF_PLNTSTOR	Plant breeds for which sufficient genetic resources are stored (number)	788	Tunisia	2018.0	19999	Float						FAO-WIEWS (http://www.fao.org/wiews)		['Estimate based on 2017 report.']	E	NUMBER	G

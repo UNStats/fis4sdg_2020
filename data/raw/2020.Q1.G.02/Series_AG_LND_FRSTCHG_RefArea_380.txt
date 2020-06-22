@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTCHG	Forest area annual net change rate (%)	380	Italy	2005.0	0.91511	Float						FAO, Global Forest Resources Assessment		['Official country data submitted to FAO']	C	PERCENT	G
+AG_LND_FRSTCHG	Forest area annual net change rate (%)	380	Italy	2010.0	0.60682	Float						FAO, Global Forest Resources Assessment		['Official country data submitted to FAO']	C	PERCENT	G
+AG_LND_FRSTCHG	Forest area annual net change rate (%)	380	Italy	2015.0	0.58895	Float						FAO, Global Forest Resources Assessment		['Official country data submitted to FAO']	C	PERCENT	G

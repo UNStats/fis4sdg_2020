@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	747	Northern Africa and Western Asia	2017.0	949193820071.457	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	747	Northern Africa and Western Asia	2018.0	20857981705.7153	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	747	Northern Africa and Western Asia	2018.0	991275242427.591	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	747	Northern Africa and Western Asia	2018.0	2048001192148.81	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	ROA	G

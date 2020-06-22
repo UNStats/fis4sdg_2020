@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	558	Nicaragua	2006.0	1.04808160585433	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	558	Nicaragua	2006.0	0.852113989419051	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	558	Nicaragua	2006.0	0.771963890271284	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	558	Nicaragua	2006.0	0.634925509063584	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_READ

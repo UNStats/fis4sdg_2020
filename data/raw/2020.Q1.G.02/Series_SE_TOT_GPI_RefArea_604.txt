@@ -1,0 +1,21 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2000.0	1.12124	Float						PISA 2000		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2000.0	0.8285	Float						PISA 2000		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2006.0	1.02969	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2006.0	0.79328	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2006.0	0.90911	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2006.0	0.93139	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2009.0	1.32537	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2009.0	0.79111	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2012.0	0.78899	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2012.0	1.2926	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2013.0	0.79555	Float						LLECE 2013		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2013.0	0.93902	Float						LLECE 2013		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2013.0	1.06636	Float						LLECE 2013		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2013.0	1.01357	Float						LLECE 2013		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2015.0	1.08545	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2015.0	0.87553	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2017.0	0.88733	Float						PIAAC 2017		['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2017.0	0.73882	Float						PIAAC 2017		['']	C	Ratio	_T	G	NUME
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2018.0	0.85185	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	604	Peru	2018.0	1.15022	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ

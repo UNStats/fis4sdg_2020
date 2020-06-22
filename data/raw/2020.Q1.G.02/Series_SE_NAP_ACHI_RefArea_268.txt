@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2006.0	1.00434768716168	Float						PIRLS 2006		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2007.0	2.51693937100686	Float						TIMSS 2007		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2009.0	1.00084368595899	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2015.0	1.00850666138663	Float						TIMSS 2015		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2015.0	0.91155619838031	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2015.0	0.951289555683773	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2018.0	0.471898873180987	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	268	Georgia	2018.0	0.446876019920003	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ

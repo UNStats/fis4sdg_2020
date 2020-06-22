@@ -1,0 +1,11 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2006.0	0.682687788842502	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2006.0	0.580242891296574	Float						LLECE 2006		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2006.0	0.721896891270047	Float						LLECE 2006		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2009.0	0.758597240489348	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2009.0	0.646485597759693	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2012.0	0.83752159790355	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2015.0	0.890516250681361	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2015.0	0.995715140190988	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2018.0	0.787154383381531	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	188	Costa Rica	2018.0	0.890136752737893	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_MATH

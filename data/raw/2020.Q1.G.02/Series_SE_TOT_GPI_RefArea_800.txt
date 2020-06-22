@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	800	Uganda	2006.0	0.8773	Float						SACMEQ 2006		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	800	Uganda	2006.0	0.7439	Float						SACMEQ 2006		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	800	Uganda	2014.0	0.98291	Float						National Learning Assessment (NLA): National Assessment of Progress in Education (NAPE); Grade 3; Minimum proficiency level: Advanced Level		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	800	Uganda	2014.0	1.34682	Float						National Learning Assessment (NLA): National Assessment of Progress in Education (NAPE); Grade 3; Minimum proficiency level: Advanced Level		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	800	Uganda	2015.0	0.92694	Float						National Learning Assessment (NLA): National Assessment of Progress in Education (NAPE); Grade 3; Minimum proficiency level: Advance		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	800	Uganda	2015.0	1.04	Float						National Learning Assessment (NLA): National Assessment of Progress in Education (NAPE); Grade 3; Minimum proficiency level: Advance		['']	C	Ratio	GRAD23	G	SKILL_READ

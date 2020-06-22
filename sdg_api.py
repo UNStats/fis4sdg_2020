@@ -42,7 +42,7 @@ def series_request_details(seriesCode, release):
 
     responseData = utils.get_json_from_web(seriesRequest, method='GET')
 
-    pageSize = 700
+    pageSize = 850
     nPages = math.floor(responseData['totalElements'] / pageSize) + 1
     totalElements = responseData['totalElements']
 
@@ -143,7 +143,7 @@ def seriesData2tsv(seriesCode, release):
                                                        'indicator', 'seriesCount'],
                                                    exclude=True))
 
-    print(x_data)
+    # print(x_data)
 
     x_geoAreas = utils.unique_dicts(utils.subdict_list(
         x_data, ['geoAreaCode'], exclude=False))

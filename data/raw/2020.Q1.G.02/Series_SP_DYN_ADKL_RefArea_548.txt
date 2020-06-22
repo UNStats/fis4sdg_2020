@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Age	Sex
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	548	Vanuatu	2009.0	66.0	Float						Vanuatu 2009 Census		['']	C	PER_1000_POP	15-19	FEMALE
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	548	Vanuatu	2011.0	78.0	Float						Vanuatu 2013 Demographic and Health Survey – MICS		['']	C	PER_1000_POP	15-19	FEMALE
+SP_DYN_ADKL	Adolescent birth rate (per 1,000 women aged 15-19 years)	548	Vanuatu	2013.0	51.2	Float						Registration National Statistics		['']	C	PER_1000_POP	15-19	FEMALE

@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Age	Sex	Reporting Type
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	6.91	Float						PC - Population census		['Age coverage - minimum age: 17 years old | Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15-24	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	2.52	Float						PC - Population census		['Age coverage - minimum age: 17 years old | Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	3.6	Float						PC - Population census		['Age coverage - minimum age: 17 years old | Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	5.14	Float						PC - Population census		['Age coverage - minimum age: 17 years old']	C	PERCENT	25+	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	2.37	Float						PC - Population census		['Age coverage - minimum age: 17 years old']	C	PERCENT	25+	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	3.47	Float						PC - Population census		['Age coverage - minimum age: 17 years old']	C	PERCENT	25+	BOTHSEX	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	7.35	Float						PC - Population census		['Age coverage - minimum age: 17 years old | Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15-24	FEMALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	6.56	Float						PC - Population census		['Age coverage - minimum age: 17 years old | Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15-24	MALE	G
+SL_TLF_UEM	Unemployment rate, by sex and age (%)	492	Monaco	2000.0	5.23	Float						PC - Population census		['Age coverage - minimum age: 17 years old | Nonstandard age group: Excluding ages 15-16']	C	PERCENT	15+	FEMALE	G

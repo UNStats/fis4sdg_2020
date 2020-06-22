@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	196	Cyprus	2001.0	0.906885128438306	Float						PIRLS 2001		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	196	Cyprus	2003.0	0.830616492312025	Float						TIMSS 2003		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	196	Cyprus	2015.0	0.792912390434075	Float						TIMSS 2015		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	196	Cyprus	2018.0	1.08902699086126	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	196	Cyprus	2018.0	1.08175260041746	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ
