@@ -37,8 +37,6 @@ for g in sdg_meta:
 
             indicator_code = utils.clean_str(i['code'])
             indicator_reference = utils.clean_str(i['reference'])
-            indicator_tier = utils.clean_str(i['tier'])
-            indicator_custodians = utils.clean_str(i['custodianAgencies'])
             indicator_descEN = utils.clean_str(i['descEN'])
 
             for s in i['series']:
@@ -69,8 +67,6 @@ for g in sdg_meta:
                     d['target_descEN'] = target_descEN
                     d['indicator_code'] = indicator_code
                     d['indicator_reference'] = indicator_reference
-                    d['indicator_tier'] = indicator_tier
-                    d['indicator_custodians'] = indicator_custodians
                     d['indicator_descEN'] = indicator_descEN
                     d['series_release'] = series_release
                     d['series_tags'] = series_tags
