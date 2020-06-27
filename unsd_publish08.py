@@ -16,7 +16,7 @@ sdg_meta = utils.open_json('data/external/metadata_' + release + '.json')
 for g in sdg_meta:
 
     # if g['code'] != '1':
-    #     continue
+    #    continue
 
     goal_code = g['code']
     goal_labelEN = g['labelEN']

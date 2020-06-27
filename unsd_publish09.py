@@ -86,7 +86,7 @@ print(sdgTree[0]['code'])
 
 for g in sdgTree:
 
-    if g['code'] not in ['2']:
+    if g['code'] not in ['1']:
         continue
 
     for t in g['targets']:
@@ -100,8 +100,8 @@ for g in sdgTree:
             if 'series' in i.keys():
                 for s in i['series']:
 
-                    # if s['code'] != 'SI_POV_DAY1':
-                    #     continue
+                    if s['code'] != 'SI_COV_MATNL':
+                        continue
 
                     print('\nProcessing series code:',
                           i['reference'], s['code'])
