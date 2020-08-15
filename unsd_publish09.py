@@ -86,7 +86,7 @@ print(sdgTree[0]['code'])
 
 for g in sdgTree:
 
-    if g['code'] not in ['1']:
+    if g['code'] not in ['15', '16', '17']:
         continue
 
     for t in g['targets']:
@@ -94,14 +94,14 @@ for g in sdgTree:
         #     continue
 
         for i in t['indicators']:
-            # if i['reference'] != '1.1.1':
+            # if i['reference'] not in ['1.1.1', '1.3.1']:
             #     continue
 
             if 'series' in i.keys():
                 for s in i['series']:
 
-                    if s['code'] != 'SI_COV_MATNL':
-                        continue
+                    # if s['code'] != 'SI_COV_POOR':
+                    #     continue
 
                     print('\nProcessing series code:',
                           i['reference'], s['code'])
@@ -125,9 +125,9 @@ for g in sdgTree:
                                                            thumbnail=this_g['thumbnail'],
                                                            layer_info=layer_info,
                                                            gis_online_connection=gis_online_connection,
-                                                           data_dir=data_dir,
                                                            online_username=online_username,
-                                                           statistic_field='value_latest_year',
+                                                           data_dir=data_dir,
+                                                           statistic_field='latest_value',
                                                            property_update_only=False,
                                                            color=this_g['rgb'])
 
@@ -147,6 +147,6 @@ for g in sdgTree:
                                                             t["code"],
                                                             gis_online_connection)
 
-                        #open_data_group.update(tags=open_data_group["tags"] + [series["code"]])
+                        # open_data_group.update(tags=open_data_group["tags"] + [series["code"]])
                     else:
                         failed_series.append(s["code"])

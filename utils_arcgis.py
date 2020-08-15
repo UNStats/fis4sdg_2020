@@ -47,11 +47,19 @@ def build_series_card(g, t, i, s):
 
     try:
         s_card = dict()
-        title = 'Indicator ' + i['reference'] + ': ' + \
-            s['description'].replace('%', 'percent')
+
+        s_desc = s['description'].replace('%', 'percent').replace(
+            ',', ' ').replace('/', ' ')
+
+        title = 'Indicator ' + i['reference'] + ': ' + s_desc
+
         s_card['title'] = (title[:250] + '..') if len(title) > 250 else title
-        s_card['layer_title'] = s['description'].replace(
-            '%', 'percent').replace(',', ' ').replace('/', ' ')
+
+        layer_title = 'Indicator_' + \
+            i['reference'].replace('.', '_') + '__Series_' + s['code']
+
+        s_card['layer_title'] = layer_title[:89] if len(
+            layer_title) > 88 else layer_title  # this is very important!!!
 
         s_card['snippet'] = s_card['title']
 
@@ -59,7 +67,7 @@ def build_series_card(g, t, i, s):
         s_card['description'] =  \
             '<div style="background-color: #' + g['hex'] + '; color:#fff; padding: 15px">' + \
             '<ul style="list-style: none;">' + \
-            '<li><strong> Series Name:</strong> ' + s['description'].replace(',', ' ').replace('/', ' ') + '</li>' + \
+            '<li><strong> Series Name:</strong> ' + s_desc + '</li>' + \
             '<li><strong>Series Code:</strong> ' + s['code'] + '</li>' + \
             '<li><strong>Release Version:</strong> ' + s['release'] + '</li>' + \
             '</ul>' + \
@@ -179,8 +187,8 @@ def publish_csv(g, t, i, s,
                 thumbnail,
                 layer_info,
                 gis_online_connection,
-                data_dir,
                 online_username,
+                data_dir,
                 statistic_field='latest_value',
                 property_update_only=False,
                 color=[169, 169, 169]):
@@ -234,13 +242,17 @@ def publish_csv(g, t, i, s,
                 return None
 
             print('Analyze Feature Service....')
+
+            # Change attribute types:
             publish_parameters = analyze_csv(
                 csv_item['id'], gis_online_connection)
+
             if publish_parameters is None:
                 return None
             else:
                 publish_parameters['name'] = csv_item_properties['title']
                 publish_parameters['layerInfo']['name'] = csv_item_properties['layer_title']
+
                 print('Publishing Feature Service....')
                 csv_lyr = csv_item.publish(
                     publish_parameters=publish_parameters, overwrite=True)
@@ -258,6 +270,7 @@ def publish_csv(g, t, i, s,
             # Update the Data file for the CSV File
             csv_item.update(item_properties=csv_item_properties,
                             thumbnail=thumbnail, data=file)
+
             # Find the Feature Service and update the properties
             csv_lyr = find_online_item(
                 csv_item_properties['title'], online_username, gis_online_connection)
@@ -280,6 +293,7 @@ def publish_csv(g, t, i, s,
         else:
             return None
     else:
+        print('File ' + file + ' does not exist.')
         return None
 
 
@@ -287,13 +301,17 @@ def analyze_csv(item_id, gis_online_connection):
     try:
         sharing_url = gis_online_connection._url + \
             '/sharing/rest/content/features/analyze'
+
         analyze_params = {'f': 'json',
                           'token': gis_online_connection._con.token,
                           'sourceLocale': 'en-us',
                           'filetype': 'csv',
                           'itemid': item_id}
+
         r = requests.post(sharing_url, data=analyze_params)
+
         analyze_json_data = json.loads(r.content.decode('UTF-8'))
+
         for field in analyze_json_data['publishParameters']['layerInfo']['fields']:
             field['alias'] = set_field_alias(field['name'])
 
@@ -303,36 +321,49 @@ def analyze_csv(item_id, gis_online_connection):
             # print('---')
 
             # IndicatorCode is coming in as a date Field make the correct
+
+            if field['name'] == 'target_descEN':
+                field['type'] = 'esriFieldTypeString'
+                field['sqlType'] = 'sqlTypeNVarchar'
+
             if field['name'] == 'indicator_reference':
                 field['type'] = 'esriFieldTypeString'
                 field['sqlType'] = 'sqlTypeNVarchar'
 
-            if field['name'] == 'target_code':
+            elif field['name'] == 'target_code':
                 field['type'] = 'esriFieldTypeString'
                 field['sqlType'] = 'sqlTypeNVarchar'
 
-            if field['name'] == 'min_year':
+            elif field['name'] == 'min_year':
                 field['type'] = 'esriFieldTypeInteger'
                 field['sqlType'] = 'sqlTypeInt'
 
-            if field['name'] == 'max_year':
+            elif field['name'] == 'max_year':
                 field['type'] = 'esriFieldTypeInteger'
                 field['sqlType'] = 'sqlTypeInt'
 
-            if field['name'] == 'n_years':
+            elif field['name'] == 'n_years':
                 field['type'] = 'esriFieldTypeInteger'
                 field['sqlType'] = 'sqlTypeInt'
 
-            if field['name'] == 'valueDetails':
+            elif field['name'] == 'valueDetails':
                 field['type'] = 'esriFieldTypeString'
                 field['sqlType'] = 'sqlTypeNVarchar'
 
-            elif field['name'].startswith('value'):
+            elif field['name'].startswith('value_'):
                 field['type'] = 'esriFieldTypeDouble'
                 field['sqlType'] = 'sqlTypeFloat'
 
+            elif field['name'] == 'latest_value':
+                field['type'] = 'esriFieldTypeDouble'
+                field['sqlType'] = 'sqlTypeFloat'
+
+            else:
+                field['type'] = 'esriFieldTypeString'
+                field['sqlType'] = 'sqlTypeNVarchar'
+
         # set up some of the layer information for display
-        analyze_json_data['publishParameters']['layerInfo']['displayField'] = 'geoAreaName'
+        analyze_json_data['publishParameters']['layerInfo']['displayField'] = 'latest_value'
         return analyze_json_data['publishParameters']
     except:
         print('Unexpected error:', sys.exc_info()[0])
@@ -343,77 +374,77 @@ def set_field_alias(field_name):
 
     if field_name == 'goal_code':
         return 'Goal Code'
-    if field_name == 'goal_labelEN':
+    elif field_name == 'goal_labelEN':
         return 'Goal Label'
-    if field_name == 'goal_descEN':
+    elif field_name == 'goal_descEN':
         return 'Goal Description '
-    if field_name == 'target_code':
+    elif field_name == 'target_code':
         return 'Target Code'
-    if field_name == 'target_descEN':
+    elif field_name == 'target_descEN':
         return 'Target Description'
-    if field_name == 'indicator_code':
+    elif field_name == 'indicator_code':
         return 'Indicator Code'
-    if field_name == 'indicator_reference':
+    elif field_name == 'indicator_reference':
         return 'Indicator Reference'
-    if field_name == 'indicator_tier':
+    elif field_name == 'indicator_tier':
         return 'Tier'
-    if field_name == 'indicator_custodians':
+    elif field_name == 'indicator_custodians':
         return 'Custodian Agency'
-    if field_name == 'indicator_descEN':
+    elif field_name == 'indicator_descEN':
         return 'Indicator Description'
-    if field_name == 'series_release':
+    elif field_name == 'series_release':
         return 'Series Release'
-    if field_name == 'series_tags':
+    elif field_name == 'series_tags':
         return 'Tags'
-    if field_name == 'series':
+    elif field_name == 'series':
         return 'Series Code'
-    if field_name == 'seriesDescription':
+    elif field_name == 'seriesDescription':
         return 'Series Description'
-    if field_name == 'geoAreaCode':
+    elif field_name == 'geoAreaCode':
         return 'Geographic Area Code'
-    if field_name == 'geoAreaName':
+    elif field_name == 'geoAreaName':
         return 'Geographic Area Name'
-    if field_name == 'level':
+    elif field_name == 'level':
         return 'Geographic Area Level'
-    if field_name == 'parentCode':
+    elif field_name == 'parentCode':
         return 'Parent Geographic Area Code'
-    if field_name == 'parentName':
+    elif field_name == 'parentName':
         return 'Parent Geographic Area Name'
-    if field_name == 'type':
+    elif field_name == 'type':
         return 'Geographic Area Type'
-    if field_name == 'ISO3':
+    elif field_name == 'ISO3':
         return 'ISO Code'
-    if field_name == 'UN_Member':
+    elif field_name == 'UN_Member':
         return 'Is UN Member'
-    if field_name == 'Country_Profile':
+    elif field_name == 'Country_Profile':
         return 'Has Country Proile'
-    if field_name == 'years':
+    elif field_name == 'years':
         return 'Available Years'
-    if field_name == 'min_year':
+    elif field_name == 'min_year':
         return 'Earliest Year Available'
-    if field_name == 'max_year':
+    elif field_name == 'max_year':
         return 'Latest Year Available'
-    if field_name == 'n_years':
+    elif field_name == 'n_years':
         return 'Number of Years Available'
-    if field_name == 'unitsCode':
+    elif field_name == 'unitsCode':
         return 'Measurement Unit Code'
-    if field_name == 'unitsDesc':
+    elif field_name == 'unitsDesc':
         return 'Measurement Unit Description'
-    if field_name == 'reportingTypeCode':
+    elif field_name == 'reportingTypeCode':
         return 'Reporting Type Code'
-    if field_name == 'reportingTypeDesc':
+    elif field_name == 'reportingTypeDesc':
         return 'Reporting Type Description'
-    if field_name == 'basePeriod':
+    elif field_name == 'basePeriod':
         return 'Base Period'
-    if field_name == 'valueDetails':
+    elif field_name == 'valueDetails':
         return 'Value Details'
-    if field_name == 'footnotes':
+    elif field_name == 'footnotes':
         return 'Footnotes'
-    if field_name == 'sources':
+    elif field_name == 'sources':
         return 'Sources'
-    if field_name == 'timeDetails':
+    elif field_name == 'timeDetails':
         return 'Time Period Details'
-    if field_name == 'nature':
+    elif field_name == 'nature':
         return 'Nature'
     else:
         return utils.camel_case_split(field_name.replace('_', ' ')).replace(' Desc', ' Description').title()
