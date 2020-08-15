@@ -81,6 +81,7 @@ for g in sdg_meta:
                     indicator_reference.replace(
                         '.', '_') + '__Series_' + series_code + '.csv'
 
-                utils.dictList2csv(new_data, file_out)
+                # It thas to be tab-delimited, in order to be able to deal with commans within strings.
+                utils.dictList2tsv(new_data, file_out)
 
                 print(f'--finished processing file {file_out}')
