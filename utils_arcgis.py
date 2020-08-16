@@ -460,3 +460,13 @@ def update_item_categories(item, goal, target, gis_online_connection):
     r = requests.post(update_url, data=update_params)
     update_json_data = json.loads(r.content.decode("UTF-8"))
     print(update_json_data)
+
+
+def set_content_status(gis_online_connection, update_item, authoratative=True):
+    sharing_url = gis_online_connection._url + \
+        "/sharing/rest/content/items/" + update_item.id + "/setContentStatus"
+    sharing_params = {'f': 'json', 'token': gis_online_connection._con.token,
+                      'status': 'org_authoritative' if authoratative else 'deprecated',
+                      'clearEmptyFields': 'false'}
+    r = requests.post(sharing_url, data=sharing_params)
+    sharing_json_data = json.loads(r.content.decode("UTF-8"))
