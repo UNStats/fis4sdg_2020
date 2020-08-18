@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+SG_LGL_LNDFEMOD	Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)	170	Colombia	2019.0	6	Float						"Ministerio de Agricultura y Desarrollo Rural (MADR)
+Ministerio de Vivienda, Ciudad y Territorio (MVCT)
+Unidad de Planificación Rural Agropecuaria (UPRA)
+Departamento Administrativo Nacional de Estadística (DANE)"		['Score 1-6:  1=No evidence of guarantees of gender equality in land ownership and/or control in the legal framework; 6=Highest levels of guarantees of gender equality in land ownership and/or control in the legal framework']	C	SCORE	G
