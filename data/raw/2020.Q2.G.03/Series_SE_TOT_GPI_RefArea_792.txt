@@ -1,0 +1,16 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	1999.0	0.9867	Float						TIMSS 1999		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2001.0	1.12148	Float						PIRLS 2001		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2003.0	1.29098	Float						PISA 2003		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2006.0	1.33051	Float						PISA 2006		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2007.0	1.01443	Float						TIMSS 2007		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2009.0	1.27742	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2011.0	1.05776	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2011.0	0.99085	Float						TIMSS 2011		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2012.0	1.27102	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2015.0	1.04861	Float						TIMSS 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2015.0	0.97558	Float						TIMSS 2015		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2015.0	1.22633	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2015.0	0.68105	Float						PIAAC 2015		['']	C	Ratio	_T	G	NUME
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2015.0	0.84474	Float						PIAAC 2015		['']	C	Ratio	_T	G	LITE
+SE_TOT_GPI	Gender parity index for achievement (ratio)	792	Turkey	2018.0	1.16031	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ

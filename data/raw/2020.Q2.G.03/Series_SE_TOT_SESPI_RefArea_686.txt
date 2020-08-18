@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2014.0	0.166905590825312	Float						PASEC 2014		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2014.0	0.231802120141343	Float						PASEC 2014		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2014.0	0.423175234308435	Float						PASEC 2014		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2014.0	0.151232166018158	Float						PASEC 2014		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2015.0	0.356822223575919	Float						PISA D 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	686	Senegal	2015.0	0.27917831516035	Float						PISA D 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ

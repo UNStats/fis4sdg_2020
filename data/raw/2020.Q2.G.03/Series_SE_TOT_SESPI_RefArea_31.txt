@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	31	Azerbaijan	2011.0	1.02566192678305	Float						PIRLS 2011		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	31	Azerbaijan	2011.0	0.933911098303247	Float						TIMSS 2011		['']	C	Ratio	PRIMAR	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	31	Azerbaijan	2016.0	0.902708874283027	Float						PIRLS 2016		['']	C	Ratio	PRIMAR	G	SKILL_READ

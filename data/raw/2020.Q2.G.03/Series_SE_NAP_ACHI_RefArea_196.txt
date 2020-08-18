@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_NAP_ACHI	Native parity index for achievement (ratio)	196	Cyprus	2001.0	1.09282799704243	Float						PIRLS 2001		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	196	Cyprus	2003.0	1.38191409713093	Float						TIMSS 2003		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	196	Cyprus	2015.0	1.06464181240328	Float						TIMSS 2015		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_NAP_ACHI	Native parity index for achievement (ratio)	196	Cyprus	2018.0	0.994018183704235	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_NAP_ACHI	Native parity index for achievement (ratio)	196	Cyprus	2018.0	0.978282794923457	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_MATH

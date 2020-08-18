@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	826	United Kingdom of Great Britain and Northern Ireland	2015.0	0.808834546349098	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	826	United Kingdom of Great Britain and Northern Ireland	2015.0	0.751509402457691	Float						PISA 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	826	United Kingdom of Great Britain and Northern Ireland	2018.0	0.810574043002123	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	826	United Kingdom of Great Britain and Northern Ireland	2018.0	0.758805207140985	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_MATH

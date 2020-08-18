@@ -1,0 +1,9 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2006.0	0.928523582545698	Float						PISA 2006		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2006.0	0.959581126688463	Float						PISA 2006		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2009.0	0.905008846457532	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2009.0	0.985497257812712	Float						PISA 2009		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2011.0	1.00569940166887	Float						PIRLS 2011		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2012.0	0.882187592582369	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2012.0	0.848999895470854	Float						PISA 2012		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	191	Croatia	2015.0	0.798895309579027	Float						TIMSS 2015		['']	C	Ratio	PRIMAR	G	SKILL_MATH
