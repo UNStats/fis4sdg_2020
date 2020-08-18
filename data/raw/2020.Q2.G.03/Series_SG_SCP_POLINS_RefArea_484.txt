@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Policy instruments
+SG_SCP_POLINS	Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)	484	Mexico	2019.0	1	Float						Environment Live / 10YFP		['']	C	NUMBER	G	POLICY_VOLSRG
+SG_SCP_POLINS	Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)	484	Mexico	2019.0	1	Float						Environment Live / 10YFP		['']	C	NUMBER	G	POLICY_REGLEG
+SG_SCP_POLINS	Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)	484	Mexico	2019.0	1	Float						Environment Live / 10YFP		['']	C	NUMBER	G	_T
+SG_SCP_POLINS	Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)	484	Mexico	2019.0	1	Float						Environment Live / 10YFP		['']	C	NUMBER	G	POLICY_MACRO

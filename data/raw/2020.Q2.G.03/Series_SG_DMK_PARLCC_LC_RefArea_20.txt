@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Sex	Reporting Type	Parliamentary committees	Age
+SG_DMK_PARLCC_LC	Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral	20	Andorra	2020.0	1	Float						IPU		['Unicameral (General council)']	NA	NUMBER	FEMALE	G	GEN_EQU	46+
+SG_DMK_PARLCC_LC	Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral	20	Andorra	2020.0	0	Float						IPU		['Unicameral (General council). No committee.']	NA	NUMBER	_X	G	DEFENCE	_X
+SG_DMK_PARLCC_LC	Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral	20	Andorra	2020.0	1	Float						IPU		['Unicameral (General council)']	NA	NUMBER	MALE	G	FOR_AFF	46+
+SG_DMK_PARLCC_LC	Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral	20	Andorra	2020.0	1	Float						IPU		['Unicameral (General council)']	NA	NUMBER	FEMALE	G	HUM_RIGH	<=45Y
+SG_DMK_PARLCC_LC	Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral	20	Andorra	2020.0	1	Float						IPU		['Unicameral (General council)']	NA	NUMBER	MALE	G	FINANCE	46+
