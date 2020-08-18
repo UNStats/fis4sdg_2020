@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	508	Mozambique	2015.0	0	Float						ITU		['We do not have LTE yet']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	508	Mozambique	2016.0	0	Float						ARECOM		['']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	508	Mozambique	2017.0	0	Float						ARECOM		['We do not have LTE yet']	NA	PERCENT	G
+IT_MOB_4GNTWK	Proportion of population covered by at least a 4G mobile network (%)	508	Mozambique	2018.0	33	Float						ARECOM		['Estimate as all mayor cities have LTE coverage and the operator have replaced 3G SIM by LTE']	NA	PERCENT	G

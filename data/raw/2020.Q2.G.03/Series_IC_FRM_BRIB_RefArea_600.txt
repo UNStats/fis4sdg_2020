@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+IC_FRM_BRIB	Bribery incidence (% of firms experiencing at least one bribe payment request)	600	Paraguay	2006.0	26.34589	Float						WDI		['']	E	PERCENT	G
+IC_FRM_BRIB	Bribery incidence (% of firms experiencing at least one bribe payment request)	600	Paraguay	2010.0	31.52421	Float						WDI		['']	E	PERCENT	G
+IC_FRM_BRIB	Bribery incidence (% of firms experiencing at least one bribe payment request)	600	Paraguay	2017.0	13.82004	Float						WDI		['']	E	PERCENT	G

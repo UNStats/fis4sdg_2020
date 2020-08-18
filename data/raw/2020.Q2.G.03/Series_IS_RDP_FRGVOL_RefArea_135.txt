@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	135	Caucasus and Central Asia	2017.0	260813480	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	135	Caucasus and Central Asia	2018.0	203740686	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	135	Caucasus and Central Asia	2018.0	2914159201.60845	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	135	Caucasus and Central Asia	2018.0	254372773182.126	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	135	Caucasus and Central Asia	2018.0	327591193140.158	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	RAI	G
