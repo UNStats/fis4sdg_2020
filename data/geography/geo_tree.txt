@@ -211,7 +211,7 @@ level	parentCode	parentName	geoAreaCode	geoAreaName	type	X	Y	ISO3	UN_Member	Coun
 4	30	Eastern Asia	408	Democratic People's Republic of Korea	Country	127.1803633	40.1462645	PRK	1	1
 4	30	Eastern Asia	410	Republic of Korea	Country	127.8610254	36.45201023	KOR	1	1
 4	30	Eastern Asia	496	Mongolia	Country	103.0728057	46.83892054	MNG	1	1
-4	30	Eastern Asia	158	Other non-specified areas	Country					
+4	30	Eastern Asia	158	Other non-specified areas in Eastern Asia	Country					
 3	142	Asia	35	South-Eastern Asia	Region					
 4	35	South-Eastern Asia	96	Brunei Darussalam	Country	114.6288563	4.49736984	BRN	1	1
 4	35	South-Eastern Asia	116	Cambodia	Country	104.922836	12.71163737	KHM	1	1
@@ -320,20 +320,20 @@ level	parentCode	parentName	geoAreaCode	geoAreaName	type	X	Y	ISO3	UN_Member	Coun
 3	922	Custom groupings of data providers	99029	FAO Major Fishing Area: Atlantic, Eastern Central	Major Fishing Areas					
 3	922	Custom groupings of data providers	99030	FAO Major Fishing Area: Atlantic, Southwest	Major Fishing Areas					
 3	922	Custom groupings of data providers	99031	FAO Major Fishing Area: Pacific, Southeast	Major Fishing Areas					
-3	922	Custom groupings of data providers	99032	FAO Major Fishing Area: Mediterranean and Black Sea	Major Fishing areas					
+3	922	Custom groupings of data providers	99032	FAO Major Fishing Area: Mediterranean and Black Sea	Major Fishing Areas					
 3	922	Custom groupings of data providers	896	Areas not elsewhere specified	Country					
 3	922	Custom groupings of data providers	99033	World Marine Bunkers	Other areas					
 3	922	Custom groupings of data providers	99034	World Aviation Bunkers	Other areas					
 3	922	Custom groupings of data providers	99035	Residual/unallocated ODA: Central Asia and Southern Asia	Other areas					
 3	922	Custom groupings of data providers	99036	Residual/unallocated ODA: Eastern and South-eastern Asia	Other areas					
 3	922	Custom groupings of data providers	99037	Residual/unallocated ODA: Latin America and the Caribbean	Other areas					
-3	922	Custom groupings of data providers	99038	 Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand	Other areas					
+3	922	Custom groupings of data providers	99038	Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand	Other areas					
 3	922	Custom groupings of data providers	99039	Residual/unallocated ODA: Sub-Saharan Africa	Other areas					
 3	922	Custom groupings of data providers	99040	Residual/unallocated ODA: Western Asia and Northern Africa	Other areas					
 3	922	Custom groupings of data providers	577	Africa not elsewhere specified	Other areas					
 3	922	Custom groupings of data providers	636	Other non-oecd Americas	Other areas					
 3	922	Custom groupings of data providers	527	Other non-OECD Oceania	Other areas					
-3	922	Custom groupings of data providers	487	Other non-OECD Asia	Other areas					
+3	922	Custom groupings of data providers	487	Other non-OECD Asia	490					
 1			910	High income economies (WB)	Group					
 1			911	Low income economies (WB)	Group					
 1			912	Lower middle economies (WB)	Group					
@@ -351,6 +351,6 @@ level	parentCode	parentName	geoAreaCode	geoAreaName	type	X	Y	ISO3	UN_Member	Coun
 1			722	Small island developing States (SIDS)	Group					
 1			432	Landlocked developing countries (LLDCs)	Group					
 1			921	ODA residual	Group					
-1			899	World Trade Organization (WTO) Member States	Group					
+1			899 World Trade Organization (WTO) Member States		Group					
 1			915	World Trade Organization (WTO) Developing Member States	Group					
 1			916	World Trade Organization (WTO) Developed Member States	Group					

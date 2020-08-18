@@ -4,9 +4,13 @@ from arcgis.features import FeatureLayerCollection
 import utils_arcgis
 import json
 import requests
+import utils
+import set_release
 
 
 historic_folder = 'Historic Data 2020Q1G02'
+
+release = set_release.set_release()
 
 
 global open_data_group

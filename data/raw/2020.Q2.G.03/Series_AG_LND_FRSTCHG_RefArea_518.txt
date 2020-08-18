@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+AG_LND_FRSTCHG	Forest area annual net change rate (%)	518	Eastern Asia (excluding Japan)	2010.0	1.08	Float						FAO, Global Forest Resources Assessment		['Aggregate, may include official, semi-official, estimated or calculated data']	NA	PERCENT	G
+AG_LND_FRSTCHG	Forest area annual net change rate (%)	518	Eastern Asia (excluding Japan)	2015.0	0.82	Float						FAO, Global Forest Resources Assessment		['Aggregate, may include official, semi-official, estimated or calculated data']	NA	PERCENT	G
+AG_LND_FRSTCHG	Forest area annual net change rate (%)	518	Eastern Asia (excluding Japan)	2020.0	0.79	Float						FAO, Global Forest Resources Assessment		['Aggregate, may include official, semi-official, estimated or calculated data']	NA	PERCENT	G
