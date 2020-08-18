@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Level/Status	Reporting Type
+ER_H2O_IWRMP	Proportion of countries by IWRM implementation category (%)	1	World	2018.0	15	Float						Environment Live		['']	C	PERCENT	HIGIMP	G
+ER_H2O_IWRMP	Proportion of countries by IWRM implementation category (%)	1	World	2018.0	19	Float						Environment Live		['']	C	PERCENT	LOWIMP	G
+ER_H2O_IWRMP	Proportion of countries by IWRM implementation category (%)	1	World	2018.0	41	Float						Environment Live		['']	C	PERCENT	MLOWIMP	G
+ER_H2O_IWRMP	Proportion of countries by IWRM implementation category (%)	1	World	2018.0	21	Float						Environment Live		['']	C	PERCENT	MHIGIMP	G
+ER_H2O_IWRMP	Proportion of countries by IWRM implementation category (%)	1	World	2018.0	4	Float						Environment Live		['']	C	PERCENT	VHIGIMP	G
+ER_H2O_IWRMP	Proportion of countries by IWRM implementation category (%)	1	World	2018.0	1	Float						Environment Live		['']	C	PERCENT	VLOWIMP	G
