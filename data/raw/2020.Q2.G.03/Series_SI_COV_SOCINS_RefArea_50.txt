@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	50	Bangladesh	2005.0	0.10191	Float						Bangladesh Bureau of Statistics		['Household Income and Expenditure Survey']	CA	PERCENT	G	Q1
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	50	Bangladesh	2005.0	1.64765	Float						Bangladesh Bureau of Statistics		['Household Income and Expenditure Survey']	CA	PERCENT	G	_T
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	50	Bangladesh	2010.0	1.49869	Float						Bangladesh Bureau of Statistics - Ministry of Planning		['Household Income and Expenditure Survey ']	CA	PERCENT	G	_T
+SI_COV_SOCINS	[World Bank] Proportion of population covered by social insurance programs (%)	50	Bangladesh	2010.0	0.27228	Float						Bangladesh Bureau of Statistics - Ministry of Planning		['Household Income and Expenditure Survey ']	CA	PERCENT	G	Q1

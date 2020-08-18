@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Quantile
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	50	Bangladesh	2005.0	22.49777	Float						Bangladesh Bureau of Statistics		['Household Income and Expenditure Survey']	CA	PERCENT	G	Q1
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	50	Bangladesh	2005.0	12.39732	Float						Bangladesh Bureau of Statistics		['Household Income and Expenditure Survey']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	50	Bangladesh	2010.0	13.09173	Float						Bangladesh Bureau of Statistics - Ministry of Planning		['Household Income and Expenditure Survey ']	CA	PERCENT	G	_T
+SI_COV_SOCAST	[World Bank] Proportion of population covered by social assistance programs (%)	50	Bangladesh	2010.0	22.33348	Float						Bangladesh Bureau of Statistics - Ministry of Planning		['Household Income and Expenditure Survey ']	CA	PERCENT	G	Q1
