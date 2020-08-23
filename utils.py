@@ -5,6 +5,36 @@ import json
 import csv
 import pandas as pd
 import sys
+import numpy as np
+import math
+
+
+def round_KFM(x, n):
+    '''Commercial Rounding'''
+    posneg = math.copysign(1, x)
+    z = abs(x)*10**n
+    z = z + 0.5
+    z = math.trunc(z)
+    z = z/10**n
+    result = z * posneg
+    return result
+
+
+def is_quasiConstant(x, cv_threshold):
+    '''Is quasi constant?'''
+    if len(x) == 1:
+        return True
+    elif all(x_i == x[0] for x_i in x):
+        return True
+    elif all(x_i > 0 for x_i in x) and cv(x) < cv_threshold:
+        return True
+    else:
+        return False
+
+
+def cv(x):
+    '''Coefficient of variation'''
+    return np.std(x) / np.mean(x)
 
 
 def camel_case(st):
