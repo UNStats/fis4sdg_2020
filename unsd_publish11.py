@@ -1,133 +1,111 @@
-import availability
-import set_schema
+from arcgis.gis import GIS
+from arcgis.features import FeatureLayerCollection
+
+import utils_arcgis
+import json
+import requests
 import utils
 import set_release
+from bs4 import BeautifulSoup
+
+# ----------------------------------------------------------------------
+# This script reads metadata card of the items published in SDG hub and
+# and creates a table with the arcGIS item is corresponding to each
+# SDG data series. The output is stored in ..data/external/hub_items_[release]
+# ----------------------------------------------------------------------
+
 
 release = set_release.set_release()
 
+# Establish ArcGIS connection
+online_username, gis_online_connection = utils_arcgis.connect_to_arcGIS()
 
-# *******************************************************************
-# Create country-profile builder
-# *******************************************************************
+print(gis_online_connection)
 
-schema = set_schema.set_schema()
-ts_columns = ['timeCoverage', 'geoInfoUrl',
-              'years', 'min_year', 'max_year', 'n_years']
+open_data_group_prod_id_01 = '66d8595b381440afb5e320a9265c3fe1'  # UNSD_SDG01
+open_data_group_prod_id_02 = '065896a584ca4ceb920fbdd3892bee05'  # UNSD_SDG02
+open_data_group_prod_id_03 = 'a5552356ddd04e6fb05905bf931e9e54'  # UNSD_SDG03
+open_data_group_prod_id_04 = 'c15ae34432ee46b49e3533668ae63d79'  # UNSD_SDG04
+open_data_group_prod_id_05 = '25e04240b93f498e96427bd633b98dbc'  # UNSD_SDG05
+open_data_group_prod_id_06 = 'e03793e08ed849be8e8b3abebf7ec983'  # UNSD_SDG06
+open_data_group_prod_id_07 = 'c7e2215476e14a1a84e6990934275048'  # UNSD_SDG07
+open_data_group_prod_id_08 = '1c8f53673a514f83bf932b1f8a1e9ec5'  # UNSD_SDG08
+open_data_group_prod_id_09 = '688e20ebffb74d43b40ffbf297e3cf72'  # UNSD_SDG09
+open_data_group_prod_id_10 = '2b3548cac5bf4cd2941d41751b45e992'  # UNSD_SDG10
+open_data_group_prod_id_11 = '2455ce9284e5452a855576aad64e5a75'  # UNSD_SDG11
+open_data_group_prod_id_12 = '713a738b9851495aba305483fba820ca'  # UNSD_SDG12
+open_data_group_prod_id_13 = 'a334f601cbce43e4b47b0de8aa1a5b38'  # UNSD_SDG13
+open_data_group_prod_id_14 = 'b3cc3fd1f58e46df8aaaa9616186f7c7'  # UNSD_SDG14
+open_data_group_prod_id_15 = '157221a102d3405eb15430aff5204ad8'  # UNSD_SDG15
+open_data_group_prod_id_16 = '4452219ecc1c4573a4384b6b05a9b5b5'  # UNSD_SDG16
+open_data_group_prod_id_17 = 'dd0676a1809b40309c1302e9ba64bd89'  # UNSD_SDG17
+
+online_username_admin = 'unstats_admin'
+
+# ----
+open_data_group_prod_01 = gis_online_connection.groups.get(
+    open_data_group_prod_id_01)
+open_data_group_prod_02 = gis_online_connection.groups.get(
+    open_data_group_prod_id_02)
+open_data_group_prod_03 = gis_online_connection.groups.get(
+    open_data_group_prod_id_03)
+open_data_group_prod_04 = gis_online_connection.groups.get(
+    open_data_group_prod_id_04)
+open_data_group_prod_05 = gis_online_connection.groups.get(
+    open_data_group_prod_id_05)
+open_data_group_prod_06 = gis_online_connection.groups.get(
+    open_data_group_prod_id_06)
+open_data_group_prod_07 = gis_online_connection.groups.get(
+    open_data_group_prod_id_07)
+open_data_group_prod_08 = gis_online_connection.groups.get(
+    open_data_group_prod_id_08)
+open_data_group_prod_09 = gis_online_connection.groups.get(
+    open_data_group_prod_id_09)
+open_data_group_prod_10 = gis_online_connection.groups.get(
+    open_data_group_prod_id_10)
+open_data_group_prod_11 = gis_online_connection.groups.get(
+    open_data_group_prod_id_11)
+open_data_group_prod_12 = gis_online_connection.groups.get(
+    open_data_group_prod_id_12)
+open_data_group_prod_13 = gis_online_connection.groups.get(
+    open_data_group_prod_id_13)
+open_data_group_prod_14 = gis_online_connection.groups.get(
+    open_data_group_prod_id_14)
+open_data_group_prod_15 = gis_online_connection.groups.get(
+    open_data_group_prod_id_15)
+open_data_group_prod_16 = gis_online_connection.groups.get(
+    open_data_group_prod_id_16)
+open_data_group_prod_17 = gis_online_connection.groups.get(
+    open_data_group_prod_id_17)
 
 
-folder = 'data/raw/' + release
-regex = r'Series_(.*?)_RefArea_(.*?).txt'
-i_series = 1
-i_geo = 2
+admin_user = gis_online_connection.users.get(online_username_admin)
 
-series_list = availability.available_series(folder, regex, i_series, i_geo)
+sdg_meta = utils.open_json('data/external/metadata_' + release + '.json')
 
-all_dimensions = []
+item_list = []
 
-for s in series_list:
+for g in sdg_meta:
 
-    # if s != 'IS_RDP_PFVOL':
-    #    continue
-
-    # if s[0:2] != 'AG':
-    #    continue
-
-    # print(f'--started processing series {s}')
-
-    # Get Time Series file (with time series keys):
-    file_ts = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
-    data = utils.tsv2dictlist(file_ts)
-
-    dimensions_ts = [x for x in data[0].keys(
-    ) if x not in schema['dim_series'] + schema['dim_geo'] + ts_columns]
-
-    all_dimensions = list(set(all_dimensions) | set(dimensions_ts))
-
-counts = {}
-for i in all_dimensions:
-    counts[i] = 0
-
-for s in series_list:
-    file_ts = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
-    data = utils.tsv2dictlist(file_ts)
-    dimensions_ts = [x for x in data[0].keys(
-    ) if x not in schema['dim_series'] + schema['dim_geo'] + ts_columns]
-    for i in dimensions_ts:
-        counts[i] = counts[i] + 1
-
-all_dimensions = [x for _, x in sorted(
-    zip(list(counts.values()), list(counts.keys())), reverse=True)]
-
-# ---------------------------------
-
-country_profile_builder = []
-
-for s in series_list:
-
-    # if s != 'IS_RDP_PFVOL':
+    # if g['code'] not in ['1']:
     #     continue
 
-    # Get Time Series file (with time series keys):
-    file_ts = 'data/interim/' + release + '/time_series/TimeSeries_' + s + '.txt'
-    data = utils.tsv2dictlist(file_ts)
+    goal_code = g['code']
 
-    dimensions_ts = [x for x in data[0].keys(
-    ) if x not in schema['dim_series'] + schema['dim_geo'] + ts_columns]
+    user_items = admin_user.items(
+        folder='Open Data - SDG '+goal_code.zfill(2), max_items=800)
 
-    # List of unique countries:
-    '''
-    series	seriesDescription	geoAreaCode	geoAreaName	level	parentCode	parentName
-    type	X	Y	ISO3	UN_Member	Country_Profile	timeCoverage	geoInfoUrl
-    age_code	age_desc	sex_code	sex_desc	years	min_year	max_year	n_years
-    '''
+    for item in user_items:
+        if item.type == 'Feature Service':
 
-    x = utils.unique_dicts(
-        utils.subdict_list(
-            utils.select_dict(
-                data, {'type': 'Country', 'Country_Profile': '1'}),
-            schema['dim_series'] + ['geoAreaCode', 'geoAreaName'] + ['years', 'min_year', 'max_year', 'n_years'] + dimensions_ts))
+            soup = BeautifulSoup(item.description, "html.parser")
+            list_items = soup.findAll('li')
+            series = list_items[1].text.replace('Series Code: ', '')
 
-    y = utils.unique_dicts(utils.subdict_list(
-        x, schema['dim_series'] + dimensions_ts))
+            item_list.append(
+                {'goal': g['code'], 'series': series, 'id': item.id})
 
-    for i in y:
+file_out = 'data/external/hub_items_' + release + '.txt'
 
-        select_ts = {}
-        for t in dimensions_ts:
-            select_ts[t] = i[t]
-
-        z = utils.select_dict(
-            x, select_ts)
-
-        min_year = []
-        max_year = []
-        n_years = []
-
-        for j in z:
-            min_year.append(int(j['min_year']))
-            max_year.append(int(j['max_year']))
-            n_years.append(int(j['n_years']))
-
-        d = {}
-        d['n_countries'] = len(z)
-        d['series'] = i['series']
-        d['seriesDescription'] = i['seriesDescription']
-        d['min_year'] = min(min_year)
-        d['max_year'] = max(max_year)
-        d['min_n_years'] = min(n_years)
-        d['max_n_years'] = max(n_years)
-        d['n_disaggregations'] = len(dimensions_ts) / 2
-
-        for k in all_dimensions:
-            if k in i.keys():
-                d[k] = i[k]
-            else:
-                d[k] = None
-        country_profile_builder.append(d)
-
-
-file_out = 'data/interim/' + release + '/CountryProfileBuilder.txt'
-
-utils.dictList2tsv(country_profile_builder, file_out)
-
-print(f'--finished country_profile_builder')
+# It thas to be tab-delimited, in order to be able to deal with commans within strings.
+utils.dictList2tsv(item_list, file_out)
