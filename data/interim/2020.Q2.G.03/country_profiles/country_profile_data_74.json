@@ -1,0 +1,56 @@
+[
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "74",
+        "country_name": "Bouvet Island",
+        "indicator_code": "C140501",
+        "indicator_reference": "14.5.1",
+        "seriesCode": "ER_MRN_MARINT",
+        "seriesDescription": "Protected marine area (Exclusive Economic Zones) (square kilometres)",
+        "timeSeriesTitle": "Protected marine area (Exclusive Economic Zones)",
+        "timeSeriesUnit": "square kilometres",
+        "hub": "be1eb5aebdf24e43a91a769e3d6fbd2b",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0"
+        ],
+        "data_years": [
+            2017
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "74",
+        "country_name": "Bouvet Island",
+        "indicator_code": "C140501",
+        "indicator_reference": "14.5.1",
+        "seriesCode": "ER_MRN_MARIN",
+        "seriesDescription": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
+        "timeSeriesTitle": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones)",
+        "timeSeriesUnit": "percent",
+        "hub": "1a4acac4d7284c75a48b7c5d07dfdc36",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0
+        ],
+        "preferred_visualization": null
+    }
+]

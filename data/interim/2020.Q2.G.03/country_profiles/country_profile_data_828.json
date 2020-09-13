@@ -1,0 +1,285 @@
+[
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "828",
+        "country_name": "United Kingdom (Northern Ireland)",
+        "indicator_code": "C160103",
+        "indicator_reference": "16.1.3",
+        "seriesCode": "VC_VOV_PHYL",
+        "seriesDescription": "Proportion of population subjected to physical violence in the previous 12 months, by sex (%)",
+        "timeSeriesTitle": "Proportion of population subjected to physical violence in the previous 12 months",
+        "timeSeriesUnit": "percent",
+        "hub": "6dfe1bd8bae24d85aa1ee60a361566a1",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "_T"
+        },
+        "data_values": [
+            "2.1",
+            "1.8",
+            "1.8",
+            "1.3",
+            "1.1",
+            "1.1",
+            "1.7",
+            "1.8",
+            "1.4"
+        ],
+        "data_years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            2.1,
+            1.8,
+            1.8,
+            1.3,
+            1.1,
+            1.1,
+            1.7,
+            1.8,
+            1.4
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "828",
+        "country_name": "United Kingdom (Northern Ireland)",
+        "indicator_code": "C160103",
+        "indicator_reference": "16.1.3",
+        "seriesCode": "VC_VOV_ROBB",
+        "seriesDescription": "Proportion of population subjected to robbery in the previous 12 months, by sex (%)",
+        "timeSeriesTitle": "Proportion of population subjected to robbery in the previous 12 months",
+        "timeSeriesUnit": "percent",
+        "hub": "8b7981e92353421895bb37a0a8225a6c",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "_T"
+        },
+        "data_values": [
+            "0.4",
+            "0.1",
+            "0.1",
+            "0.2",
+            "0.2",
+            "0.1",
+            "0.0",
+            "0.1",
+            "0.2",
+            "0.1",
+            "0.0",
+            "0.0",
+            "0.2"
+        ],
+        "data_years": [
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.4,
+            0.1,
+            0.1,
+            0.2,
+            0.2,
+            0.1,
+            0.0,
+            0.1,
+            0.2,
+            0.1,
+            0.0,
+            0.0,
+            0.2
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "828",
+        "country_name": "United Kingdom (Northern Ireland)",
+        "indicator_code": "C160104",
+        "indicator_reference": "16.1.4",
+        "seriesCode": "VC_SNS_WALN",
+        "seriesDescription": "Proportion of population that feel safe walking alone around the area they live (%)",
+        "timeSeriesTitle": "Proportion of population that feel safe walking alone around the area they live",
+        "timeSeriesUnit": "percent",
+        "hub": "93cea5544d6a41859f14ee6ed7a4cc95",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "_T"
+        },
+        "data_values": [
+            "0.75",
+            "0.75",
+            "0.77",
+            "0.77",
+            "0.79",
+            "0.76"
+        ],
+        "data_years": [
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.75,
+            0.75,
+            0.77,
+            0.77,
+            0.79,
+            0.76
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "828",
+        "country_name": "United Kingdom (Northern Ireland)",
+        "indicator_code": "C160301",
+        "indicator_reference": "16.3.1",
+        "seriesCode": "VC_PRR_PHYV",
+        "seriesDescription": "Police reporting rate for physical assault, by sex (%)",
+        "timeSeriesTitle": "Police reporting rate for physical assault",
+        "timeSeriesUnit": "percent",
+        "hub": "cabe0a418bff46e8a26f896c29ff0ea2",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "_T"
+        },
+        "data_values": [
+            "43.0",
+            "46.0",
+            "48.0",
+            "50.0",
+            "58.0",
+            "74.0",
+            "48.0",
+            "56.0",
+            "39.0"
+        ],
+        "data_years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            43.0,
+            46.0,
+            48.0,
+            50.0,
+            58.0,
+            74.0,
+            48.0,
+            56.0,
+            39.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "828",
+        "country_name": "United Kingdom (Northern Ireland)",
+        "indicator_code": "C160302",
+        "indicator_reference": "16.3.2",
+        "seriesCode": "VC_PRS_UNSEC",
+        "seriesDescription": "Unsentenced detainees as a proportion of overall prison population (%)",
+        "timeSeriesTitle": "Unsentenced detainees as a proportion of overall prison population",
+        "timeSeriesUnit": "percent",
+        "hub": "54ea233d154243a3a4ba1bfcc3c126cb",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "32.7",
+            "24.5",
+            "27.1"
+        ],
+        "data_years": [
+            2005,
+            2015,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            32.7,
+            24.5,
+            27.1
+        ],
+        "preferred_visualization": null
+    }
+]

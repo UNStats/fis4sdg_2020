@@ -1,0 +1,1409 @@
+[
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C010401",
+        "indicator_reference": "1.4.1",
+        "seriesCode": "SP_ACS_BSRVH2O",
+        "seriesDescription": "Proportion of population using basic drinking water services, by location (%)",
+        "timeSeriesTitle": "Proportion of population using basic drinking water services",
+        "timeSeriesUnit": "percent",
+        "hub": "da7d9e13a45b4734b5eef4b8355cdb6c",
+        "dashboard": "",
+        "slice_dimensions": {
+            "location_code": "_T"
+        },
+        "data_values": [
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4",
+            "91.4"
+        ],
+        "data_years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4,
+            91.4
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C030702",
+        "indicator_reference": "3.7.2",
+        "seriesCode": "SP_DYN_ADKL",
+        "seriesDescription": "Adolescent birth rate (per 1,000 women aged 15-19 years)",
+        "timeSeriesTitle": "Adolescent birth rate",
+        "timeSeriesUnit": "births per 1,000 women aged 15-19 years",
+        "hub": "aef421a8c221463abbc7e222f3b278c5",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "F",
+            "age_code": "Y15T19"
+        },
+        "data_values": [
+            "153.4"
+        ],
+        "data_years": [
+            2014
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            153.4
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C060101",
+        "indicator_reference": "6.1.1",
+        "seriesCode": "SH_H2O_SAFE",
+        "seriesDescription": "Proportion of population using safely managed drinking water services, by urban/rural (%)",
+        "timeSeriesTitle": "Proportion of population using safely managed drinking water services",
+        "timeSeriesUnit": "percent",
+        "hub": "4b35638694f44c7e9add3f7d7e551b45",
+        "dashboard": "",
+        "slice_dimensions": {
+            "location_code": "_T"
+        },
+        "data_values": [
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283",
+            "83.1283"
+        ],
+        "data_years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283,
+            83.1283
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C060601",
+        "indicator_reference": "6.6.1",
+        "seriesCode": "EN_WBE_PMPR",
+        "seriesDescription": "Water body extent (permanent) (% of total land area)",
+        "timeSeriesTitle": "Permanent water body extent as a proportion of total land area",
+        "timeSeriesUnit": "percent",
+        "hub": "0ed77995dddc4205b9b149105241b954",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "7.30168739130434",
+            "7.26630434782608",
+            "7.27797260869565",
+            "7.26244086956521",
+            "7.20996173913043",
+            "7.17455652173913",
+            "7.19186130434782",
+            "7.18177695652173",
+            "7.16521478260869",
+            "7.21437391304347",
+            "7.23147478260869",
+            "7.2611604347826",
+            "7.26508173913043",
+            "7.28872695652173"
+        ],
+        "data_years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            7.30168739130434,
+            7.26630434782608,
+            7.27797260869565,
+            7.26244086956521,
+            7.20996173913043,
+            7.17455652173913,
+            7.19186130434782,
+            7.18177695652173,
+            7.16521478260869,
+            7.21437391304347,
+            7.23147478260869,
+            7.2611604347826,
+            7.26508173913043,
+            7.28872695652173
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C060601",
+        "indicator_reference": "6.6.1",
+        "seriesCode": "EN_WBE_PMNR",
+        "seriesDescription": "Water body extent (permanent) (square kilometres)",
+        "timeSeriesTitle": "Permanent water body extent",
+        "timeSeriesUnit": "square kilometers",
+        "hub": "aa4c4097e8e846aab6f3a0b5e0879abc",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "16.793881",
+            "16.7125",
+            "16.739337",
+            "16.703614",
+            "16.582912",
+            "16.50148",
+            "16.541281",
+            "16.518087",
+            "16.479994",
+            "16.59306",
+            "16.632392",
+            "16.700669",
+            "16.709688",
+            "16.764072"
+        ],
+        "data_years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            16.793881,
+            16.7125,
+            16.739337,
+            16.703614,
+            16.582912,
+            16.50148,
+            16.541281,
+            16.518087,
+            16.479994,
+            16.59306,
+            16.632392,
+            16.700669,
+            16.709688,
+            16.764072
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C060601",
+        "indicator_reference": "6.6.1",
+        "seriesCode": "EN_WBE_PMPP",
+        "seriesDescription": "Water body extent (permanent and maybe permanent) (% of total land area)",
+        "timeSeriesTitle": "Permanent and maybe permanent water body extent as a proportion of total land area",
+        "timeSeriesUnit": "percent",
+        "hub": "96b79a3017e14046a0df4e3eb06f6046",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "7.32669478260869",
+            "7.29104391304347",
+            "7.3090004347826",
+            "7.29758478260869",
+            "7.26960304347826",
+            "7.23783391304347",
+            "7.29293739130434",
+            "7.28073347826086",
+            "7.27278956521739",
+            "7.29715130434782",
+            "7.30830956521739",
+            "7.29930173913043",
+            "7.29718913043478",
+            "7.30371130434782"
+        ],
+        "data_years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            7.32669478260869,
+            7.29104391304347,
+            7.3090004347826,
+            7.29758478260869,
+            7.26960304347826,
+            7.23783391304347,
+            7.29293739130434,
+            7.28073347826086,
+            7.27278956521739,
+            7.29715130434782,
+            7.30830956521739,
+            7.29930173913043,
+            7.29718913043478,
+            7.30371130434782
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C060601",
+        "indicator_reference": "6.6.1",
+        "seriesCode": "EN_WBE_PMPN",
+        "seriesDescription": "Water body extent (permanent and maybe permanent) (square kilometres)",
+        "timeSeriesTitle": "Permanent and maybe permanent water body extent",
+        "timeSeriesUnit": "square kilometers",
+        "hub": "bb2c237b99c54184800ed86fdaa3c5a4",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "16.851398",
+            "16.769401",
+            "16.810701",
+            "16.784445",
+            "16.720087",
+            "16.647018",
+            "16.773756",
+            "16.745687",
+            "16.727416",
+            "16.783448",
+            "16.809112",
+            "16.788394",
+            "16.783535",
+            "16.798536"
+        ],
+        "data_years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            16.851398,
+            16.769401,
+            16.810701,
+            16.784445,
+            16.720087,
+            16.647018,
+            16.773756,
+            16.745687,
+            16.727416,
+            16.783448,
+            16.809112,
+            16.788394,
+            16.783535,
+            16.798536
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C070201",
+        "indicator_reference": "7.2.1",
+        "seriesCode": "EG_FEC_RNEW",
+        "seriesDescription": "Renewable energy share in the total final energy consumption (%)",
+        "timeSeriesTitle": "Renewable energy share in the total final energy consumption",
+        "timeSeriesUnit": "percent",
+        "hub": "3cece1f2bb4e49efa22d45bc34076805",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.56",
+            "0.56",
+            "0.51",
+            "0.44",
+            "0.47",
+            "1.35",
+            "1.35",
+            "1.26",
+            "1.32",
+            "1.31",
+            "1.34",
+            "1.37",
+            "1.25",
+            "1.29",
+            "0.75",
+            "0.74",
+            "0.74",
+            "0.74"
+        ],
+        "data_years": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.56,
+            0.56,
+            0.51,
+            0.44,
+            0.47,
+            1.35,
+            1.35,
+            1.26,
+            1.32,
+            1.31,
+            1.34,
+            1.37,
+            1.25,
+            1.29,
+            0.75,
+            0.74,
+            0.74,
+            0.74
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C090102",
+        "indicator_reference": "9.1.2",
+        "seriesCode": "IS_RDP_FRGVOL",
+        "seriesDescription": "Freight volume, by mode of transport (tonne kilometres)",
+        "timeSeriesTitle": "Freight volume by road transport",
+        "timeSeriesUnit": "tonne kilometres",
+        "hub": "4a5d7189e27148c48f045729ef9e40c8",
+        "dashboard": "",
+        "slice_dimensions": {
+            "modeOfTransportation_code": "MOT_ROA"
+        },
+        "data_values": [
+            "0.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C100a01",
+        "indicator_reference": "10.a.1",
+        "seriesCode": "TM_TRF_ZERO",
+        "seriesDescription": "Proportion of tariff lines applied to imports with zero-tariff (%)",
+        "timeSeriesTitle": "Proportion of tariff lines applied to imports with zero-tariff",
+        "timeSeriesUnit": "percent",
+        "hub": "60d8d0090395422a9fe62177fe8e7cd7",
+        "dashboard": "",
+        "slice_dimensions": {
+            "typeOfProduct_code": "_T"
+        },
+        "data_values": [
+            "68.14159",
+            "75.55556",
+            "80.51948",
+            "38.77551",
+            "74.28571",
+            "74.28571"
+        ],
+        "data_years": [
+            2005,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            68.14159,
+            75.55556,
+            80.51948,
+            38.77551,
+            74.28571,
+            74.28571
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C140501",
+        "indicator_reference": "14.5.1",
+        "seriesCode": "ER_MRN_MARINT",
+        "seriesDescription": "Protected marine area (Exclusive Economic Zones) (square kilometres)",
+        "timeSeriesTitle": "Protected marine area (Exclusive Economic Zones)",
+        "timeSeriesUnit": "square kilometres",
+        "hub": "be1eb5aebdf24e43a91a769e3d6fbd2b",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "7.02505"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            7.02505
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C140501",
+        "indicator_reference": "14.5.1",
+        "seriesCode": "ER_MRN_MARIN",
+        "seriesDescription": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
+        "timeSeriesTitle": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones)",
+        "timeSeriesUnit": "percent",
+        "hub": "1a4acac4d7284c75a48b7c5d07dfdc36",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0568"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0568
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150101",
+        "indicator_reference": "15.1.1",
+        "seriesCode": "AG_LND_TOTL",
+        "seriesDescription": "Land area (thousands of hectares)",
+        "timeSeriesTitle": "Land area",
+        "timeSeriesUnit": "thousands of hectares",
+        "hub": "9a4a60e678a94e3e8f44655e7e4bd4f6",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "23.0"
+        ],
+        "data_years": [
+            2015
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            23.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150101",
+        "indicator_reference": "15.1.1",
+        "seriesCode": "AG_LND_FRSTN",
+        "seriesDescription": "Forest area (thousands of hectares)",
+        "timeSeriesTitle": "Forest area",
+        "timeSeriesUnit": "thousands of hectares",
+        "hub": "09f04174488d4f8fabceddb8e2920dae",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.67",
+            "1.44",
+            "1.33",
+            "1.31",
+            "1.29",
+            "1.26",
+            "1.24",
+            "1.22"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            1.67,
+            1.44,
+            1.33,
+            1.31,
+            1.29,
+            1.26,
+            1.24,
+            1.22
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150101",
+        "indicator_reference": "15.1.1",
+        "seriesCode": "AG_LND_FRST",
+        "seriesDescription": "Forest area as a proportion of total land area (%)",
+        "timeSeriesTitle": "Forest area as a proportion of total land area",
+        "timeSeriesUnit": "percent",
+        "hub": "4787e933dac34421b4b11427a0b78fbe",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "7.26086956521739",
+            "6.26086956521739",
+            "5.78260869565217",
+            "5.69565217391304",
+            "5.60869565217391",
+            "5.47826086956522",
+            "5.39130434782609",
+            "5.30434782608696"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            7.26086956521739,
+            6.26086956521739,
+            5.78260869565217,
+            5.69565217391304,
+            5.60869565217391,
+            5.47826086956522,
+            5.39130434782609,
+            5.30434782608696
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTBIOPHA",
+        "seriesDescription": "Above-ground biomass stock in forest (tonnes per hectare)",
+        "timeSeriesTitle": "Above-ground biomass stock in forest",
+        "timeSeriesUnit": "tonnes per hectare",
+        "hub": "acbdd3bf76c24539a2fbb93c0de6f704",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "26.25",
+            "26.25",
+            "26.25",
+            "26.25",
+            "26.25",
+            "26.25",
+            "26.25",
+            "26.25"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            26.25,
+            26.25,
+            26.25,
+            26.25,
+            26.25,
+            26.25,
+            26.25,
+            26.25
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTCERT",
+        "seriesDescription": "Forest area under an independently verified forest management certification scheme (thousands of hectares)",
+        "timeSeriesTitle": "Forest area under an independently verified forest management certification scheme",
+        "timeSeriesUnit": "thousands of hectares",
+        "hub": "13a621d222c243dc906d7ee53d13eff3",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2000,
+            2005,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTCHG",
+        "seriesDescription": "Forest area annual net change rate (%)",
+        "timeSeriesTitle": "Forest area annual net change rate",
+        "timeSeriesUnit": "percent",
+        "hub": "494e02b3371a4a48acc40fbefc23e7ae",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "-1.47",
+            "-1.58",
+            "-1.71"
+        ],
+        "data_years": [
+            2010,
+            2015,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            -1.47,
+            -1.58,
+            -1.71
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTMGT",
+        "seriesDescription": "Proportion of forest area under a long-term management plan (%)",
+        "timeSeriesTitle": "Proportion of forest area under a long-term management plan",
+        "timeSeriesUnit": "percent",
+        "hub": "97a2c09197db49979c54a5a64910891b",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "100.0",
+            "98.5",
+            "96.99",
+            "95.49",
+            "93.98",
+            "92.48",
+            "90.98"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            100.0,
+            98.5,
+            96.99,
+            95.49,
+            93.98,
+            92.48,
+            90.98
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTPRCT",
+        "seriesDescription": "Proportion of forest area within legally established protected areas (%)",
+        "timeSeriesTitle": "Proportion of forest area within legally established protected areas",
+        "timeSeriesUnit": "percent",
+        "hub": "7b45bb09038a47e694f5297ce43371fb",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150601",
+        "indicator_reference": "15.6.1",
+        "seriesCode": "ER_CBD_SMTA",
+        "seriesDescription": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)",
+        "timeSeriesTitle": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country",
+        "timeSeriesUnit": "agreements",
+        "hub": "0765d85f3d504a03ad69a5a773b62e3d",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150601",
+        "indicator_reference": "15.6.1",
+        "seriesCode": "ER_CBD_ORSPGRFA",
+        "seriesDescription": "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Existence of legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "06e4982ff3ea4b7aa8af6b2ec2a86951",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C150601",
+        "indicator_reference": "15.6.1",
+        "seriesCode": "ER_CBD_PTYPGRFA",
+        "seriesDescription": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Country is contracting Party to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "d77c1391000b4750adb975bf39970133",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C171001",
+        "indicator_reference": "17.10.1",
+        "seriesCode": "TM_TAX_WMFN",
+        "seriesDescription": "Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",
+        "timeSeriesTitle": "Worldwide weighted tariff-average, most-favoured-nation status",
+        "timeSeriesUnit": "percent",
+        "hub": "c7c707d4f19d405da83b0424da753242",
+        "dashboard": "",
+        "slice_dimensions": {
+            "typeOfProduct_code": "_T"
+        },
+        "data_values": [
+            "4.84",
+            "4.77",
+            "5.05"
+        ],
+        "data_years": [
+            2005,
+            2010,
+            2015
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            4.84,
+            4.77,
+            5.05
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C171001",
+        "indicator_reference": "17.10.1",
+        "seriesCode": "TM_TAX_WMPS",
+        "seriesDescription": "Worldwide weighted tariff-average, preferential status, by type of product (%)",
+        "timeSeriesTitle": "Worldwide weighted tariff-average, preferential status",
+        "timeSeriesUnit": "percent",
+        "hub": "dd1123c07b91456a9f048cc0cf1fe76b",
+        "dashboard": "",
+        "slice_dimensions": {
+            "typeOfProduct_code": "_T"
+        },
+        "data_values": [
+            "1.47",
+            "1.54",
+            "1.53"
+        ],
+        "data_years": [
+            2005,
+            2010,
+            2015
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            1.47,
+            1.54,
+            1.53
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C171902",
+        "indicator_reference": "17.19.2",
+        "seriesCode": "SG_REG_CENSUSN",
+        "seriesDescription": "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Country has conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "5f0fd8d4c1de4b4dbca087786bfc083b",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.0"
+        ],
+        "data_years": [
+            2015
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            1.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C171902",
+        "indicator_reference": "17.19.2",
+        "seriesCode": "SG_REG_BRTH90N",
+        "seriesDescription": "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Existence of birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "19f62e67961a4feb8ffed63e64bb6595",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            1.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "666",
+        "country_name": "Saint Pierre and Miquelon",
+        "indicator_code": "C171902",
+        "indicator_reference": "17.19.2",
+        "seriesCode": "SG_REG_DETH75N",
+        "seriesDescription": "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Existence of death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "86146f7055a048fc9b506a491229192c",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            1.0
+        ],
+        "preferred_visualization": null
+    }
+]

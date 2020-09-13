@@ -1,0 +1,723 @@
+[
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C090102",
+        "indicator_reference": "9.1.2",
+        "seriesCode": "IS_RDP_FRGVOL",
+        "seriesDescription": "Freight volume, by mode of transport (tonne kilometres)",
+        "timeSeriesTitle": "Freight volume by road transport",
+        "timeSeriesUnit": "tonne kilometres",
+        "hub": "4a5d7189e27148c48f045729ef9e40c8",
+        "dashboard": "",
+        "slice_dimensions": {
+            "modeOfTransportation_code": "MOT_ROA"
+        },
+        "data_values": [
+            "0.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C140501",
+        "indicator_reference": "14.5.1",
+        "seriesCode": "ER_MRN_MARINT",
+        "seriesDescription": "Protected marine area (Exclusive Economic Zones) (square kilometres)",
+        "timeSeriesTitle": "Protected marine area (Exclusive Economic Zones)",
+        "timeSeriesUnit": "square kilometres",
+        "hub": "be1eb5aebdf24e43a91a769e3d6fbd2b",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C140501",
+        "indicator_reference": "14.5.1",
+        "seriesCode": "ER_MRN_MARIN",
+        "seriesDescription": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)",
+        "timeSeriesTitle": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones)",
+        "timeSeriesUnit": "percent",
+        "hub": "1a4acac4d7284c75a48b7c5d07dfdc36",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150101",
+        "indicator_reference": "15.1.1",
+        "seriesCode": "AG_LND_TOTL",
+        "seriesDescription": "Land area (thousands of hectares)",
+        "timeSeriesTitle": "Land area",
+        "timeSeriesUnit": "thousands of hectares",
+        "hub": "9a4a60e678a94e3e8f44655e7e4bd4f6",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "5.3"
+        ],
+        "data_years": [
+            2015
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            5.3
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150101",
+        "indicator_reference": "15.1.1",
+        "seriesCode": "AG_LND_FRSTN",
+        "seriesDescription": "Forest area (thousands of hectares)",
+        "timeSeriesTitle": "Forest area",
+        "timeSeriesUnit": "thousands of hectares",
+        "hub": "09f04174488d4f8fabceddb8e2920dae",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.24",
+            "1.24",
+            "1.24",
+            "1.24",
+            "1.24",
+            "1.24",
+            "1.24",
+            "1.24"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            1.24,
+            1.24,
+            1.24,
+            1.24,
+            1.24,
+            1.24,
+            1.24,
+            1.24
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150101",
+        "indicator_reference": "15.1.1",
+        "seriesCode": "AG_LND_FRST",
+        "seriesDescription": "Forest area as a proportion of total land area (%)",
+        "timeSeriesTitle": "Forest area as a proportion of total land area",
+        "timeSeriesUnit": "percent",
+        "hub": "4787e933dac34421b4b11427a0b78fbe",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "23.3962264150943",
+            "23.3962264150943",
+            "23.3962264150943",
+            "23.3962264150943",
+            "23.3962264150943",
+            "23.3962264150943",
+            "23.3962264150943",
+            "23.3962264150943"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            23.3962264150943,
+            23.3962264150943,
+            23.3962264150943,
+            23.3962264150943,
+            23.3962264150943,
+            23.3962264150943,
+            23.3962264150943,
+            23.3962264150943
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTBIOPHA",
+        "seriesDescription": "Above-ground biomass stock in forest (tonnes per hectare)",
+        "timeSeriesTitle": "Above-ground biomass stock in forest",
+        "timeSeriesUnit": "tonnes per hectare",
+        "hub": "acbdd3bf76c24539a2fbb93c0de6f704",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "124.5",
+            "124.5",
+            "124.5",
+            "124.5",
+            "124.5",
+            "124.5",
+            "124.5",
+            "124.5"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            124.5,
+            124.5,
+            124.5,
+            124.5,
+            124.5,
+            124.5,
+            124.5,
+            124.5
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTCERT",
+        "seriesDescription": "Forest area under an independently verified forest management certification scheme (thousands of hectares)",
+        "timeSeriesTitle": "Forest area under an independently verified forest management certification scheme",
+        "timeSeriesUnit": "thousands of hectares",
+        "hub": "13a621d222c243dc906d7ee53d13eff3",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2000,
+            2005,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTCHG",
+        "seriesDescription": "Forest area annual net change rate (%)",
+        "timeSeriesTitle": "Forest area annual net change rate",
+        "timeSeriesUnit": "percent",
+        "hub": "494e02b3371a4a48acc40fbefc23e7ae",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2010,
+            2015,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150201",
+        "indicator_reference": "15.2.1",
+        "seriesCode": "AG_LND_FRSTPRCT",
+        "seriesDescription": "Proportion of forest area within legally established protected areas (%)",
+        "timeSeriesTitle": "Proportion of forest area within legally established protected areas",
+        "timeSeriesUnit": "percent",
+        "hub": "7b45bb09038a47e694f5297ce43371fb",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "11.29",
+            "11.29",
+            "11.29",
+            "11.29",
+            "11.29",
+            "11.29",
+            "11.29",
+            "11.29"
+        ],
+        "data_years": [
+            2000,
+            2010,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            11.29,
+            11.29,
+            11.29,
+            11.29,
+            11.29,
+            11.29,
+            11.29,
+            11.29
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150601",
+        "indicator_reference": "15.6.1",
+        "seriesCode": "ER_CBD_SMTA",
+        "seriesDescription": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)",
+        "timeSeriesTitle": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country",
+        "timeSeriesUnit": "agreements",
+        "hub": "0765d85f3d504a03ad69a5a773b62e3d",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150601",
+        "indicator_reference": "15.6.1",
+        "seriesCode": "ER_CBD_ORSPGRFA",
+        "seriesDescription": "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Existence of legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "06e4982ff3ea4b7aa8af6b2ec2a86951",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C150601",
+        "indicator_reference": "15.6.1",
+        "seriesCode": "ER_CBD_PTYPGRFA",
+        "seriesDescription": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Country is contracting Party to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "d77c1391000b4750adb975bf39970133",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+        ],
+        "data_years": [
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C170303",
+        "indicator_reference": "17.3.1",
+        "seriesCode": "GF_FRN_FDI",
+        "seriesDescription": "Foreign direct investment (FDI) inflows (millions of US dollars)",
+        "timeSeriesTitle": "Foreign direct investment (FDI) inflows",
+        "timeSeriesUnit": "millions of dollars",
+        "hub": "934e2d3838594f97b0f6f4cb614e4fe2",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "71.63128",
+            "85.87709",
+            "39.65922",
+            "38.36872",
+            "-48.48045",
+            "13.51955",
+            "47.09444",
+            "47.7095",
+            "27.77095",
+            "41.56425",
+            "32.73743",
+            "-144.80447"
+        ],
+        "data_years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            71.63128,
+            85.87709,
+            39.65922,
+            38.36872,
+            -48.48045,
+            13.51955,
+            47.09444,
+            47.7095,
+            27.77095,
+            41.56425,
+            32.73743,
+            -144.80447
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C171902",
+        "indicator_reference": "17.19.2",
+        "seriesCode": "SG_REG_CENSUSN",
+        "seriesDescription": "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Country has conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "5f0fd8d4c1de4b4dbca087786bfc083b",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.0"
+        ],
+        "data_years": [
+            2015
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            1.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C171902",
+        "indicator_reference": "17.19.2",
+        "seriesCode": "SG_REG_BRTH90N",
+        "seriesDescription": "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Existence of birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "19f62e67961a4feb8ffed63e64bb6595",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            1.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "663",
+        "country_name": "Saint Martin (French Part)",
+        "indicator_code": "C171902",
+        "indicator_reference": "17.19.2",
+        "seriesCode": "SG_REG_DETH75N",
+        "seriesDescription": "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesTitle": "Existence of death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
+        "timeSeriesUnit": "yes/no",
+        "hub": "86146f7055a048fc9b506a491229192c",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "1.0"
+        ],
+        "data_years": [
+            2018
+        ],
+        "data_is_censored": [
+            false
+        ],
+        "data_numeric_part": [
+            1.0
+        ],
+        "preferred_visualization": null
+    }
+]

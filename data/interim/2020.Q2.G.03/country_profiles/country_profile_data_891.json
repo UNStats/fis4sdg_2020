@@ -1,0 +1,294 @@
+[
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "891",
+        "country_name": "Serbia and Montenegro [former]",
+        "indicator_code": "C050501",
+        "indicator_reference": "5.5.1",
+        "seriesCode": "SG_GEN_PARLN",
+        "seriesDescription": "Number of seats held by women in national parliaments (number)",
+        "timeSeriesTitle": "Number of seats held by women in national parliaments",
+        "timeSeriesUnit": "seats",
+        "hub": "15a8ed627d124fe6bc685cfd820fed29",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "F"
+        },
+        "data_values": [
+            "7.0",
+            "10.0",
+            "10.0",
+            "10.0",
+            "10.0",
+            "10.0"
+        ],
+        "data_years": [
+            2000,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            7.0,
+            10.0,
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "891",
+        "country_name": "Serbia and Montenegro [former]",
+        "indicator_code": "C050501",
+        "indicator_reference": "5.5.1",
+        "seriesCode": "SG_GEN_PARLNT",
+        "seriesDescription": "Number of seats in national parliaments (number)",
+        "timeSeriesTitle": "Number of seats in national parliaments",
+        "timeSeriesUnit": "seats",
+        "hub": "1d9169a401a14551b9de555ab229f99e",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "_T"
+        },
+        "data_values": [
+            "138.0",
+            "138.0",
+            "138.0",
+            "138.0",
+            "126.0",
+            "126.0",
+            "126.0"
+        ],
+        "data_years": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            138.0,
+            138.0,
+            138.0,
+            138.0,
+            126.0,
+            126.0,
+            126.0
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "891",
+        "country_name": "Serbia and Montenegro [former]",
+        "indicator_code": "C050501",
+        "indicator_reference": "5.5.1",
+        "seriesCode": "SG_GEN_PARL",
+        "seriesDescription": "Proportion of seats held by women in national parliaments (% of total number of seats)",
+        "timeSeriesTitle": "Proportion of seats held by women in national parliaments",
+        "timeSeriesUnit": "percent",
+        "hub": "53dc94ee1fa248498b42a26f01241b84",
+        "dashboard": "",
+        "slice_dimensions": {
+            "sex_code": "F"
+        },
+        "data_values": [
+            "5.07",
+            "7.25",
+            "7.25",
+            "7.94",
+            "7.94",
+            "7.94"
+        ],
+        "data_years": [
+            2000,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            5.07,
+            7.25,
+            7.25,
+            7.94,
+            7.94,
+            7.94
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "891",
+        "country_name": "Serbia and Montenegro [former]",
+        "indicator_code": "C200203",
+        "indicator_reference": "8.4.2",
+        "seriesCode": "EN_MAT_DOMCMPT",
+        "seriesDescription": "Domestic material consumption, by type of raw material (tonnes)",
+        "timeSeriesTitle": "Domestic material consumption",
+        "timeSeriesUnit": "tonnes",
+        "hub": "6313ffeedd8b446cbd2059aa885f9b13",
+        "dashboard": "",
+        "slice_dimensions": {
+            "typeOfProduct_code": "_T"
+        },
+        "data_values": [
+            "101435431.393",
+            "114175946.5305",
+            "112015834.05333",
+            "106255591.13501",
+            "122789873.91253",
+            "108666782.46196"
+        ],
+        "data_years": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            101435431.393,
+            114175946.5305,
+            112015834.05333,
+            106255591.13501,
+            122789873.91253,
+            108666782.46196
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "891",
+        "country_name": "Serbia and Montenegro [former]",
+        "indicator_code": "C200203",
+        "indicator_reference": "12.2.2",
+        "seriesCode": "EN_MAT_DOMCMPT",
+        "seriesDescription": "Domestic material consumption, by type of raw material (tonnes)",
+        "timeSeriesTitle": "Total domestic material consumption",
+        "timeSeriesUnit": "tonnes",
+        "hub": "70e2955486e94dd681d5fd64cfc43dcc",
+        "dashboard": "",
+        "slice_dimensions": {
+            "typeOfProduct_code": "_T"
+        },
+        "data_values": [
+            "101435431.393",
+            "114175946.5305",
+            "112015834.05333",
+            "106255591.13501",
+            "122789873.91253",
+            "108666782.46196"
+        ],
+        "data_years": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            101435431.393,
+            114175946.5305,
+            112015834.05333,
+            106255591.13501,
+            122789873.91253,
+            108666782.46196
+        ],
+        "preferred_visualization": null
+    },
+    {
+        "release": "2020.Q2.G.03",
+        "country_code": "891",
+        "country_name": "Serbia and Montenegro [former]",
+        "indicator_code": "C170303",
+        "indicator_reference": "17.3.1",
+        "seriesCode": "GF_FRN_FDI",
+        "seriesDescription": "Foreign direct investment (FDI) inflows (millions of US dollars)",
+        "timeSeriesTitle": "Foreign direct investment (FDI) inflows",
+        "timeSeriesUnit": "millions of dollars",
+        "hub": "934e2d3838594f97b0f6f4cb614e4fe2",
+        "dashboard": "",
+        "slice_dimensions": {},
+        "data_values": [
+            "125.68131",
+            "96.10735",
+            "62.58478",
+            "44.98535",
+            "0.001"
+        ],
+        "data_years": [
+            1992,
+            1993,
+            1994,
+            1995,
+            1996
+        ],
+        "data_is_censored": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "data_numeric_part": [
+            125.68131,
+            96.10735,
+            62.58478,
+            44.98535,
+            0.001
+        ],
+        "preferred_visualization": null
+    }
+]
