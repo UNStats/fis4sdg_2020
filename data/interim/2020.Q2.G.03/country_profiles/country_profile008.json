@@ -1,0 +1,2607 @@
+{
+    "release": "2020.Q2.G.03",
+    "country_code": "8",
+    "country_name": "Albania",
+    "X": "20.06660928",
+    "Y": "41.13897007",
+    "ISO3": "ALB",
+    "UNMember": "1",
+    "CountryProfile": "1",
+    "goals": [
+        {
+            "goalCode": "3",
+            "targets": [
+                {
+                    "targetCode": "3.1",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.1.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_STA_MMR",
+                                    "seriesTitle": "Maternal mortality ratio (deaths per 100,000 live births)",
+                                    "hub": "b7e5eecaaddb495f93d30f8a7e0f75d4",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "14",
+                                    "fact_text": "The maternal mortality ratio decreased from  <span class='fact-value'>23.0</span> <span class='fact-unit'> per 100,000 live births</span> in <span class='fact-year'> 2000</span> to <span class='fact-value'> 15.0</span> <span class='fact-unit'> per 100,000 live births</span> in <span class='fact-year'> 2017</span>.",
+                                    "fact_values": [
+                                        "23.0",
+                                        "15.0"
+                                    ],
+                                    "fact_units": [
+                                        " per 100,000 live births",
+                                        " per 100,000 live births"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2017"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017
+                                    ],
+                                    "data_values": [
+                                        "23.0",
+                                        "23.0",
+                                        "21.0",
+                                        "21.0",
+                                        "18.0",
+                                        "22.0",
+                                        "18.0",
+                                        "19.0",
+                                        "20.0",
+                                        "20.0",
+                                        "21.0",
+                                        "22.0",
+                                        "17.0",
+                                        "16.0",
+                                        "16.0",
+                                        "15.0",
+                                        "16.0",
+                                        "15.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        23.0,
+                                        23.0,
+                                        21.0,
+                                        21.0,
+                                        18.0,
+                                        22.0,
+                                        18.0,
+                                        19.0,
+                                        20.0,
+                                        20.0,
+                                        21.0,
+                                        22.0,
+                                        17.0,
+                                        16.0,
+                                        16.0,
+                                        15.0,
+                                        16.0,
+                                        15.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.1.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_STA_BRTC",
+                                    "seriesTitle": "Proportion of births attended by skilled health personnel (percent)",
+                                    "hub": "e25ad059dcc44372a68c3431b0f8c8a2",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of births attended by skilled health personnel  increased from  <span class='fact-value'>93.0</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>1990</span> to <span class='fact-value'>99.8%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "93.0",
+                                        "99.8"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "1990",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        1990,
+                                        1991,
+                                        1992,
+                                        1993,
+                                        1994,
+                                        1995,
+                                        1996,
+                                        1997,
+                                        1998,
+                                        1999,
+                                        2000,
+                                        2002,
+                                        2005,
+                                        2009,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "93.0",
+                                        "92.6",
+                                        "86.4",
+                                        "87.2",
+                                        "89.1",
+                                        "89.1",
+                                        "91.2",
+                                        "98.8",
+                                        "99.1",
+                                        "99.0",
+                                        "99.1",
+                                        "98.0",
+                                        "99.8",
+                                        "99.3",
+                                        "99.8"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        93.0,
+                                        92.6,
+                                        86.4,
+                                        87.2,
+                                        89.1,
+                                        89.1,
+                                        91.2,
+                                        98.8,
+                                        99.1,
+                                        99.0,
+                                        99.1,
+                                        98.0,
+                                        99.8,
+                                        99.3,
+                                        99.8
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.2",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.2.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_DYN_IMRTN",
+                                    "seriesTitle": "Infant deaths (deaths)",
+                                    "hub": "87906528f0ea45d7b76ae86a6d1d86bd",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y0"
+                                    },
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "1205.0",
+                                        "1080.0",
+                                        "967.0",
+                                        "864.0",
+                                        "771.0",
+                                        "688.0",
+                                        "616.0",
+                                        "554.0",
+                                        "502.0",
+                                        "459.0",
+                                        "422.0",
+                                        "390.0",
+                                        "362.0",
+                                        "338.0",
+                                        "318.0",
+                                        "302.0",
+                                        "289.0",
+                                        "278.0",
+                                        "268.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        1205.0,
+                                        1080.0,
+                                        967.0,
+                                        864.0,
+                                        771.0,
+                                        688.0,
+                                        616.0,
+                                        554.0,
+                                        502.0,
+                                        459.0,
+                                        422.0,
+                                        390.0,
+                                        362.0,
+                                        338.0,
+                                        318.0,
+                                        302.0,
+                                        289.0,
+                                        278.0,
+                                        268.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_DYN_MORT",
+                                    "seriesTitle": "Under-five mortality rate (deaths per 1,000 live births)",
+                                    "hub": "9052901d7f0946eca284218f313f6600",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y0T4"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The mortality rate of children under 5 years of age fell from  <span class='fact-value'>25.9</span>  <span class='fact-unit'> deaths per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>8.8 deaths per 1,000 live births</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "25.9",
+                                        "8.8"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 live births",
+                                        " deaths per 1,000 live births"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "25.9",
+                                        "24.5",
+                                        "23.1",
+                                        "21.8",
+                                        "20.5",
+                                        "19.2",
+                                        "17.9",
+                                        "16.7",
+                                        "15.5",
+                                        "14.4",
+                                        "13.3",
+                                        "12.3",
+                                        "11.4",
+                                        "10.7",
+                                        "10.0",
+                                        "9.6",
+                                        "9.3",
+                                        "9.0",
+                                        "8.8"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        25.9,
+                                        24.5,
+                                        23.1,
+                                        21.8,
+                                        20.5,
+                                        19.2,
+                                        17.9,
+                                        16.7,
+                                        15.5,
+                                        14.4,
+                                        13.3,
+                                        12.3,
+                                        11.4,
+                                        10.7,
+                                        10.0,
+                                        9.6,
+                                        9.3,
+                                        9.0,
+                                        8.8
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_DYN_IMRT",
+                                    "seriesTitle": "Infant mortality rate (deaths per 1,000 live births)",
+                                    "hub": "6a2512f65a6c4583a5028d3bf8d87005",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y0"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The infant mortality rate fell from  <span class='fact-value'>23.0</span>  <span class='fact-unit'> deaths per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>7.8 deaths per 1,000 live births</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "23.0",
+                                        "7.8"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 live births",
+                                        " deaths per 1,000 live births"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "23.0",
+                                        "21.8",
+                                        "20.6",
+                                        "19.4",
+                                        "18.3",
+                                        "17.1",
+                                        "16.0",
+                                        "14.9",
+                                        "13.9",
+                                        "12.9",
+                                        "11.9",
+                                        "11.0",
+                                        "10.2",
+                                        "9.5",
+                                        "8.9",
+                                        "8.5",
+                                        "8.2",
+                                        "8.0",
+                                        "7.8"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        23.0,
+                                        21.8,
+                                        20.6,
+                                        19.4,
+                                        18.3,
+                                        17.1,
+                                        16.0,
+                                        14.9,
+                                        13.9,
+                                        12.9,
+                                        11.9,
+                                        11.0,
+                                        10.2,
+                                        9.5,
+                                        8.9,
+                                        8.5,
+                                        8.2,
+                                        8.0,
+                                        7.8
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_DYN_MORTN",
+                                    "seriesTitle": "Under-five deaths (deaths)",
+                                    "hub": "4ae88cd4026b4cd886329d367197c8d5",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y0T4"
+                                    },
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "1380.0",
+                                        "1235.0",
+                                        "1104.0",
+                                        "985.0",
+                                        "877.0",
+                                        "782.0",
+                                        "699.0",
+                                        "627.0",
+                                        "567.0",
+                                        "517.0",
+                                        "474.0",
+                                        "438.0",
+                                        "406.0",
+                                        "380.0",
+                                        "358.0",
+                                        "340.0",
+                                        "326.0",
+                                        "313.0",
+                                        "302.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        1380.0,
+                                        1235.0,
+                                        1104.0,
+                                        985.0,
+                                        877.0,
+                                        782.0,
+                                        699.0,
+                                        627.0,
+                                        567.0,
+                                        517.0,
+                                        474.0,
+                                        438.0,
+                                        406.0,
+                                        380.0,
+                                        358.0,
+                                        340.0,
+                                        326.0,
+                                        313.0,
+                                        302.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.2.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_DYN_NMRTN",
+                                    "seriesTitle": "Neonatal deaths (deaths)",
+                                    "hub": "0ac46ff9f0994cbeb0235d084e4f0919",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "M0"
+                                    },
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "590.0",
+                                        "541.0",
+                                        "491.0",
+                                        "442.0",
+                                        "395.0",
+                                        "349.0",
+                                        "306.0",
+                                        "269.0",
+                                        "237.0",
+                                        "216.0",
+                                        "207.0",
+                                        "207.0",
+                                        "209.0",
+                                        "210.0",
+                                        "212.0",
+                                        "215.0",
+                                        "218.0",
+                                        "221.0",
+                                        "222.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        590.0,
+                                        541.0,
+                                        491.0,
+                                        442.0,
+                                        395.0,
+                                        349.0,
+                                        306.0,
+                                        269.0,
+                                        237.0,
+                                        216.0,
+                                        207.0,
+                                        207.0,
+                                        209.0,
+                                        210.0,
+                                        212.0,
+                                        215.0,
+                                        218.0,
+                                        221.0,
+                                        222.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_DYN_NMRT",
+                                    "seriesTitle": "Neonatal mortality rate (deaths per 1,000 live births)",
+                                    "hub": "202014290ce64ffdbb7e6bc1e8757f41",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "M0"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The neonatal mortality rate fell from  <span class='fact-value'>11.5</span>  <span class='fact-unit'> deaths per 1,000 live births</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>6.5 deaths per 1,000 live births</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "11.5",
+                                        "6.5"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 live births",
+                                        " deaths per 1,000 live births"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "11.5",
+                                        "11.1",
+                                        "10.7",
+                                        "10.1",
+                                        "9.6",
+                                        "8.8",
+                                        "8.1",
+                                        "7.3",
+                                        "6.6",
+                                        "6.1",
+                                        "5.8",
+                                        "5.8",
+                                        "5.9",
+                                        "5.9",
+                                        "5.9",
+                                        "6.1",
+                                        "6.2",
+                                        "6.4",
+                                        "6.5"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        11.5,
+                                        11.1,
+                                        10.7,
+                                        10.1,
+                                        9.6,
+                                        8.8,
+                                        8.1,
+                                        7.3,
+                                        6.6,
+                                        6.1,
+                                        5.8,
+                                        5.8,
+                                        5.9,
+                                        5.9,
+                                        5.9,
+                                        6.1,
+                                        6.2,
+                                        6.4,
+                                        6.5
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.3",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.3.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_TBS_INCID",
+                                    "seriesTitle": "Tuberculosis incidence (cases per 100,000 population)",
+                                    "hub": "d97b709ae96b4ee795f6eb2fdf0638d5",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "11",
+                                    "fact_text": "In  <span class='fact-year'> 2018</span>, the incidence of tuberculosis was <span class='fact-value'> 18.0</span>  <span class='fact-unit'> per 100,000 population</span>. ",
+                                    "fact_values": [
+                                        "18.0"
+                                    ],
+                                    "fact_units": [
+                                        " per 100,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "22.0",
+                                        "20.0",
+                                        "22.0",
+                                        "20.0",
+                                        "20.0",
+                                        "19.0",
+                                        "18.0",
+                                        "17.0",
+                                        "16.0",
+                                        "17.0",
+                                        "17.0",
+                                        "17.0",
+                                        "16.0",
+                                        "19.0",
+                                        "16.0",
+                                        "17.0",
+                                        "17.0",
+                                        "20.0",
+                                        "18.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        22.0,
+                                        20.0,
+                                        22.0,
+                                        20.0,
+                                        20.0,
+                                        19.0,
+                                        18.0,
+                                        17.0,
+                                        16.0,
+                                        17.0,
+                                        17.0,
+                                        17.0,
+                                        16.0,
+                                        19.0,
+                                        16.0,
+                                        17.0,
+                                        17.0,
+                                        20.0,
+                                        18.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.3.4",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_HAP_HBSAG",
+                                    "seriesTitle": "Prevalence of hepatitis B surface antigen (HBsAg) (percent)",
+                                    "hub": "77a849a34c5647d09be464d0c3250aed",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "age_code": "Y0T4"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The prevalence of hepatitis B surface antigen (HBsAg) was approximately <span class='fact-value'>1.3</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2015</span>.",
+                                    "fact_values": [
+                                        "1.3"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2015"
+                                    ],
+                                    "data_years": [
+                                        2015
+                                    ],
+                                    "data_values": [
+                                        "1.3"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        1.3
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.3.5",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_TRP_INTVN",
+                                    "seriesTitle": "Number of people requiring interventions against neglected tropical diseases (persons)",
+                                    "hub": "e13bac22fcde46beaac59381a90d4b23",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "61.0",
+                                        "53.0",
+                                        "53.0",
+                                        "55.0",
+                                        "33.0",
+                                        "16.0",
+                                        "21.0",
+                                        "6.0",
+                                        "47.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        61.0,
+                                        53.0,
+                                        53.0,
+                                        55.0,
+                                        33.0,
+                                        16.0,
+                                        21.0,
+                                        6.0,
+                                        47.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.4",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.4.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_DTH_NCOM",
+                                    "seriesTitle": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease among population 30 to 70 years old (probability)",
+                                    "hub": "34d66afd38ce43f888bb8915a97c81e9",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y30T70"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The risk of dying between the ages of 30 and 70 from one of four main non-communicable diseases (cardiovascular disease, cancer, diabetes or chronic respiratory disease) fell from  <span class='fact-value'>19.4</span>  <span class='fact-unit'></span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>17.0</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "19.4",
+                                        "17.0"
+                                    ],
+                                    "fact_units": [
+                                        "",
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "19.4",
+                                        "18.8",
+                                        "18.6",
+                                        "17.4",
+                                        "17.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        19.4,
+                                        18.8,
+                                        18.6,
+                                        17.4,
+                                        17.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_DTH_RNCOM",
+                                    "seriesTitle": "Number of deaths attributed to cardiovascular disease (deaths)",
+                                    "hub": "3b95d9a55ee342f28fdacecf170d366c",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "nameOfNonCommunicableDisease_code": "NCD_CARDIO"
+                                    },
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "9940.0",
+                                        "12540.0",
+                                        "12796.0",
+                                        "14897.0",
+                                        "14930.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        9940.0,
+                                        12540.0,
+                                        12796.0,
+                                        14897.0,
+                                        14930.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.4.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_STA_SCIDE",
+                                    "seriesTitle": "Suicide mortality rate (deaths per 100,000 population)",
+                                    "hub": "fef6bd2313374421bf8e11d7599216a4",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The mortality rate of children under 5 years of age increased from  <span class='fact-value'>5.5</span>  <span class='fact-unit'> deaths per 1,000 population</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>6.3 deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "5.5",
+                                        "6.3"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 population",
+                                        " deaths per 1,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "5.5",
+                                        "6.7",
+                                        "7.8",
+                                        "6.0",
+                                        "6.3"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        5.5,
+                                        6.7,
+                                        7.8,
+                                        6.0,
+                                        6.3
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_STA_SCIDEN",
+                                    "seriesTitle": "Number of deaths attributed to suicide (deaths)",
+                                    "hub": "82455bcc859c4632a9cb9f7e311fe967",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T"
+                                    },
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "171.0",
+                                        "206.0",
+                                        "230.0",
+                                        "175.0",
+                                        "184.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        171.0,
+                                        206.0,
+                                        230.0,
+                                        175.0,
+                                        184.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.5",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.5.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_SUD_ALCOL",
+                                    "seriesTitle": "12-month prevalence of alcohol use disorders (percent)",
+                                    "hub": "3ecfea04cf9541d6acc9d749c43432cf",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y_GE15"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The 12-month prevalence of alcohol use disorders was approximately <span class='fact-value'>5.9</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "5.9"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "5.9"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        5.9
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.5.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_ALC_CONSPT",
+                                    "seriesTitle": "Annual alcohol consumption per capita among population aged 15 years and older (litres of pure alcohol)",
+                                    "hub": "9321fc4d3030468db59cc6fd4338d281",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y_GE15"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "Alcohol consumption per captita among population aged 15 years and older increased from  <span class='fact-value'>6.57</span>  <span class='fact-unit'> litres of pure alcohol within a calendar year</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>7.17 litres of pure alcohol within a calendar year</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "6.57",
+                                        "7.17"
+                                    ],
+                                    "fact_units": [
+                                        " litres of pure alcohol within a calendar year",
+                                        " litres of pure alcohol within a calendar year"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "6.56585",
+                                        "7.64772",
+                                        "7.68912",
+                                        "6.73639",
+                                        "7.16951"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        6.57,
+                                        7.65,
+                                        7.69,
+                                        6.74,
+                                        7.17
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.6",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.6.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_STA_TRAF",
+                                    "seriesTitle": "Death rate due to road traffic injuries (deaths per 100,000 population)",
+                                    "hub": "85426d9b29a74d3b9ae41ae6704046d3",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The death rate due to road traffic injuries fell from  <span class='fact-value'>14.4</span>  <span class='fact-unit'> deaths per 1,000 population</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>13.6 deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "14.4",
+                                        "13.6"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 population",
+                                        " deaths per 1,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2013,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "14.4",
+                                        "15.0",
+                                        "14.1",
+                                        "13.8",
+                                        "13.6"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        14.4,
+                                        15.0,
+                                        14.1,
+                                        13.8,
+                                        13.6
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.7",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.7.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_FPL_MTMM",
+                                    "seriesTitle": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (percent)",
+                                    "hub": "8bbefcba76b440bc99d369eedf31bfe7",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "F",
+                                        "age_code": "Y15T49"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of women of reproductive age who have their need for family planning satisfied with modern methods declined from  <span class='fact-value'>13.9</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2009</span> to <span class='fact-value'>6.3%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "13.9",
+                                        "6.3"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2009",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2009,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "13.9",
+                                        "6.3"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        13.9,
+                                        6.3
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.7.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SP_DYN_ADKL",
+                                    "seriesTitle": "Adolescent birth rate (births per 1,000 women aged 15-19 years)",
+                                    "hub": "aef421a8c221463abbc7e222f3b278c5",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "F",
+                                        "age_code": "Y15T19"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The adolescent birth rate declined from  <span class='fact-value'>17.2</span>  <span class='fact-unit'> births per 1,000 women aged 15-19 years</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>15.9 births per 1,000 women aged 15-19 years</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "17.2",
+                                        "15.9"
+                                    ],
+                                    "fact_units": [
+                                        " births per 1,000 women aged 15-19 years",
+                                        " births per 1,000 women aged 15-19 years"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2017"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017
+                                    ],
+                                    "data_values": [
+                                        "17.2",
+                                        "13.8",
+                                        "15.9",
+                                        "21.4",
+                                        "20.2",
+                                        "17.7",
+                                        "16.9",
+                                        "18.4",
+                                        "19.0",
+                                        "19.4",
+                                        "20.5",
+                                        "20.9",
+                                        "20.4",
+                                        "21.9",
+                                        "20.2",
+                                        "17.3",
+                                        "15.9"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        17.2,
+                                        13.8,
+                                        15.9,
+                                        21.4,
+                                        20.2,
+                                        17.7,
+                                        16.9,
+                                        18.4,
+                                        19.0,
+                                        19.4,
+                                        20.5,
+                                        20.9,
+                                        20.4,
+                                        21.9,
+                                        20.2,
+                                        17.3,
+                                        15.9
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.8",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.8.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_ACS_UNHC",
+                                    "seriesTitle": "Universal health coverage (UHC) index (index)",
+                                    "hub": "55a343e2234c4b3ab3d0cc449229d1fc",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "14",
+                                    "fact_text": "The universal health coverage (UHC) service coverage index increased from  <span class='fact-value'>44.0</span> <span class='fact-unit'></span> in <span class='fact-year'> 2000</span> to <span class='fact-value'> 59.0</span> <span class='fact-unit'></span> in <span class='fact-year'> 2017</span>.",
+                                    "fact_values": [
+                                        "44.0",
+                                        "59.0"
+                                    ],
+                                    "fact_units": [
+                                        "",
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2017"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2017
+                                    ],
+                                    "data_values": [
+                                        "44.0",
+                                        "48.0",
+                                        "55.0",
+                                        "58.0",
+                                        "59.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        44.0,
+                                        48.0,
+                                        55.0,
+                                        58.0,
+                                        59.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.8.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_XPD_EARN25",
+                                    "seriesTitle": "Proportion of population with household expenditures on health greater than 25% of total household expenditure or income (percent)",
+                                    "hub": "cd0f5a6e99b54f929a0447a8c9311383",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income declined from  <span class='fact-value'>5.64</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2002</span> to <span class='fact-value'>4.95%</span> in <span class='fact-year'>2012</span>.",
+                                    "fact_values": [
+                                        "5.64",
+                                        "4.95"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2002",
+                                        "2012"
+                                    ],
+                                    "data_years": [
+                                        2002,
+                                        2005,
+                                        2008,
+                                        2012
+                                    ],
+                                    "data_values": [
+                                        "5.64",
+                                        "4.5",
+                                        "4.08",
+                                        "4.95"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        5.64,
+                                        4.5,
+                                        4.08,
+                                        4.95
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_XPD_EARN10",
+                                    "seriesTitle": "Proportion of population with household expenditures on health greater than 10% of total household expenditure or income (percent)",
+                                    "hub": "1f7d8dc98e5a4ef3a165aa5582d78316",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2002,
+                                        2005,
+                                        2008,
+                                        2012
+                                    ],
+                                    "data_values": [
+                                        "23.37",
+                                        "19.51",
+                                        "13.91",
+                                        "16.72"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        23.37,
+                                        19.51,
+                                        13.91,
+                                        16.72
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.9",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.9.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_HAP_ASMORT",
+                                    "seriesTitle": "Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)",
+                                    "hub": "d357f2d3055d475c8692bffed2b94a7a",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "31.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        31.0
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                },
+                                {
+                                    "seriesCode": "SH_STA_AIRP",
+                                    "seriesTitle": "Crude death rate attributed to household and ambient air pollution (deaths per 100,000 population)",
+                                    "hub": "6ff409193661484696600255227888f4",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "105.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        105.0
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                },
+                                {
+                                    "seriesCode": "SH_STA_ASAIRP",
+                                    "seriesTitle": "Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",
+                                    "hub": "c38c683ad4704a2996eb557215532029",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The age-standardized mortality rate attributed to household and ambient air pollution was <span class='fact-value'>68.0</span> <span class='fact-unit'> deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "68.0"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "68.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        68.0
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                },
+                                {
+                                    "seriesCode": "SH_AAP_MORT",
+                                    "seriesTitle": "Crude death rate attributed to ambient air pollution (deaths per 100,000 population)",
+                                    "hub": "3da0b72a3240451f94f4c434da8fec4f",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "63.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        63.0
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                },
+                                {
+                                    "seriesCode": "SH_AAP_ASMORT",
+                                    "seriesTitle": "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)",
+                                    "hub": "e4bdf511d53a46d7915241d1150b0825",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "41.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        41.0
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                },
+                                {
+                                    "seriesCode": "SH_HAP_MORT",
+                                    "seriesTitle": "Crude death rate attributed to household air pollution (deaths per 100,000 population)",
+                                    "hub": "2c24d737ba0c461b9d15bbf74ec2e6d2",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "47.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        47.0
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.9.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_STA_WASH",
+                                    "seriesTitle": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",
+                                    "hub": "5439a96fbb35431c813fc6932a82400a",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene was <span class='fact-value'>0.2</span> <span class='fact-unit'> deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "0.2"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "0.2"
+                                    ],
+                                    "data_is_censored": [
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        0.2
+                                    ],
+                                    "preferred_visualization": "singleton"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.9.3",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_STA_POISN",
+                                    "seriesTitle": "Mortality rate attributed to unintentional poisonings (deaths per 100,000 population)",
+                                    "hub": "b1f51a01a43f4661ac2b143449b54dff",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "The mortality rate attributed to  unintentional poisonings fell from  <span class='fact-value'>1.0</span>  <span class='fact-unit'> deaths per 1,000 population</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>0.4 deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "1.0",
+                                        "0.4"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 population",
+                                        " deaths per 1,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "1.0",
+                                        "0.6",
+                                        "0.5",
+                                        "0.4",
+                                        "0.4"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        1.0,
+                                        0.6,
+                                        0.5,
+                                        0.4,
+                                        0.4
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.a",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.a.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_PRV_SMOK",
+                                    "seriesTitle": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older (percent)",
+                                    "hub": "8936c15ac3b8423f871dea7cbf92cf04",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "sex_code": "_T",
+                                        "age_code": "Y_GE15"
+                                    },
+                                    "text_type": "1",
+                                    "fact_text": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older fell from  <span class='fact-value'>34.2</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>29.2%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "34.2",
+                                        "29.2"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2005,
+                                        2010,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "34.2",
+                                        "32.7",
+                                        "31.1",
+                                        "29.9",
+                                        "29.7",
+                                        "29.3",
+                                        "29.2"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        34.2,
+                                        32.7,
+                                        31.1,
+                                        29.9,
+                                        29.7,
+                                        29.3,
+                                        29.2
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.b",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.b.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_ACS_DTP3",
+                                    "seriesTitle": "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (percent)",
+                                    "hub": "0715862ea69a4a8b95f1d97967d7a549",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) was approximately  <span class='fact-value'>99.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "99.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "97.0",
+                                        "97.0",
+                                        "98.0",
+                                        "97.0",
+                                        "97.0",
+                                        "98.0",
+                                        "97.0",
+                                        "98.0",
+                                        "99.0",
+                                        "98.0",
+                                        "99.0",
+                                        "99.0",
+                                        "99.0",
+                                        "99.0",
+                                        "98.0",
+                                        "99.0",
+                                        "98.0",
+                                        "99.0",
+                                        "99.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        97.0,
+                                        97.0,
+                                        98.0,
+                                        97.0,
+                                        97.0,
+                                        98.0,
+                                        97.0,
+                                        98.0,
+                                        99.0,
+                                        98.0,
+                                        99.0,
+                                        99.0,
+                                        99.0,
+                                        99.0,
+                                        98.0,
+                                        99.0,
+                                        98.0,
+                                        99.0,
+                                        99.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_ACS_MCV2",
+                                    "seriesTitle": "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (percent)",
+                                    "hub": "7dbbd65b355a41f3b1f7b95ef84fff39",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) increased from <span class='fact-value'>90.0</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2001</span> to <span class='fact-value'>96.0%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "90.0",
+                                        "96.0"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2001",
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "90.0",
+                                        "93.0",
+                                        "93.0",
+                                        "96.0",
+                                        "97.0",
+                                        "94.0",
+                                        "95.0",
+                                        "98.0",
+                                        "98.0",
+                                        "98.0",
+                                        "99.0",
+                                        "99.0",
+                                        "99.0",
+                                        "98.0",
+                                        "98.0",
+                                        "98.0",
+                                        "98.0",
+                                        "96.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        90.0,
+                                        93.0,
+                                        93.0,
+                                        96.0,
+                                        97.0,
+                                        94.0,
+                                        95.0,
+                                        98.0,
+                                        98.0,
+                                        98.0,
+                                        99.0,
+                                        99.0,
+                                        99.0,
+                                        98.0,
+                                        98.0,
+                                        98.0,
+                                        98.0,
+                                        96.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "SH_ACS_PCV3",
+                                    "seriesTitle": "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (percent)",
+                                    "hub": "e9692a9f8a0c4c619063971358c7f9bd",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) was approximately  <span class='fact-value'>98.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "98.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
+                                    "data_years": [
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "99.0",
+                                        "99.0",
+                                        "99.0",
+                                        "99.0",
+                                        "99.0",
+                                        "98.0",
+                                        "99.0",
+                                        "98.0"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        99.0,
+                                        99.0,
+                                        99.0,
+                                        99.0,
+                                        99.0,
+                                        98.0,
+                                        99.0,
+                                        98.0
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        },
+                        {
+                            "indicatorCode": "3.b.2",
+                            "facts": [
+                                {
+                                    "seriesCode": "DC_TOF_HLTHNT",
+                                    "seriesTitle": "Net disbursement of total official development assistance received for medical research and basic heath sectors (millions of constant 2018 dollars)",
+                                    "hub": "4ced890b6fc94cd58f5a475ebe5b2507",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "4.35185",
+                                        "4.45624",
+                                        "2.47861",
+                                        "0.9238",
+                                        "1.15836",
+                                        "0.58872",
+                                        "0.33266",
+                                        "0.42375",
+                                        "6.73204"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        4.35,
+                                        4.46,
+                                        2.48,
+                                        0.92,
+                                        1.16,
+                                        0.59,
+                                        0.33,
+                                        0.42,
+                                        6.73
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                },
+                                {
+                                    "seriesCode": "DC_TOF_HLTHL",
+                                    "seriesTitle": "Gross disbursements of total official development assistance received for medical research and basic heath sectors (millions of constant 2018 dollars)",
+                                    "hub": "43c59139930244b1aa0ec279e9a0b8d0",
+                                    "dashboard": "",
+                                    "slice_dimensions": {},
+                                    "text_type": "",
+                                    "fact_text": "",
+                                    "fact_values": [],
+                                    "fact_units": [],
+                                    "fact_years": [],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2005,
+                                        2006,
+                                        2007,
+                                        2008,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2014,
+                                        2015,
+                                        2016,
+                                        2017,
+                                        2018
+                                    ],
+                                    "data_values": [
+                                        "9.80101",
+                                        "4.5117",
+                                        "6.00485",
+                                        "10.51398",
+                                        "7.2154",
+                                        "15.60862",
+                                        "9.89403",
+                                        "9.31554",
+                                        "6.22983",
+                                        "3.09319",
+                                        "4.89563",
+                                        "5.09944",
+                                        "3.09615",
+                                        "1.76659",
+                                        "2.1502",
+                                        "2.17577",
+                                        "1.97687",
+                                        "2.34648",
+                                        "8.96276"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        9.8,
+                                        4.51,
+                                        6.0,
+                                        10.51,
+                                        7.22,
+                                        15.61,
+                                        9.89,
+                                        9.32,
+                                        6.23,
+                                        3.09,
+                                        4.9,
+                                        5.1,
+                                        3.1,
+                                        1.77,
+                                        2.15,
+                                        2.18,
+                                        1.98,
+                                        2.35,
+                                        8.96
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "targetCode": "3.c",
+                    "indicators": [
+                        {
+                            "indicatorCode": "3.c.1",
+                            "facts": [
+                                {
+                                    "seriesCode": "SH_MED_HEAWOR",
+                                    "seriesTitle": "Health worker density: medical doctors (medical doctors per 10,000 population)",
+                                    "hub": "0c82548fd1854bcfa3e528728480f18e",
+                                    "dashboard": "",
+                                    "slice_dimensions": {
+                                        "typeOfOccupation_code": "ISCO08_221"
+                                    },
+                                    "text_type": "13",
+                                    "fact_text": "In  <span class='fact-year'> 2016</span>, there were about  <span class='fact-value'> 12.16</span>  <span class='fact-unit'> medical doctors</span>  for every 10,000 persons in the population.",
+                                    "fact_values": [
+                                        "12.16"
+                                    ],
+                                    "fact_units": [
+                                        " medical doctors"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
+                                    "data_years": [
+                                        2000,
+                                        2001,
+                                        2002,
+                                        2003,
+                                        2004,
+                                        2006,
+                                        2007,
+                                        2009,
+                                        2010,
+                                        2011,
+                                        2012,
+                                        2013,
+                                        2016
+                                    ],
+                                    "data_values": [
+                                        "13.821",
+                                        "13.1",
+                                        "11.695",
+                                        "11.863",
+                                        "11.913",
+                                        "11.838",
+                                        "11.951",
+                                        "12.297",
+                                        "12.347",
+                                        "12.217",
+                                        "12.683",
+                                        "12.773",
+                                        "12.164"
+                                    ],
+                                    "data_is_censored": [
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false,
+                                        false
+                                    ],
+                                    "data_numeric_part": [
+                                        13.82,
+                                        13.1,
+                                        11.7,
+                                        11.86,
+                                        11.91,
+                                        11.84,
+                                        11.95,
+                                        12.3,
+                                        12.35,
+                                        12.22,
+                                        12.68,
+                                        12.77,
+                                        12.16
+                                    ],
+                                    "preferred_visualization": "time_series"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

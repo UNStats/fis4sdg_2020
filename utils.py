@@ -77,7 +77,7 @@ def numeric_part(value):
         return None
 
 
-def tsv2dictlist(file, newline='', encoding='utf-8'):
+def tsv2dictlist(file, newline='', encoding='utf-8', errors='ignore'):
     '''Read a tab-delimited file and convert each record to a dictionary
     '''
     dictList = []
