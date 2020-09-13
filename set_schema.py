@@ -17,7 +17,9 @@ def set_schema():
     schema['attr_main'] = ['basePeriod', 'source', 'footnotes',
                            'nature_code', 'nature_desc',
                            'units_code', 'units_desc',
-                           'reportingType_code', 'reportingType_desc']
+                           'reportingType_code', 'reportingType_desc',
+                           'observationStatus_code', 'observationStatus_desc'
+                           ]
 
     schema['attr_measure'] = ['value_detail',
                               'lowerBound_detail',
