@@ -15,7 +15,8 @@ def build_fact(text_type,
                prog_10,
                prog_12,
                prog_15,
-               prog_mmr_max):
+               prog_mmr_max,
+               country_name):
 
     fact_text = ''
     fact_values = []

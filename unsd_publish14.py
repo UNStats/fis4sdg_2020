@@ -10,6 +10,7 @@ release = set_release.set_release()
 fact_builder = utils.tsv2dictlist(
     'data/external/factBuilder_' + release + '.txt')
 
+
 # for f in fact_builder:
 #     f['DA2.1'] = re.sub("â€”", "\u2014", f['DA2.1'])
 #     f['DA2.2'] = re.sub("â€”", "\u2014", f['DA2.2'])
@@ -74,8 +75,8 @@ for this_country in countryArray:
 
     for g in sdg_meta:
 
-        if g['code'] != '3':
-            continue
+        # if g['code'] != '3':
+        #     continue
 
         # print("- in goal " + g['code'])
 
@@ -125,7 +126,8 @@ for this_country in countryArray:
 
                                 # if this_fact['countryProfile'] != '1' or this_fact['seriesCode'] != s['code']:
                                 #     continue
-                                if this_fact['series'] != s['code']:
+
+                                if this_fact['series'] != s['code'] or this_fact['goal'] != g['code']:
                                     continue
 
                                 # print("- - - - - in fact " +
@@ -292,7 +294,9 @@ for this_country in countryArray:
                                                               prog_10=fact_prog['prog_10'],
                                                               prog_12=fact_prog['prog_12'],
                                                               prog_15=fact_prog['prog_15'],
-                                                              prog_mmr_max=fact_prog['prog_mmr_max'])
+                                                              prog_mmr_max=fact_prog['prog_mmr_max'],
+                                                              country_name=country_name
+                                                              )
                                 fact = {}
                                 fact['seriesCode'] = seriesCode
                                 fact['seriesTitle'] = seriesTitle
