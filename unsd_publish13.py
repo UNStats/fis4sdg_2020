@@ -91,7 +91,7 @@ for ts in ts_selector:
                 # ---------------------------------
                 d['data_is_censored'].append(False)
             except ValueError:
-                d['data_numeric_part'].append(None)
+                pass
 
         d['preferred_visualization'] = None
 

@@ -2717,18 +2717,27 @@
                             "facts": [
                                 {
                                     "seriesCode": "SH_DYN_IMRTN",
-                                    "seriesTitle": "Infant deaths (deaths)",
+                                    "seriesTitle": "Infant deaths (number)",
                                     "hub": "87906528f0ea45d7b76ae86a6d1d86bd",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "age_code": "Y0"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The number of infant deaths fell from  <span class='fact-value'>1205.0</span>  <span class='fact-unit'></span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>268.0</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "1205.0",
+                                        "268.0"
+                                    ],
+                                    "fact_units": [
+                                        "",
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -3035,18 +3044,27 @@
                                 },
                                 {
                                     "seriesCode": "SH_DYN_MORTN",
-                                    "seriesTitle": "Under-five deaths (deaths)",
+                                    "seriesTitle": "Under-five deaths (number)",
                                     "hub": "4ae88cd4026b4cd886329d367197c8d5",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "age_code": "Y0T4"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The number of under-five deaths fell from  <span class='fact-value'>1380.0</span>  <span class='fact-unit'></span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>302.0</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "1380.0",
+                                        "302.0"
+                                    ],
+                                    "fact_units": [
+                                        "",
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -3140,18 +3158,27 @@
                             "facts": [
                                 {
                                     "seriesCode": "SH_DYN_NMRTN",
-                                    "seriesTitle": "Neonatal deaths (deaths)",
+                                    "seriesTitle": "Neonatal deaths (number)",
                                     "hub": "0ac46ff9f0994cbeb0235d084e4f0919",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "age_code": "M0"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The number of neonatal deaths fell from  <span class='fact-value'>590.0</span>  <span class='fact-unit'></span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>222.0</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "590.0",
+                                        "222.0"
+                                    ],
+                                    "fact_units": [
+                                        "",
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -3505,15 +3532,21 @@
                             "facts": [
                                 {
                                     "seriesCode": "SH_TRP_INTVN",
-                                    "seriesTitle": "Number of people requiring interventions against neglected tropical diseases (persons)",
+                                    "seriesTitle": "People requiring interventions against neglected tropical diseases (number)",
                                     "hub": "e13bac22fcde46beaac59381a90d4b23",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The number of people requiring interventions against neglected tropical diseases was  <span class='fact-value'>47.0</span> <span class='fact-unit'></span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "47.0"
+                                    ],
+                                    "fact_units": [
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2010,
                                         2011,
@@ -3580,7 +3613,7 @@
                                         "age_code": "Y30T70"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The risk of dying between the ages of 30 and 70 from one of four main non-communicable diseases (cardiovascular disease, cancer, diabetes or chronic respiratory disease) fell from  <span class='fact-value'>19.4</span>  <span class='fact-unit'></span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>17.0</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_text": "The risk of dying between the ages of 30 and 70 from one of four main non-communicable diseases (cardiovascular disease, cancer, diabetes or chronic respiratory disease) declined from  <span class='fact-value'>19.4</span>  <span class='fact-unit'></span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>17.0</span> in <span class='fact-year'>2016</span>.",
                                     "fact_values": [
                                         "19.4",
                                         "17.0"
@@ -3625,18 +3658,24 @@
                                 },
                                 {
                                     "seriesCode": "SH_DTH_RNCOM",
-                                    "seriesTitle": "Number of deaths attributed to cardiovascular disease (deaths)",
+                                    "seriesTitle": "Deaths attributed to cardiovascular disease (number)",
                                     "hub": "3b95d9a55ee342f28fdacecf170d366c",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "nameOfNonCommunicableDisease_code": "NCD_CARDIO"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "11",
+                                    "fact_text": "In  <span class='fact-year'> 2016</span>, the number of deaths attributed to cardiovascular disease was <span class='fact-value'> 14930.0</span>  <span class='fact-unit'></span>. ",
+                                    "fact_values": [
+                                        "14930.0"
+                                    ],
+                                    "fact_units": [
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2005,
@@ -3726,17 +3765,23 @@
                                 },
                                 {
                                     "seriesCode": "SH_STA_SCIDEN",
-                                    "seriesTitle": "Number of deaths attributed to suicide (deaths)",
+                                    "seriesTitle": "Deaths attributed to suicide (number)",
                                     "hub": "82455bcc859c4632a9cb9f7e311fe967",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "11",
+                                    "fact_text": "In  <span class='fact-year'> 2016</span>, the number of deaths attributed to suicide was <span class='fact-value'> 184.0</span>  <span class='fact-unit'></span>. ",
+                                    "fact_values": [
+                                        "184.0"
+                                    ],
+                                    "fact_units": [
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2005,
@@ -3826,14 +3871,14 @@
                                         "age_code": "Y_GE15"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "Alcohol consumption per captita among population aged 15 years and older increased from  <span class='fact-value'>6.57</span>  <span class='fact-unit'> litres of pure alcohol within a calendar year</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>7.17 litres of pure alcohol within a calendar year</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "Alcohol consumption per captita among population aged 15 years and older increased from  <span class='fact-value'>6.57</span>  <span class='fact-unit'> litres of pure alcohol</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>7.17 litres of pure alcohol</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "6.57",
                                         "7.17"
                                     ],
                                     "fact_units": [
-                                        " litres of pure alcohol within a calendar year",
-                                        " litres of pure alcohol within a calendar year"
+                                        " litres of pure alcohol",
+                                        " litres of pure alcohol"
                                     ],
                                     "fact_years": [
                                         "2000",
@@ -3886,14 +3931,14 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The death rate due to road traffic injuries fell from  <span class='fact-value'>14.4</span>  <span class='fact-unit'> deaths per 1,000 population</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>13.6 deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_text": "The death rate due to road traffic injuries fell from  <span class='fact-value'>14.4</span>  <span class='fact-unit'> deaths per 100,000 population</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>13.6 deaths per 100,000 population</span> in <span class='fact-year'>2016</span>.",
                                     "fact_values": [
                                         "14.4",
                                         "13.6"
                                     ],
                                     "fact_units": [
-                                        " deaths per 1,000 population",
-                                        " deaths per 1,000 population"
+                                        " deaths per 100,000 population",
+                                        " deaths per 100,000 population"
                                     ],
                                     "fact_years": [
                                         "2000",
@@ -3995,14 +4040,14 @@
                                         "age_code": "Y15T19"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The adolescent birth rate declined from  <span class='fact-value'>17.2</span>  <span class='fact-unit'> births per 1,000 women aged 15-19 years</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>15.9 births per 1,000 women aged 15-19 years</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_text": "The adolescent birth rate declined from  <span class='fact-value'>17.2</span>  <span class='fact-unit'> per 1,000 women aged 15-19 years</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>15.9 per 1,000 women aged 15-19 years</span> in <span class='fact-year'>2017</span>.",
                                     "fact_values": [
                                         "17.2",
                                         "15.9"
                                     ],
                                     "fact_units": [
-                                        " births per 1,000 women aged 15-19 years",
-                                        " births per 1,000 women aged 15-19 years"
+                                        " per 1,000 women aged 15-19 years",
+                                        " per 1,000 women aged 15-19 years"
                                     ],
                                     "fact_years": [
                                         "2000",
@@ -4158,7 +4203,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income declined from  <span class='fact-value'>5.64</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2002</span> to <span class='fact-value'>4.95%</span> in <span class='fact-year'>2012</span>.",
+                                    "fact_text": "The proportion of population with health expenditures above 25% of total household expenditure or invome  declined from  <span class='fact-value'>5.64</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2002</span> to <span class='fact-value'>4.95%</span> in <span class='fact-year'>2012</span>.",
                                     "fact_values": [
                                         "5.64",
                                         "4.95"
@@ -4203,11 +4248,20 @@
                                     "hub": "1f7d8dc98e5a4ef3a165aa5582d78316",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of population with health expenditures above 10% of total household expenditure or invome  declined from  <span class='fact-value'>23.37</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2002</span> to <span class='fact-value'>16.72%</span> in <span class='fact-year'>2012</span>.",
+                                    "fact_values": [
+                                        "23.37",
+                                        "16.72"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2002",
+                                        "2012"
+                                    ],
                                     "data_years": [
                                         2002,
                                         2005,
@@ -4250,11 +4304,17 @@
                                     "hub": "d357f2d3055d475c8692bffed2b94a7a",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "14",
+                                    "fact_text": "The age-standardized mortality rate attributed to household air pollution was  <span class='fact-value'> 31.0</span> <span class='fact-unit'>deathsdeaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
+                                    "fact_values": [
+                                        "31.0deaths"
+                                    ],
+                                    "fact_units": [
+                                        "deaths per 100,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2016
                                     ],
@@ -4275,11 +4335,17 @@
                                     "hub": "6ff409193661484696600255227888f4",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "14",
+                                    "fact_text": "The crude death rate attributed to household and ambient air pollution was  <span class='fact-value'> 105.0</span> <span class='fact-unit'>deathsdeaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
+                                    "fact_values": [
+                                        "105.0deaths"
+                                    ],
+                                    "fact_units": [
+                                        "deaths per 100,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2016
                                     ],
@@ -4331,11 +4397,17 @@
                                     "hub": "3da0b72a3240451f94f4c434da8fec4f",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "14",
+                                    "fact_text": "The crude death rate attributed to ambient air pollution was  <span class='fact-value'> 63.0</span> <span class='fact-unit'>deathsdeaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
+                                    "fact_values": [
+                                        "63.0deaths"
+                                    ],
+                                    "fact_units": [
+                                        "deaths per 100,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2016
                                     ],
@@ -4356,11 +4428,17 @@
                                     "hub": "e4bdf511d53a46d7915241d1150b0825",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The age-standardized mortality rate attributed to ambient air pollution was <span class='fact-value'>41.0</span> <span class='fact-unit'> deaths per 1,000 population</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "41.0"
+                                    ],
+                                    "fact_units": [
+                                        " deaths per 1,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2016
                                     ],
@@ -4381,11 +4459,17 @@
                                     "hub": "2c24d737ba0c461b9d15bbf74ec2e6d2",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "14",
+                                    "fact_text": "The crude death rate attributed to household air pollution was  <span class='fact-value'> 47.0</span> <span class='fact-unit'>deathsdeaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
+                                    "fact_values": [
+                                        "47.0deaths"
+                                    ],
+                                    "fact_units": [
+                                        "deaths per 100,000 population"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2016
                                     ],
@@ -4845,15 +4929,21 @@
                             "facts": [
                                 {
                                     "seriesCode": "DC_TOF_HLTHNT",
-                                    "seriesTitle": "Net disbursement of total official development assistance received for medical research and basic heath sectors (millions of constant 2018 dollars)",
+                                    "seriesTitle": "Net disbursement of total official development assistance received for medical research and basic heath sectors (millions of 2018 dollars)",
                                     "hub": "4ced890b6fc94cd58f5a475ebe5b2507",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Net disbursement of total official development assistance received for medical research and basic heath sectors was  <span class='fact-value'>6.73</span> <span class='fact-unit'>millions of 2018 dollars</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "6.73"
+                                    ],
+                                    "fact_units": [
+                                        "millions of 2018 dollars"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2010,
                                         2011,
@@ -4906,11 +4996,20 @@
                                     "hub": "43c59139930244b1aa0ec279e9a0b8d0",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Gross disbursements of total official development assistance received for medical research and basic heath sectors was  decreased from  <span class='fact-value'>9.8</span>  <span class='fact-unit'>millions of 2018 dollars</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>8.96millions of 2018 dollars</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "9.8",
+                                        "8.96"
+                                    ],
+                                    "fact_units": [
+                                        "millions of 2018 dollars",
+                                        "millions of 2018 dollars"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,

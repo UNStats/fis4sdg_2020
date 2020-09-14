@@ -4,6 +4,10 @@ import json
 import country_profiles as cp
 import statistics
 
+import os.path
+from os import path
+
+
 release = set_release.set_release()
 
 # Read fact-builder rules:
@@ -44,8 +48,8 @@ count_country = 0
 
 for this_country in countryArray:
 
-    if this_country['M49'] != '8':
-        continue
+    # if this_country['M49'] != '31':
+    #     continue
 
     # if this_country['Country_Profile'] != '1':
     #     continue
@@ -162,8 +166,14 @@ for this_country in countryArray:
                                 # Colect data for this fact
                                 # -----------------------------------------------------------
 
-                                data = utils.open_json('data/interim/' + release +
-                                                       '/country_profiles/country_profile_data_' + this_country['M49'] + '.json')
+                                cp_data_path = 'data/interim/' + release + \
+                                    '/country_profiles/country_profile_data_' + \
+                                    this_country['M49'] + '.json'
+
+                                if path.exists(cp_data_path):
+                                    data = utils.open_json(cp_data_path)
+                                else:
+                                    continue
 
                                 data = utils.select_dict(
                                     data, {'seriesCode': this_fact['series']})
@@ -233,6 +243,9 @@ for this_country in countryArray:
                                 # print(f'value_y_max = {value_y_max}')
                                 # print(f'value_y_min_num = {value_y_min_num}')
                                 # print(f'value_y_max_num = {value_y_max_num}')
+                                # print(values_numeric_part)
+
+                                # print(f"----Series={this_fact['series']}")
 
                                 value_median = statistics.median(
                                     values_numeric_part)
