@@ -350,7 +350,7 @@
                                         "quantile_code": "_T"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The proportion of population covered by social assistance programs was approximately  <span class='fact-value'>58.67</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2008</span>.",
+                                    "fact_text": "The proportion of population covered by social assistance programs was   <span class='fact-value'>58.67</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2008</span>.",
                                     "fact_values": [
                                         "58.67"
                                     ],
@@ -383,7 +383,7 @@
                                         "quantile_code": "_T"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The proportion of population covered by social insurance programs was approximately  <span class='fact-value'>45.04</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2008</span>.",
+                                    "fact_text": "The proportion of population covered by social insurance programs was   <span class='fact-value'>45.04</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2008</span>.",
                                     "fact_values": [
                                         "45.04"
                                     ],
@@ -1182,12 +1182,12 @@
                                         "age_code": "_T"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The total population suffering from moderate or severe food insecurity was  <span class='fact-value'>299.42</span> <span class='fact-unit'>thousand people</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "The total population suffering from moderate or severe food insecurity was  <span class='fact-value'>299.42</span> <span class='fact-unit'> thousand people</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "299.42"
                                     ],
                                     "fact_units": [
-                                        "thousand people"
+                                        " thousand people"
                                     ],
                                     "fact_years": [
                                         "2018"
@@ -1274,12 +1274,12 @@
                                         "age_code": "_T"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The total population suffering from  severe food insecurity was  <span class='fact-value'>30.42</span> <span class='fact-unit'>thousand people</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "The total population suffering from  severe food insecurity was  <span class='fact-value'>30.42</span> <span class='fact-unit'> thousand people</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "30.42"
                                     ],
                                     "fact_units": [
-                                        "thousand people"
+                                        " thousand people"
                                     ],
                                     "fact_years": [
                                         "2018"
@@ -1327,12 +1327,12 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "13",
-                                    "fact_text": "In  <span class='fact-year'> 2019</span>, there were <span class='fact-value'> 0.0</span>  <span class='fact-unit'>local breeds</span>   with sufficient genetic resources stored for reconstitution.",
+                                    "fact_text": "In  <span class='fact-year'> 2019</span>, there were <span class='fact-value'> 0.0</span>  <span class='fact-unit'> local breeds</span>   with sufficient genetic resources stored for reconstitution.",
                                     "fact_values": [
                                         "0.0"
                                     ],
                                     "fact_units": [
-                                        "local breeds"
+                                        " local breeds"
                                     ],
                                     "fact_years": [
                                         "2019"
@@ -1394,12 +1394,12 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "13",
-                                    "fact_text": "In  <span class='fact-year'> 2019</span>, there were <span class='fact-value'> 2246.0</span>  <span class='fact-unit'>plant breeds</span>   with sufficient genetic resources stored.",
+                                    "fact_text": "In  <span class='fact-year'> 2019</span>, there were <span class='fact-value'> 2246.0</span>  <span class='fact-unit'> plant breeds</span>   with sufficient genetic resources stored.",
                                     "fact_values": [
                                         "2246.0"
                                     ],
                                     "fact_units": [
-                                        "plant breeds"
+                                        " plant breeds"
                                     ],
                                     "fact_years": [
                                         "2019"
@@ -2923,7 +2923,7 @@
                                         "age_code": "Y0T4"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The prevalence of hepatitis B surface antigen (HBsAg) was approximately <span class='fact-value'>0.2</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2015</span>.",
+                                    "fact_text": "The prevalence of hepatitis B surface antigen (HBsAg) was  <span class='fact-value'>0.2</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2015</span>.",
                                     "fact_values": [
                                         "0.2"
                                     ],
@@ -3254,7 +3254,7 @@
                                         "age_code": "Y_GE15"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The 12-month prevalence of alcohol use disorders was approximately <span class='fact-value'>11.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_text": "The 12-month prevalence of alcohol use disorders was  <span class='fact-value'>11.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2016</span>.",
                                     "fact_values": [
                                         "11.0"
                                     ],
@@ -3580,7 +3580,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The proportion of population with health expenditures above 25% of total household expenditure or invome  declined from  <span class='fact-value'>2.43</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>1.64%</span> in <span class='fact-year'>2010</span>.",
+                                    "fact_text": "The proportion of population with health expenditures above 25% of total household expenditure or income  declined from  <span class='fact-value'>2.43</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>1.64%</span> in <span class='fact-year'>2010</span>.",
                                     "fact_values": [
                                         "2.43",
                                         "1.64"
@@ -3638,7 +3638,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The proportion of population with health expenditures above 10% of total household expenditure or invome was <span class='fact-value'>9.79</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2010</span>.",
+                                    "fact_text": "The proportion of population with health expenditures above 10% of total household expenditure or income was <span class='fact-value'>9.79</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2010</span>.",
                                     "fact_values": [
                                         "9.79"
                                     ],
@@ -3703,12 +3703,12 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "14",
-                                    "fact_text": "The crude death rate attributed to household and ambient air pollution was  <span class='fact-value'> 82.0</span> <span class='fact-unit'>deathsdeaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
+                                    "fact_text": "The crude death rate attributed to household and ambient air pollution was  <span class='fact-value'> 82.0</span> <span class='fact-unit'>deaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
                                     "fact_values": [
                                         "82.0deaths"
                                     ],
                                     "fact_units": [
-                                        "deaths per 100,000 population"
+                                        " per 100,000 population"
                                     ],
                                     "fact_years": [
                                         "2016"
@@ -3765,12 +3765,12 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "14",
-                                    "fact_text": "The crude death rate attributed to ambient air pollution was  <span class='fact-value'> 82.0</span> <span class='fact-unit'>deathsdeaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
+                                    "fact_text": "The crude death rate attributed to ambient air pollution was  <span class='fact-value'> 82.0</span> <span class='fact-unit'>deaths per 100,000 population</span> in <span class='fact-year'> 2016</span>.",
                                     "fact_values": [
                                         "82.0deaths"
                                     ],
                                     "fact_units": [
-                                        "deaths per 100,000 population"
+                                        " per 100,000 population"
                                     ],
                                     "fact_years": [
                                         "2016"
@@ -4001,7 +4001,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) was approximately  <span class='fact-value'>92.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "The proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) was   <span class='fact-value'>92.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "92.0"
                                     ],
@@ -4210,7 +4210,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) was approximately  <span class='fact-value'>82.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "The proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) was   <span class='fact-value'>82.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "82.0"
                                     ],
@@ -4249,7 +4249,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) was approximately  <span class='fact-value'>45.9</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "The proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) was   <span class='fact-value'>45.9</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "45.9"
                                     ],
@@ -4418,7 +4418,7 @@
                                         "typeOfSkill_code": "SKILL_READ"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The proportion of children and young people achieving a minimum proficiency level in reading in lower secondary education was approximately  <span class='fact-value'>97.27</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_text": "The proportion of children and young people achieving a minimum proficiency level in reading in lower secondary education was   <span class='fact-value'>97.27</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2016</span>.",
                                     "fact_values": [
                                         "97.27"
                                     ],
@@ -4696,7 +4696,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The gender parity index for participation rate in organized learning (one year before the official primary entry age) was approximately  <span class='fact-value'>1.0</span> <span class='fact-unit'></span> in <span class='fact-year'>2017</span>.",
+                                    "fact_text": "The gender parity index for participation rate in organized learning (one year before the official primary entry age) was   <span class='fact-value'>1.0</span> <span class='fact-unit'></span> in <span class='fact-year'>2017</span>.",
                                     "fact_values": [
                                         "1.0"
                                     ],
@@ -4795,7 +4795,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "The gender parity index for participation rate in formal and non-formal education and training was approximately  <span class='fact-value'>1.26</span> <span class='fact-unit'></span> in <span class='fact-year'>2016</span>.",
+                                    "fact_text": "The gender parity index for participation rate in formal and non-formal education and training was   <span class='fact-value'>1.26</span> <span class='fact-unit'></span> in <span class='fact-year'>2016</span>.",
                                     "fact_values": [
                                         "1.26"
                                     ],
@@ -4869,7 +4869,7 @@
                                         "typeOfSkill_code": "SKILL_LTRCY"
                                     },
                                     "text_type": "4",
-                                    "fact_text": "The immigration status parity index for achieving at least a fixed level of proficiency in functional numeracy  skills was  <span class='fact-value'>0.91</span> in <span class='fact-year'> 2015</span> , meaning 91.0immigrants per 100 non-immigrants had this level of achievement .",
+                                    "fact_text": "The immigration status parity index for achieving at least a fixed level of proficiency in functional numeracy  skills was  <span class='fact-value'>0.91</span> in <span class='fact-year'> 2015</span> , meaning 91.0immigrant per 100 non-immigrant children had this level of achievement .",
                                     "fact_values": [
                                         "0.91"
                                     ],
@@ -4895,18 +4895,24 @@
                                 },
                                 {
                                     "seriesCode": "SE_NAP_ACHI",
-                                    "seriesTitle": "Native to non-native parity index for achieving a minimum primary proficiency in reading (ratio)",
+                                    "seriesTitle": "Non-native to native parity index for achieving a minimum primary proficiency in reading (ratio)",
                                     "hub": "534fa02e75684b67923c987a3469b5ac",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "educationLevel_code": "ISCED11_1",
                                         "typeOfSkill_code": "SKILL_READ"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "4",
+                                    "fact_text": "The non-native to native parity index for achieving a minimum primary proficiency in reading was  <span class='fact-value'>0.99</span> in <span class='fact-year'> 2006</span> , meaning 99.0non-native per 100 native children in primary education had this level of achievement .",
+                                    "fact_values": [
+                                        "0.99"
+                                    ],
+                                    "fact_units": [
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2006"
+                                    ],
                                     "data_years": [
                                         2001,
                                         2006
@@ -4924,46 +4930,6 @@
                                         0.99
                                     ],
                                     "preferred_visualization": "singleton"
-                                },
-                                {
-                                    "seriesCode": "SE_LGP_ACHI",
-                                    "seriesTitle": "Language test parity index for achieving a minimum primary proficiency in reading (ratio)",
-                                    "hub": "b86f926e090f42da8708e084fcfc4382",
-                                    "dashboard": "",
-                                    "slice_dimensions": {
-                                        "educationLevel_code": "ISCED11_1",
-                                        "typeOfSkill_code": "SKILL_READ"
-                                    },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2001,
-                                        2006,
-                                        2011,
-                                        2016
-                                    ],
-                                    "data_values": [
-                                        "0.959853060788102",
-                                        "1.01209100972931",
-                                        "0.979208358779298",
-                                        "0.93344711163539"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        0.96,
-                                        1.01,
-                                        0.98,
-                                        0.93
-                                    ],
-                                    "preferred_visualization": "time_series"
                                 },
                                 {
                                     "seriesCode": "SE_TOT_GPI",
@@ -5012,46 +4978,6 @@
                                     "preferred_visualization": "time_series"
                                 },
                                 {
-                                    "seriesCode": "SE_TOT_SESPI",
-                                    "seriesTitle": "Low to high socio-economic status parity index for achieving a minimum primary proficiency in reading (ratio)",
-                                    "hub": "4a60ede1df6f45b4b169ca981e24ffde",
-                                    "dashboard": "",
-                                    "slice_dimensions": {
-                                        "educationLevel_code": "ISCED11_1",
-                                        "typeOfSkill_code": "SKILL_READ"
-                                    },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2001,
-                                        2006,
-                                        2011,
-                                        2016
-                                    ],
-                                    "data_values": [
-                                        "0.957847996195313",
-                                        "0.986515802688137",
-                                        "0.947835359673441",
-                                        "0.91455488362719"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        0.96,
-                                        0.99,
-                                        0.95,
-                                        0.91
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
                                     "seriesCode": "SE_TOT_RUPI",
                                     "seriesTitle": "Rural to urban parity index for achieving a minimum primary proficiency in reading (ratio)",
                                     "hub": "3425a76ab71847d1bb3d07661ca5b528",
@@ -5060,11 +4986,17 @@
                                         "educationLevel_code": "ISCED11_1",
                                         "typeOfSkill_code": "SKILL_READ"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "4",
+                                    "fact_text": "The rural to urban parity index for achieving a minimum primary proficiency in reading was  <span class='fact-value'>0.94</span> in <span class='fact-year'> 2016</span> , meaning 94.0rural per 100 urban children in primary education had this level of achievement .",
+                                    "fact_values": [
+                                        "0.94"
+                                    ],
+                                    "fact_units": [
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2001,
                                         2006,
@@ -5112,7 +5044,7 @@
                                         "typeOfSkill_code": "SKILL_LTRCY"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The proportion of population 16 to 65 years old achieving at least a fixed level of proficiency in functional literacy skills was approximately  <span class='fact-value'>84.24</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2015</span>.",
+                                    "fact_text": "The proportion of population 16 to 65 years old achieving at least a fixed level of proficiency in functional literacy skills was   <span class='fact-value'>84.24</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2015</span>.",
                                     "fact_values": [
                                         "84.24"
                                     ],
@@ -5286,220 +5218,6 @@
                             "indicatorCode": "5.5.1",
                             "facts": [
                                 {
-                                    "seriesCode": "SG_GEN_PARLN",
-                                    "seriesTitle": "Number of seats held by women in national parliaments (seats)",
-                                    "hub": "15a8ed627d124fe6bc685cfd820fed29",
-                                    "dashboard": "",
-                                    "slice_dimensions": {
-                                        "sex_code": "F"
-                                    },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2000,
-                                        2001,
-                                        2002,
-                                        2003,
-                                        2004,
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018,
-                                        2019,
-                                        2020
-                                    ],
-                                    "data_values": [
-                                        "24.0",
-                                        "15.0",
-                                        "15.0",
-                                        "15.0",
-                                        "15.0",
-                                        "31.0",
-                                        "31.0",
-                                        "35.0",
-                                        "32.0",
-                                        "25.0",
-                                        "27.0",
-                                        "27.0",
-                                        "27.0",
-                                        "34.0",
-                                        "34.0",
-                                        "33.0",
-                                        "33.0",
-                                        "30.0",
-                                        "30.0",
-                                        "30.0",
-                                        "34.0"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        24.0,
-                                        15.0,
-                                        15.0,
-                                        15.0,
-                                        15.0,
-                                        31.0,
-                                        31.0,
-                                        35.0,
-                                        32.0,
-                                        25.0,
-                                        27.0,
-                                        27.0,
-                                        27.0,
-                                        34.0,
-                                        34.0,
-                                        33.0,
-                                        33.0,
-                                        30.0,
-                                        30.0,
-                                        30.0,
-                                        34.0
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "SG_GEN_PARLNT",
-                                    "seriesTitle": "Number of seats in national parliaments (seats)",
-                                    "hub": "1d9169a401a14551b9de555ab229f99e",
-                                    "dashboard": "",
-                                    "slice_dimensions": {
-                                        "sex_code": "_T"
-                                    },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2000,
-                                        2001,
-                                        2002,
-                                        2003,
-                                        2004,
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018,
-                                        2019,
-                                        2020
-                                    ],
-                                    "data_values": [
-                                        "137.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "139.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0",
-                                        "141.0"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        137.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        139.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0,
-                                        141.0
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
                                     "seriesCode": "SG_GEN_PARL",
                                     "seriesTitle": "Proportion of seats held by women in national parliaments (percent)",
                                     "hub": "53dc94ee1fa248498b42a26f01241b84",
@@ -5624,7 +5342,7 @@
                                         "sex_code": "F"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The proportion of seats held by women in single or lower houses of parliament was  <span class='fact-value'>29.36</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2019</span>.",
+                                    "fact_text": "The proportion of seats held by women in deliberative bodies of local government was  <span class='fact-value'>29.36</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2019</span>.",
                                     "fact_values": [
                                         "29.36"
                                     ],
@@ -5883,11 +5601,17 @@
                                     "hub": "6ad6cb1d7a354d09893c4cae69375280",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education to women and men aged 15 years and older  stood at <span class='fact-value'> 88.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "88.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -5908,11 +5632,17 @@
                                     "hub": "43d9d73889974e3393366df2ae2383e2",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on maternity care to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -5933,11 +5663,17 @@
                                     "hub": "9a08ad7db08f4054ab3c17bf90a2bd7b",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to HIV counseling and test services to women and men aged 15 years and older stood at <span class='fact-value'> 60.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "60.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -5958,11 +5694,17 @@
                                     "hub": "fa7b603028084f47a4d0310d3242d9ed",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which  country laws and regulations guarantee full and equal access to HIV treatment and care services to women and men aged 15 years and older stood at <span class='fact-value'> 60.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "60.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -5983,11 +5725,17 @@
                                     "hub": "33c5b37ae04c415baa79330e18bb17de",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to HIV confidentiality to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6008,11 +5756,17 @@
                                     "hub": "cd5962fac2924b828d05fa26d1e9d3f3",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to HPV vaccine to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6033,11 +5787,17 @@
                                     "hub": "2e074113dc58457e8a7323996e1ec3fd",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on life saving commodities to women and men aged 15 years and older stood at <span class='fact-value'> 92.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "92.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6058,11 +5818,17 @@
                                     "hub": "78ee802c2830414a8dc2079a3eb5378f",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to abortion to women and men aged 15 years and older stood at <span class='fact-value'> 75.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "75.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6083,11 +5849,17 @@
                                     "hub": "6ddf27c44d05423a9c54ee0cca022eb6",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to post-abortion care to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6108,11 +5880,17 @@
                                     "hub": "f0ffc1a840b044ca829396a93e23ddf6",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which  country laws and regulations guarantee full and equal access to contraceptive services to women and men aged 15 years and older stood at <span class='fact-value'> 80.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "80.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6133,11 +5911,17 @@
                                     "hub": "602af6f3d09a4ccbaf95ab1ae28d0cda",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to contraceptive consent to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6158,11 +5942,17 @@
                                     "hub": "ff62d2a0c12646edac82765775e3968a",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to emergency contraception to women and men aged 15 years and older stood at <span class='fact-value'> 75.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "75.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6183,11 +5973,17 @@
                                     "hub": "8702a599081c4b349e881d4f58454e4e",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to secuality education curriculum laws to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6208,11 +6004,17 @@
                                     "hub": "96af955416964be29a2f2078c2f2b8cb",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to secuality education curriculum topics to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6233,11 +6035,17 @@
                                     "hub": "d9be2ea26ed84333bc516cdb81b2b3ab",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on maternity care to women and men aged 15 years and older stood at <span class='fact-value'> 92.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "92.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6258,11 +6066,17 @@
                                     "hub": "eade06ab401b47678ef8c33ce51cda7b",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to contraceptive and family planning to women and men aged 15 years and older stood at <span class='fact-value'> 85.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "85.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6283,11 +6097,17 @@
                                     "hub": "a74dd157c55248908c27fd195204edf2",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to sexuality education to women and men aged 15 years and older stood at <span class='fact-value'> 100.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6308,11 +6128,17 @@
                                     "hub": "0302e44845694f2ca99e115f74009b36",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on HIV and HPV  to women and men aged 15 years and older stood at <span class='fact-value'> 80.0</span> <span class='fact-unit'>%</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "80.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2019
                                     ],
@@ -6346,7 +6172,7 @@
                                         "sex_code": "F"
                                     },
                                     "text_type": "1",
-                                    "fact_text": "The proportion of individuals who own a mobile telephone was  <span class='fact-value'>95.88</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_text": "The proportion of women who own a mobile telephone was  <span class='fact-value'>95.88</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2018</span>.",
                                     "fact_values": [
                                         "95.88"
                                     ],
@@ -6762,11 +6588,17 @@
                                     "hub": "b5efd938106b4d7f913c1d79094ce416",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of open water bodies with good ambient water quality was <span class='fact-value'>74.69</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "74.69"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2017
                                     ],
@@ -6787,11 +6619,17 @@
                                     "hub": "968b39c00a324ae8bef7712a1dd8b601",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of river water bodies with good ambient water quality was <span class='fact-value'>41.12</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "41.12"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2017
                                     ],
@@ -6812,11 +6650,17 @@
                                     "hub": "29ddc6ed373a443086783848fb94d19d",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of groundwater bodies with good ambient water quality was  <span class='fact-value'>100.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "100.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2017
                                     ],
@@ -7117,11 +6961,17 @@
                                     "hub": "b2207664889d4dd48e3cc21e3cff85ec",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "9",
+                                    "fact_text": "In  <span class='fact-year'> 2017</span>, The proportion of transboundary aquifers with an operational arrangement for water cooperation stood at  <span class='fact-value'> 50.17</span>  <span class='fact-unit'>%</span>.",
+                                    "fact_values": [
+                                        "50.17"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2017
                                     ],
@@ -7142,11 +6992,17 @@
                                     "hub": "1b9e50702d954e7da5894490ffff6dab",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "9",
+                                    "fact_text": "In  <span class='fact-year'> 2017</span>, The proportion of transboundary river and lake basins with an operational arrangement for water cooperation stood at  <span class='fact-value'> 26.83</span>  <span class='fact-unit'>%</span>.",
+                                    "fact_values": [
+                                        "26.83"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2017
                                     ],
@@ -7178,7 +7034,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "7",
-                                    "fact_text": "Permanent water body exent sood at <span class='fact-value'> 1.49</span> <span class='fact-unit'>% of total land area</span>  in  <span class='fact-year'> 2018</span> .",
+                                    "fact_text": "The permanent water body exent sood at <span class='fact-value'> 1.49</span> <span class='fact-unit'>% of total land area</span>  in  <span class='fact-year'> 2018</span> .",
                                     "fact_values": [
                                         "1.49"
                                     ],
@@ -7253,237 +7109,6 @@
                                         1.49
                                     ],
                                     "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "EN_WBE_PMNR",
-                                    "seriesTitle": "Permanent water body extent (square kilometers)",
-                                    "hub": "aa4c4097e8e846aab6f3a0b5e0879abc",
-                                    "dashboard": "",
-                                    "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018
-                                    ],
-                                    "data_values": [
-                                        "916.678498",
-                                        "916.03188",
-                                        "922.792983",
-                                        "922.691876",
-                                        "918.829896",
-                                        "916.543452",
-                                        "913.393324",
-                                        "906.97406",
-                                        "906.301775",
-                                        "908.963098",
-                                        "911.326728",
-                                        "917.833903",
-                                        "926.729361",
-                                        "934.115625"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        916.68,
-                                        916.03,
-                                        922.79,
-                                        922.69,
-                                        918.83,
-                                        916.54,
-                                        913.39,
-                                        906.97,
-                                        906.3,
-                                        908.96,
-                                        911.33,
-                                        917.83,
-                                        926.73,
-                                        934.12
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "EN_WBE_PMPP",
-                                    "seriesTitle": "Permanent and maybe permanent water body extent as a proportion of total land area (percent)",
-                                    "hub": "96b79a3017e14046a0df4e3eb06f6046",
-                                    "dashboard": "",
-                                    "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018
-                                    ],
-                                    "data_values": [
-                                        "1.46295105615826",
-                                        "1.46182498564135",
-                                        "1.47227364231014",
-                                        "1.47224032867969",
-                                        "1.46655016354208",
-                                        "1.46290295652173",
-                                        "1.45789983725308",
-                                        "1.44765900532916",
-                                        "1.44662687993617",
-                                        "1.4509573312051",
-                                        "1.45471538547486",
-                                        "1.465285433096",
-                                        "1.47950980986893",
-                                        "1.49122842227933"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        1.46,
-                                        1.46,
-                                        1.47,
-                                        1.47,
-                                        1.47,
-                                        1.46,
-                                        1.46,
-                                        1.45,
-                                        1.45,
-                                        1.45,
-                                        1.45,
-                                        1.47,
-                                        1.48,
-                                        1.49
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "EN_WBE_PMPN",
-                                    "seriesTitle": "Permanent and maybe permanent water body extent (square kilometers)",
-                                    "hub": "bb2c237b99c54184800ed86fdaa3c5a4",
-                                    "dashboard": "",
-                                    "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018
-                                    ],
-                                    "data_values": [
-                                        "916.977722",
-                                        "916.271901",
-                                        "922.821119",
-                                        "922.726626",
-                                        "919.160315",
-                                        "916.874428",
-                                        "913.724144",
-                                        "907.305805",
-                                        "906.673397",
-                                        "909.024768",
-                                        "911.379189",
-                                        "917.884101",
-                                        "926.77974",
-                                        "934.120396"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        916.98,
-                                        916.27,
-                                        922.82,
-                                        922.73,
-                                        919.16,
-                                        916.87,
-                                        913.72,
-                                        907.31,
-                                        906.67,
-                                        909.02,
-                                        911.38,
-                                        917.88,
-                                        926.78,
-                                        934.12
-                                    ],
-                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -7497,17 +7122,23 @@
                             "facts": [
                                 {
                                     "seriesCode": "ER_H2O_RURP",
-                                    "seriesTitle": "Level of participation by users/communities in planning programs in rural drinking-water supply (3 = High; 2 = Moderate; 1 = Low; 0 = NA) (score)",
+                                    "seriesTitle": "Level of participation by users/communities in planning programs in rural drinking-water supply (score)",
                                     "hub": "d65304ada8a24b2a8463fb0f0973f417",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "location_code": "R"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The level of participation by users/communities in planning programs in rural drinking-water supply (where 3 = High; 2 = Moderate; 1 = Low; and 0 = NA) stood at <span class='fact-value'> 3.0</span> <span class='fact-unit'> points</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "3.0"
+                                    ],
+                                    "fact_units": [
+                                        " points"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2014,
                                         2017,
@@ -7532,17 +7163,23 @@
                                 },
                                 {
                                     "seriesCode": "ER_H2O_PRDU",
-                                    "seriesTitle": "Level of definition in procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) (score)",
+                                    "seriesTitle": "Level of definition in procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (score)",
                                     "hub": "e59cc651e8004c2189b0f344b547601d",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "location_code": "R"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The level of definition in procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (where 10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) stood at <span class='fact-value'> 10.0</span> <span class='fact-unit'> points</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "10.0"
+                                    ],
+                                    "fact_units": [
+                                        " points"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2014,
                                         2017,
@@ -7571,11 +7208,17 @@
                                     "hub": "a949a48854e244d8b223974d97a49f6d",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The level of participation by users/communities in planning programs in water resources planning and management, by level of participation (where 3 = High; 2 = Moderate; 1 = Low; and 0 = NA) stood at <span class='fact-value'> 3.0</span> <span class='fact-unit'> points</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "3.0"
+                                    ],
+                                    "fact_units": [
+                                        " points"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2017,
                                         2019
@@ -7600,11 +7243,17 @@
                                     "hub": "8ef4b6b3a06c419083a1f55afb1ec2bf",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "7",
+                                    "fact_text": "The level of definition of legal or policy procedures for participation by service users/communities in planning program in water resources planning and management (where 10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) stood at <span class='fact-value'> 10.0</span> <span class='fact-unit'> points</span>  in  <span class='fact-year'> 2019</span> .",
+                                    "fact_values": [
+                                        "10.0"
+                                    ],
+                                    "fact_units": [
+                                        " points"
+                                    ],
+                                    "fact_years": [
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2017,
                                         2019
@@ -7903,11 +7552,20 @@
                                     "hub": "3cece1f2bb4e49efa22d45bc34076805",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The share of renewable energy in the total final energy consumption increased from  <span class='fact-value'>17.19</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>33.56%</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "17.19",
+                                        "33.56"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -8006,11 +7664,20 @@
                                     "hub": "4aed6a5a397f4e3e995772d635ba4b23",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The level of primary energy intensity  declined from  <span class='fact-value'>7.01</span>  <span class='fact-unit'> megajoules per dollar of GDP in constant 2011 PPP</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>3.77 megajoules per dollar of GDP in constant 2011 PPP</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "7.01",
+                                        "3.77"
+                                    ],
+                                    "fact_units": [
+                                        " megajoules per dollar of GDP in constant 2011 PPP",
+                                        " megajoules per dollar of GDP in constant 2011 PPP"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -8230,11 +7897,20 @@
                                     "hub": "25386a2986044a60a04975c17bdb3d78",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The annual growth rate of real GDP per employed person  declined from  <span class='fact-value'>8.9</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>5.7%</span> in <span class='fact-year'>2019</span>.",
+                                    "fact_values": [
+                                        "8.9",
+                                        "5.7"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -8335,101 +8011,6 @@
                         {
                             "indicatorCode": "8.4.2",
                             "facts": [
-                                {
-                                    "seriesCode": "EN_MAT_DOMCMPT",
-                                    "seriesTitle": "Domestic material consumption (tonnes)",
-                                    "hub": "6313ffeedd8b446cbd2059aa885f9b13",
-                                    "dashboard": "",
-                                    "slice_dimensions": {
-                                        "typeOfProduct_code": "_T"
-                                    },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2000,
-                                        2001,
-                                        2002,
-                                        2003,
-                                        2004,
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017
-                                    ],
-                                    "data_values": [
-                                        "27736758.70345",
-                                        "25601842.39345",
-                                        "31255134.6059",
-                                        "31586795.1469",
-                                        "34787184.9316",
-                                        "36554712.4807",
-                                        "36996821.1641",
-                                        "43638950.7886",
-                                        "43025812.5552",
-                                        "31943938.0661",
-                                        "33679296.6368",
-                                        "37549570.2049",
-                                        "37823428.0296",
-                                        "39363805.7024",
-                                        "42249957.2099",
-                                        "42611306.0826",
-                                        "43448802.0642",
-                                        "44286298.04574"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        27736758.7,
-                                        25601842.39,
-                                        31255134.61,
-                                        31586795.15,
-                                        34787184.93,
-                                        36554712.48,
-                                        36996821.16,
-                                        43638950.79,
-                                        43025812.56,
-                                        31943938.07,
-                                        33679296.64,
-                                        37549570.2,
-                                        37823428.03,
-                                        39363805.7,
-                                        42249957.21,
-                                        42611306.08,
-                                        43448802.06,
-                                        44286298.05
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
                                 {
                                     "seriesCode": "EN_MAT_DOMCMPG",
                                     "seriesTitle": "Domestic material consumption per unit of GDP (kilograms per constant 2010 dollars)",
@@ -8654,11 +8235,20 @@
                                         "sex_code": "_T",
                                         "typeOfOccupation_code": "_T"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The average hourly earnings of employees increased from  <span class='fact-value'>1.83</span>  <span class='fact-unit'> in local currency</span>  in  <span class='fact-year'>2002</span> to <span class='fact-value'>2.74 in local currency</span> in <span class='fact-year'>2006</span>.",
+                                    "fact_values": [
+                                        "1.83",
+                                        "2.74"
+                                    ],
+                                    "fact_units": [
+                                        " in local currency",
+                                        " in local currency"
+                                    ],
+                                    "fact_years": [
+                                        "2002",
+                                        "2006"
+                                    ],
                                     "data_years": [
                                         2002,
                                         2006
@@ -8800,11 +8390,17 @@
                                         "sex_code": "_T",
                                         "disabilityStatus_code": "PD"
                                     },
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Among persons with disability, the unemployment rate was  <span class='fact-value'>34.0</span> <span class='fact-unit'>%</span> in <span class='fact-year'>2012</span>.",
+                                    "fact_values": [
+                                        "34.0"
+                                    ],
+                                    "fact_units": [
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2012"
+                                    ],
                                     "data_years": [
                                         2012
                                     ],
@@ -8831,18 +8427,27 @@
                             "facts": [
                                 {
                                     "seriesCode": "SL_TLF_NEET",
-                                    "seriesTitle": "Proportion of youth (people 15-24 year old) not in education, employment or training (percent)",
+                                    "seriesTitle": "Proportion of people 15-24 year old not in education, employment or training (percent)",
                                     "hub": "630f86af25664b339169e17cdd53b5f8",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "age_code": "Y15T24"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The proportion of youth not in education, employment or training  declined from  <span class='fact-value'>9.9</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2004</span> to <span class='fact-value'>8.0%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "9.9",
+                                        "8.0"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2004",
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2004,
                                         2005,
@@ -8925,18 +8530,24 @@
                             "facts": [
                                 {
                                     "seriesCode": "SL_EMP_FTLINJUR",
-                                    "seriesTitle": "Fatal occupational injuries among employees (injuries per 100,000 employees)",
+                                    "seriesTitle": "Fatal occupational injuries among employees (per 100,000 employees)",
                                     "hub": "4cd0e6f1b893443bbbd1bea027c8d9a6",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "migratoryStatus_code": "_T"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "11",
+                                    "fact_text": "In  <span class='fact-year'> 2016</span>, there were <span class='fact-value'> 4.21</span>  <span class='fact-unit'> fatal occupational injuries per 100,000 employees</span>. ",
+                                    "fact_values": [
+                                        "4.21"
+                                    ],
+                                    "fact_units": [
+                                        " fatal occupational injuries per 100,000 employees"
+                                    ],
+                                    "fact_years": [
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -9017,18 +8628,27 @@
                                 },
                                 {
                                     "seriesCode": "SL_EMP_INJUR",
-                                    "seriesTitle": "Non-fatal occupational injuries among employees (injuries per 100,000 employees)",
+                                    "seriesTitle": "Non-fatal occupational injuries among employees (per 100,000 employees)",
                                     "hub": "5ccee778135e4c05bb58843d2b15ffca",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "migratoryStatus_code": "_T"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The number of non-fatal occupational injuries among employees   increased from  <span class='fact-value'>268.0</span>  <span class='fact-unit'> per 100,000 employees</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>363.3 per 100,000 employees</span> in <span class='fact-year'>2016</span>.",
+                                    "fact_values": [
+                                        "268.0",
+                                        "363.3"
+                                    ],
+                                    "fact_units": [
+                                        " per 100,000 employees",
+                                        " per 100,000 employees"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2016"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -9114,15 +8734,21 @@
                             "facts": [
                                 {
                                     "seriesCode": "SL_LBR_NTLCPL",
-                                    "seriesTitle": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation (score)",
+                                    "seriesTitle": "Level of national compliance with labour rights (score)",
                                     "hub": "56b57ab206464ca8be1b79d40636b99c",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "9",
+                                    "fact_text": "In  <span class='fact-year'> 2017</span>, The level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation stood at <span class='fact-value'> 0.2</span>  <span class='fact-unit'></span>.",
+                                    "fact_values": [
+                                        "0.2"
+                                    ],
+                                    "fact_units": [
+                                        ""
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2015,
                                         2016,
@@ -9161,11 +8787,20 @@
                                     "hub": "85252d4feaf64428a2da6c9fcc6debe1",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The direct contribution of tourism to total GDP increased from  <span class='fact-value'>2.8</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2009</span> to <span class='fact-value'>3.1%</span> in <span class='fact-year'>2017</span>.",
+                                    "fact_values": [
+                                        "2.8",
+                                        "3.1"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2009",
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2009,
                                         2010,
@@ -9224,17 +8859,23 @@
                             "facts": [
                                 {
                                     "seriesCode": "FB_ATM_TOTL",
-                                    "seriesTitle": "Number of automated teller machines (ATMs) (ATMs per 100,000 adults)",
+                                    "seriesTitle": "Number of automated teller machines (ATMs) (per 100,000 adults)",
                                     "hub": "0f17b01672194e688bbb28be9afc351c",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "age_code": "Y_GE15"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "11",
+                                    "fact_text": "In  <span class='fact-year'> 2018</span>, there were <span class='fact-value'> 47.13</span>  <span class='fact-unit'>ATMs per 100,000 adults</span>. ",
+                                    "fact_values": [
+                                        "47.13"
+                                    ],
+                                    "fact_units": [
+                                        "ATMs per 100,000 adults"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2004,
                                         2005,
@@ -9307,17 +8948,23 @@
                                 },
                                 {
                                     "seriesCode": "FB_CBK_BRCH",
-                                    "seriesTitle": "Number of commercial bank branches (branches per 100,000 adults)",
+                                    "seriesTitle": "Number of commercial bank branches (per 100,000 adults)",
                                     "hub": "ab21eaf78906418d962f8fcc5423bcde",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "age_code": "Y_GE15"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "11",
+                                    "fact_text": "In  <span class='fact-year'> 2018</span>, there were <span class='fact-value'> 11.5</span>  <span class='fact-unit'>commercial bank branches per 100,000 adults</span>. ",
+                                    "fact_values": [
+                                        "11.5"
+                                    ],
+                                    "fact_units": [
+                                        "commercial bank branches per 100,000 adults"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2004,
                                         2005,
@@ -9395,18 +9042,24 @@
                             "facts": [
                                 {
                                     "seriesCode": "FB_BNK_ACCSS",
-                                    "seriesTitle": "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider (percent)",
+                                    "seriesTitle": "Proportion of people 15 years and older with an account at a financial institution or mobile-money-service provider (percent)",
                                     "hub": "417756c53b344b0f82c896d7a00c23f4",
                                     "dashboard": "",
                                     "slice_dimensions": {
                                         "sex_code": "_T",
                                         "age_code": "Y_GE15"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "2",
+                                    "fact_text": "In <span class='fact-year'>2017</span>, <span class='fact-value'>82.88</span> <span class='fact-unit'>% </span> of adults had an account at a financial institution or mobile-money-service provider",
+                                    "fact_values": [
+                                        "82.88"
+                                    ],
+                                    "fact_units": [
+                                        "% "
+                                    ],
+                                    "fact_years": [
+                                        "2017"
+                                    ],
                                     "data_years": [
                                         2011,
                                         2014,
@@ -9452,11 +9105,17 @@
                                     "slice_dimensions": {
                                         "modeOfTransportation_code": "MOT_ROA"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Freight volume by road transport was  <span class='fact-value'>43591000000.0</span> <span class='fact-unit'> tonne kilometres</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "43591000000.0"
+                                    ],
+                                    "fact_units": [
+                                        " tonne kilometres"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2018
                                     ],
@@ -9479,11 +9138,17 @@
                                     "slice_dimensions": {
                                         "modeOfTransportation_code": "MOT_AIR"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Passenger volume by air transport was  <span class='fact-value'>4275850.0</span> <span class='fact-unit'> passenger kilometres</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "4275850.0"
+                                    ],
+                                    "fact_units": [
+                                        " passenger kilometres"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2017,
                                         2018
@@ -9510,11 +9175,17 @@
                                     "slice_dimensions": {
                                         "modeOfTransportation_code": "MOT_SEA"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Container port traffic (maritime transport) reached <span class='fact-value'>750000.0</span> <span class='fact-unit'> twenty-foot equivalent units</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "750000.0"
+                                    ],
+                                    "fact_units": [
+                                        " twenty-foot equivalent units"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2010,
                                         2011,
@@ -9577,11 +9248,20 @@
                                     "hub": "dd75bc6cdd6a4fd4a6c0ccc83b7205af",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Manufacturing value added per capita at constant 2015 prices was increased from  <span class='fact-value'>883.3</span>  <span class='fact-unit'> dollars</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>3121.8 dollars</span> in <span class='fact-year'>2019</span>.",
+                                    "fact_values": [
+                                        "883.3",
+                                        "3121.8"
+                                    ],
+                                    "fact_units": [
+                                        " dollars",
+                                        " dollars"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -9678,11 +9358,20 @@
                                     "hub": "c0d8b771b5864eb3a14f499285a2220b",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Manufacturing value added as a proportion of GDP  increased from  <span class='fact-value'>13.72</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>18.19%</span> in <span class='fact-year'>2019</span>.",
+                                    "fact_values": [
+                                        "13.72",
+                                        "18.19"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2019"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -9784,11 +9473,20 @@
                                     "hub": "86f6b574a2354164ac6dacaf00c374b3",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Manufacturing employment as a proportion of total employment  declined from  <span class='fact-value'>18.2</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>16.0%</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "18.2",
+                                        "16.0"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,

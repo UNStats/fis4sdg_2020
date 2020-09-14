@@ -181,14 +181,14 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "Agricultural export subsidies increased from  <span class='fact-value'>6.37</span>  <span class='fact-unit'>millions dollas at constant prices of 2018</span>  in  <span class='fact-year'>2001</span> to <span class='fact-value'>8.68millions dollas at constant prices of 2018</span> in <span class='fact-year'>2010</span>.",
+                                    "fact_text": "Agricultural export subsidies increased from  <span class='fact-value'>6.37</span>  <span class='fact-unit'> millions dollas at constant prices of 2018</span>  in  <span class='fact-year'>2001</span> to <span class='fact-value'>8.68 millions dollas at constant prices of 2018</span> in <span class='fact-year'>2010</span>.",
                                     "fact_values": [
                                         "6.37",
                                         "8.68"
                                     ],
                                     "fact_units": [
-                                        "millions dollas at constant prices of 2018",
-                                        "millions dollas at constant prices of 2018"
+                                        " millions dollas at constant prices of 2018",
+                                        " millions dollas at constant prices of 2018"
                                     ],
                                     "fact_years": [
                                         "2001",
@@ -418,12 +418,12 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "Net disbursement of total official development assistance received for medical research and basic heath sectors was  <span class='fact-value'>1.49</span> <span class='fact-unit'>millions of 2018 dollars</span> in <span class='fact-year'>2010</span>.",
+                                    "fact_text": "Net disbursement of total official development assistance received for medical research and basic heath sectors was  <span class='fact-value'>1.49</span> <span class='fact-unit'> millions of 2018 dollars</span> in <span class='fact-year'>2010</span>.",
                                     "fact_values": [
                                         "1.49"
                                     ],
                                     "fact_units": [
-                                        "millions of 2018 dollars"
+                                        " millions of 2018 dollars"
                                     ],
                                     "fact_years": [
                                         "2010"
@@ -449,14 +449,14 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "1",
-                                    "fact_text": "Gross disbursements of total official development assistance received for medical research and basic heath sectors was  decreased from  <span class='fact-value'>5.0</span>  <span class='fact-unit'>millions of 2018 dollars</span>  in  <span class='fact-year'>2004</span> to <span class='fact-value'>1.99millions of 2018 dollars</span> in <span class='fact-year'>2010</span>.",
+                                    "fact_text": "Gross disbursements of total official development assistance received for medical research and basic heath sectors was  decreased from  <span class='fact-value'>5.0</span>  <span class='fact-unit'> millions of 2018 dollars</span>  in  <span class='fact-year'>2004</span> to <span class='fact-value'>1.99 millions of 2018 dollars</span> in <span class='fact-year'>2010</span>.",
                                     "fact_values": [
                                         "5.0",
                                         "1.99"
                                     ],
                                     "fact_units": [
-                                        "millions of 2018 dollars",
-                                        "millions of 2018 dollars"
+                                        " millions of 2018 dollars",
+                                        " millions of 2018 dollars"
                                     ],
                                     "fact_years": [
                                         "2004",
@@ -684,7 +684,7 @@
                                     "dashboard": "",
                                     "slice_dimensions": {},
                                     "text_type": "7",
-                                    "fact_text": "Permanent water body exent sood at <span class='fact-value'> 0.56</span> <span class='fact-unit'>% of total land area</span>  in  <span class='fact-year'> 2018</span> .",
+                                    "fact_text": "The permanent water body exent sood at <span class='fact-value'> 0.56</span> <span class='fact-unit'>% of total land area</span>  in  <span class='fact-year'> 2018</span> .",
                                     "fact_values": [
                                         "0.56"
                                     ],
@@ -759,237 +759,6 @@
                                         0.56
                                     ],
                                     "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "EN_WBE_PMNR",
-                                    "seriesTitle": "Permanent water body extent (square kilometers)",
-                                    "hub": "aa4c4097e8e846aab6f3a0b5e0879abc",
-                                    "dashboard": "",
-                                    "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018
-                                    ],
-                                    "data_values": [
-                                        "2.279502",
-                                        "2.360928",
-                                        "2.315154",
-                                        "2.254172",
-                                        "2.277808",
-                                        "2.452989",
-                                        "2.344038",
-                                        "2.277502",
-                                        "2.318861",
-                                        "2.310049",
-                                        "2.48443",
-                                        "2.441267",
-                                        "2.320415",
-                                        "2.089874"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        2.28,
-                                        2.36,
-                                        2.32,
-                                        2.25,
-                                        2.28,
-                                        2.45,
-                                        2.34,
-                                        2.28,
-                                        2.32,
-                                        2.31,
-                                        2.48,
-                                        2.44,
-                                        2.32,
-                                        2.09
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "EN_WBE_PMPP",
-                                    "seriesTitle": "Permanent and maybe permanent water body extent as a proportion of total land area (percent)",
-                                    "hub": "96b79a3017e14046a0df4e3eb06f6046",
-                                    "dashboard": "",
-                                    "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018
-                                    ],
-                                    "data_values": [
-                                        "0.673567647058823",
-                                        "0.709275935828877",
-                                        "0.716061764705882",
-                                        "0.731941176470588",
-                                        "0.742609625668449",
-                                        "0.789544117647058",
-                                        "0.779122192513369",
-                                        "0.783513368983957",
-                                        "0.773870320855615",
-                                        "0.767120855614973",
-                                        "0.756897058823529",
-                                        "0.705534759358288",
-                                        "0.631961497326203",
-                                        "0.558789839572192"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        0.67,
-                                        0.71,
-                                        0.72,
-                                        0.73,
-                                        0.74,
-                                        0.79,
-                                        0.78,
-                                        0.78,
-                                        0.77,
-                                        0.77,
-                                        0.76,
-                                        0.71,
-                                        0.63,
-                                        0.56
-                                    ],
-                                    "preferred_visualization": "time_series"
-                                },
-                                {
-                                    "seriesCode": "EN_WBE_PMPN",
-                                    "seriesTitle": "Permanent and maybe permanent water body extent (square kilometers)",
-                                    "hub": "bb2c237b99c54184800ed86fdaa3c5a4",
-                                    "dashboard": "",
-                                    "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
-                                    "data_years": [
-                                        2005,
-                                        2006,
-                                        2007,
-                                        2008,
-                                        2009,
-                                        2010,
-                                        2011,
-                                        2012,
-                                        2013,
-                                        2014,
-                                        2015,
-                                        2016,
-                                        2017,
-                                        2018
-                                    ],
-                                    "data_values": [
-                                        "2.519143",
-                                        "2.652692",
-                                        "2.678071",
-                                        "2.73746",
-                                        "2.77736",
-                                        "2.952895",
-                                        "2.913917",
-                                        "2.93034",
-                                        "2.894275",
-                                        "2.869032",
-                                        "2.830795",
-                                        "2.6387",
-                                        "2.363536",
-                                        "2.089874"
-                                    ],
-                                    "data_is_censored": [
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false,
-                                        false
-                                    ],
-                                    "data_numeric_part": [
-                                        2.52,
-                                        2.65,
-                                        2.68,
-                                        2.74,
-                                        2.78,
-                                        2.95,
-                                        2.91,
-                                        2.93,
-                                        2.89,
-                                        2.87,
-                                        2.83,
-                                        2.64,
-                                        2.36,
-                                        2.09
-                                    ],
-                                    "preferred_visualization": "time_series"
                                 }
                             ]
                         }
@@ -1007,11 +776,20 @@
                                     "hub": "1bcf2ad5f3dc4317aa9628f900c40a6d",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Total gross disbursements of official development assistance received for water supply and sanitation  increased from  <span class='fact-value'>1.09</span>  <span class='fact-unit'> million of constant 2018 dollars</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>1.52 million of constant 2018 dollars</span> in <span class='fact-year'>2009</span>.",
+                                    "fact_values": [
+                                        "1.09",
+                                        "1.52"
+                                    ],
+                                    "fact_units": [
+                                        " million of constant 2018 dollars",
+                                        " million of constant 2018 dollars"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2009"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2002,
@@ -1075,11 +853,20 @@
                                     "hub": "3cece1f2bb4e49efa22d45bc34076805",
                                     "dashboard": "",
                                     "slice_dimensions": {},
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "The share of renewable energy in the total final energy consumption declined from  <span class='fact-value'>16.17</span>  <span class='fact-unit'>%</span>  in  <span class='fact-year'>2000</span> to <span class='fact-value'>9.96%</span> in <span class='fact-year'>2010</span>.",
+                                    "fact_values": [
+                                        "16.17",
+                                        "9.96"
+                                    ],
+                                    "fact_units": [
+                                        "%",
+                                        "%"
+                                    ],
+                                    "fact_years": [
+                                        "2000",
+                                        "2010"
+                                    ],
                                     "data_years": [
                                         2000,
                                         2001,
@@ -1157,11 +944,17 @@
                                     "slice_dimensions": {
                                         "modeOfTransportation_code": "MOT_ROA"
                                     },
-                                    "text_type": "0",
-                                    "fact_text": "",
-                                    "fact_values": [],
-                                    "fact_units": [],
-                                    "fact_years": [],
+                                    "text_type": "1",
+                                    "fact_text": "Freight volume by road transport was  <span class='fact-value'>0.0</span> <span class='fact-unit'> tonne kilometres</span> in <span class='fact-year'>2018</span>.",
+                                    "fact_values": [
+                                        "0.0"
+                                    ],
+                                    "fact_units": [
+                                        " tonne kilometres"
+                                    ],
+                                    "fact_years": [
+                                        "2018"
+                                    ],
                                     "data_years": [
                                         2018
                                     ],
