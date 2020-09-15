@@ -48,8 +48,8 @@ count_country = 0
 
 for this_country in countryArray:
 
-    if this_country['M49'] not in ['8']:
-        continue
+    # if this_country['M49'] not in ['8']:
+    #     continue
 
     # if this_country['Country_Profile'] != '1':
     #     continue
@@ -203,10 +203,10 @@ for this_country in countryArray:
                                         values_numeric_part[i] = int(
                                             values_numeric_part[i])
 
-                                    if decimal_pos > 0:
-                                        if len(values[i]) - decimal_pos > 2:
+                                    if decimal_pos > -1:
+                                        if len(values[i]) - decimal_pos > 1:
                                             values_numeric_part[i] = utils.round_KFM(
-                                                values_numeric_part[i], 2)
+                                                values_numeric_part[i], 1)
 
                                 # number of observations available
                                 n = len(values_numeric_part)
