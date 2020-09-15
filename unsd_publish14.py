@@ -48,8 +48,8 @@ count_country = 0
 
 for this_country in countryArray:
 
-    # if this_country['M49'] not in ['8', '484']:
-    #     continue
+    if this_country['M49'] not in ['8']:
+        continue
 
     # if this_country['Country_Profile'] != '1':
     #     continue
