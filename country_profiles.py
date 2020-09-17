@@ -1,5 +1,8 @@
 
 
+import utils
+
+
 def build_fact(text_type,
                conditions,
                da2_1,
@@ -54,7 +57,7 @@ def build_fact(text_type,
 
     elif text_type == '4':
         fact_text = da2_1 + " <span class='fact-value'>" + str(value_y_max) + "</span> in <span class='fact-year'> " + str(
-            y_max) + "</span> " + ", meaning " + str(float(value_y_max) * 100) + da2_2 + "."
+            y_max) + "</span> " + ", meaning " + str(utils.round_KFM(float(value_y_max) * 100, 1)) + da2_2 + "."
         fact_values = [str(value_y_max)]
         fact_units = [unit_1]
         fact_years = [str(y_max)]

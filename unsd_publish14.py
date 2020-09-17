@@ -8,6 +8,8 @@ import os.path
 from os import path
 
 
+verify = []
+
 release = set_release.set_release()
 
 # Read fact-builder rules:
@@ -74,7 +76,6 @@ for this_country in countryArray:
           country_name, " - (", count_country, ")")
 
     count_fact = 0
-
     goals = []
 
     for g in sdg_meta:
@@ -195,6 +196,52 @@ for this_country in countryArray:
                                 values_numeric_part = data['data_numeric_part']
                                 values_is_censored = data['data_is_censored']
 
+                                # -----------------------------------------
+                                # Manually change scale of large-number variables:
+
+                                if s['code'] in ['VC_DSR_HOLN', 'IS_RDP_PORFVOL']:
+
+                                    values[:] = [
+                                        str(int(float(x)) / 1000000) for x in values]
+
+                                    values_numeric_part[:] = [
+                                        x / 1000000 for x in values_numeric_part]
+
+                                    # print(
+                                    #     f"Changed scale to millions: {values}")
+                                    # print(
+                                    #     f"Changed scale to millions: {values_numeric_part}")
+
+                                    if max(values_numeric_part) < 0.1:
+                                        verify.append({'series': s['code'],
+                                                       'country': country_code})
+
+                                if s['code'] in ['IS_RDP_FRGVOL', 'IS_RDP_PFVOL']:
+
+                                    values[:] = [
+                                        str(int(float(x)) / 1000000000) for x in values]
+
+                                    values_numeric_part[:] = [
+                                        x / 1000000000 for x in values_numeric_part]
+
+                                    # print(
+                                    #     f"Changed scale to billions: {values}")
+                                    # print(
+                                    #     f"Changed scale to billions: {max(values_numeric_part)}")
+
+                                    if max(values_numeric_part) < 0.1:
+                                        verify.append({'series': s['code'],
+                                                       'country': country_code})
+
+                                        # print(
+                                        #     "--------------verify!!!-------------")
+                                        # print(f"country: {s['code']}")
+                                        # print(f"series: {country_code}")
+                                        # print(
+                                        # "------------------------------------")
+
+                                # -----------------------------------------
+
                                 for i in range(len(values)):
 
                                     decimal_pos = values[i].find('.')
@@ -220,12 +267,12 @@ for this_country in countryArray:
                                 value_y_max = values[years.index(y_max)]
 
                                 # data value in the first year available
-                                value_y_min_num = \
-                                    values_numeric_part[years.index(y_min)]
+                                value_y_min_num = values_numeric_part[years.index(
+                                    y_min)]
 
                                 # data value in the most recent year available
-                                value_y_max_num = \
-                                    values_numeric_part[years.index(y_max)]
+                                value_y_max_num = values_numeric_part[years.index(
+                                    y_max)]
 
                                 value_y_min_is_censored = values_is_censored[years.index(
                                     min(years))]
@@ -336,7 +383,7 @@ for this_country in countryArray:
                                 elif utils.is_quasiConstant(values_numeric_part, 0.0001):
                                     # display(values_numeric_part)
                                     fact['preferred_visualization'] = 'singleton'
-                                    #display("Quasi constant! - series: " + seriesCode)
+                                    # display("Quasi constant! - series: " + seriesCode)
                                 elif(len(values) > 2):
                                     fact['preferred_visualization'] = 'time_series'
                                 else:
@@ -357,7 +404,7 @@ for this_country in countryArray:
             # display(target)
 
             if len(target['indicators']) > 0:
-                #print('*** apending indicators **')
+                # print('*** apending indicators **')
                 # display(indicators)
                 targets.append(target)
 
@@ -365,7 +412,7 @@ for this_country in countryArray:
         # display(goal)
 
         if len(targets) > 0:
-            #print('** apending targets ******')
+            # print('** apending targets ******')
             # display(targets)
             goals.append(goal)
             # display(goals)
@@ -375,3 +422,6 @@ for this_country in countryArray:
 
     with open('data/interim/' + release + '/country_profiles/country_profile'+str(country_code).zfill(3) + ".json", 'w') as outfile:
         json.dump(country_profile, outfile, indent=4)
+
+with open('data/interim/' + release + '/country_profiles/verify_units.json', 'w') as outfile:
+    json.dump(verify, outfile, indent=4)
