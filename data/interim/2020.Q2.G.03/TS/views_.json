@@ -1,21 +1,13 @@
 [
     {
         "series": "AG_FLS_IDX",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_FPA_CFPI",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_FPA_COMM",
@@ -46,93 +38,53 @@
     },
     {
         "series": "AG_LND_DGRD",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRSTBIOPHA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRSTCERT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRSTCHG",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRSTMGT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRSTN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRSTPRCT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_FRST",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_LND_TOTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_PRD_AGVAS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_PRD_FIESMSIN",
@@ -224,300 +176,168 @@
     },
     {
         "series": "AG_PRD_ORTIND",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_PRD_XSUBDY",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "AG_XPD_AGSGB",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "BX_TRF_PWKR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_FTA_TOTAL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_BDVDL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_BDVL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_LDCG",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_LDCS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_LLDCG",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_LLDC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_SIDSG",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_SIDS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_TOTGGE",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_TOTG",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_TOTLGE",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_ODA_TOTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_AGRL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_HLTHL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_HLTHNT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_INFRAL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_SCHIPSL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_TRDCMDL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_TRDCML",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_TRDDBMDL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_TRDDBML",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TOF_WASHL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TRF_TFDV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TRF_TOTDL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DC_TRF_TOTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "DT_TDS_DECT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_EGY_CLEAN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_EGY_PRIM",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_ELC_ACCS",
@@ -540,75 +360,43 @@
     },
     {
         "series": "EG_FEC_RNEW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_IFF_RANDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_TBA_H2COAQ",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_TBA_H2CORL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EG_TBA_H2CO",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_ATM_CO2GDP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_ATM_CO2MVA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_ATM_CO2",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_ATM_PM25",
@@ -627,111 +415,63 @@
     },
     {
         "series": "EN_EWT_GENPCAP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_EWT_GENV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_EWT_RCYPCAP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_EWT_RCYR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_EWT_RCYV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_H2O_GRAMBQ",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_H2O_OPAMBQ",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_H2O_RVAMBQ",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_H2O_WBAMBQ",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_HAZ_GENGDP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_HAZ_GENV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_HAZ_PCAP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_HAZ_TREATV",
@@ -754,30 +494,18 @@
     },
     {
         "series": "EN_HAZ_TRTDISR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_HAZ_TRTDISV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_LND_SLUM",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_MAT_DOMCMPC",
@@ -1018,198 +746,108 @@
     },
     {
         "series": "EN_MAT_FTPRPC",
-        "filters": [
-            {
-                "typeOfProduct_code": "_T"
-            }
-        ],
-        "labels": [
-            "Total or no breakdown"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_MAT_FTPRPG",
-        "filters": [
-            {
-                "typeOfProduct_code": "_T"
-            }
-        ],
-        "labels": [
-            "Total or no breakdown"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_MAT_FTPRTN",
-        "filters": [
-            {
-                "typeOfProduct_code": "_T"
-            }
-        ],
-        "labels": [
-            "Total or no breakdown"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_REF_WASCOL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDETOT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDOPW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQLGRW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQLOPW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQLRVR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQLTOT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQTGRW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQTOPW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQTRVR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDQTTOT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDRV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_NDWTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_PMNR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_PMPN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_PMPP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WBE_PMPR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "EN_WWT_WWDS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_BDY_ABT2NP",
@@ -1244,120 +882,68 @@
     },
     {
         "series": "ER_BDY_SEEA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_CBD_ABSCLRHS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_CBD_NAGOYA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_CBD_ORSPGRFA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_CBD_PTYPGRFA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_CBD_SMTA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_FFS_PRTSPC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_FFS_PRTSPR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_FFS_PRTSST",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_GRF_ANIMRCNTN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_GRF_PLNTSTOR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_FWTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_IWRMD",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_IWRMP",
@@ -1392,265 +978,143 @@
     },
     {
         "series": "ER_H2O_PARTIC",
-        "filters": [
-            {
-                "location_code": "R"
-            }
-        ],
-        "labels": [
-            "Rural"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_PRDU",
-        "filters": [
-            {
-                "location_code": "R"
-            }
-        ],
-        "labels": [
-            "Rural"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_PROCED",
-        "filters": [
-            {
-                "location_code": "R"
-            }
-        ],
-        "labels": [
-            "Rural"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_RURP",
-        "filters": [
-            {
-                "location_code": "R"
-            }
-        ],
-        "labels": [
-            "Rural"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_STRESS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_H2O_WUEYST",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_IAS_LEGIS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_IAS_NBSAP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_MRN_MARINT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_MRN_MARIN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_MRN_MPA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_MTN_GRNCOV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_MTN_GRNCVI",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_MTN_TOTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_OAW_MNACD",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_PTD_FRWRT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_PTD_MOTN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_PTD_TERRS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_RDE_OSEX",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_REG_SSFRAR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_REG_UNFCIM",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_RSK_LBREDS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_RSK_LSTI",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_WAT_PARTIC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_WAT_PART",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_WAT_PRDU",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ER_WAT_PROCED",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FB_ATM_TOTL",
-        "filters": [
-            {
-                "age_code": "Y_GE15"
-            }
-        ],
-        "labels": [
-            "15 years old and over"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FB_BNK_ACCSS",
@@ -1676,180 +1140,98 @@
     },
     {
         "series": "FB_CBK_BRCH",
-        "filters": [
-            {
-                "age_code": "Y_GE15"
-            }
-        ],
-        "labels": [
-            "15 years old and over"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FC_ACC_SSID",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSANL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSERA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSKA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSKNL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSKRTC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSLS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "FI_FSI_FSSNO",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GB_POP_SCIERD",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GB_XPD_RSDV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GC_GOB_TAXD",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GF_FRN_FDI",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GF_XPD_GBPC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GR_G14_GDP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "GR_G14_XDC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IC_FRM_BRIB",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IC_GEN_MGTL",
-        "filters": [
-            {
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IC_GEN_MGTN",
-        "filters": [
-            {
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IS_RDP_FRGVOL",
@@ -1876,14 +1258,8 @@
     },
     {
         "series": "IS_RDP_LULFRG",
-        "filters": [
-            {
-                "modeOfTransportation_code": "MOT_SEA"
-            }
-        ],
-        "labels": [
-            "Maritime"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IS_RDP_PFVOL",
@@ -1906,41 +1282,23 @@
     },
     {
         "series": "IS_RDP_PORFVOL",
-        "filters": [
-            {
-                "modeOfTransportation_code": "MOT_SEA"
-            }
-        ],
-        "labels": [
-            "Maritime"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IT_MOB_2GNTWK",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IT_MOB_3GNTWK",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IT_MOB_4GNTWK",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IT_MOB_OWN",
@@ -2009,12 +1367,8 @@
     },
     {
         "series": "IT_USE_ii99",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "IU_COR_BRIB",
@@ -2037,83 +1391,43 @@
     },
     {
         "series": "NV_IND_MANFPC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "NV_IND_MANF",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "NV_IND_SSIS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "NV_IND_TECH",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "NY_GDP_PCAP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "PD_AGR_SSFP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SD_MDP_ANDI",
-        "filters": [
-            {
-                "age_code": "_T",
-                "location_code": "_T",
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "All age ranges or no breaks by age; All areas; Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SD_MDP_CSMP",
-        "filters": [
-            {
-                "age_code": "Y0T17",
-                "location_code": "_T",
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "under 18 years old; All areas; Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SD_MDP_MUHC",
@@ -2166,23 +1480,13 @@
     },
     {
         "series": "SD_MDP_MUHHC",
-        "filters": [
-            {
-                "location_code": "_T"
-            }
-        ],
-        "labels": [
-            "All areas"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SD_XPD_ESED",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SE_ACC_COMP",
@@ -3420,12 +2724,8 @@
     },
     {
         "series": "SE_GPI_PART",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SE_GPI_TRATEA",
@@ -3564,12 +2864,8 @@
     },
     {
         "series": "SE_PRE_GPIPARTN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SE_PRE_PARTN",
@@ -5577,21 +4873,13 @@
     },
     {
         "series": "SG_DMK_PARLMP_LC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_DMK_PARLMP_UC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_DMK_PARLSP_LC",
@@ -5699,155 +4987,83 @@
     },
     {
         "series": "SG_DSR_LGRGSR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_DSR_SFDRR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_DSR_SILN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_DSR_SILS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_GEN_EQPWN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_GEN_LOCGELS",
-        "filters": [
-            {
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_GEN_PARLNT",
-        "filters": [
-            {
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_GEN_PARLN",
-        "filters": [
-            {
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_GEN_PARL",
-        "filters": [
-            {
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_GOV_LOGV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_HAZ_CMRBASEL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_HAZ_CMRMNMT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_HAZ_CMRMNTRL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_HAZ_CMRROTDAM",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_HAZ_CMRSTHOLM",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_INF_ACCSS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_INT_MBRDEV",
@@ -5953,201 +5169,113 @@
     },
     {
         "series": "SG_LGL_GENEQEMP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_LGL_GENEQLFP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_LGL_GENEQMAR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_LGL_GENEQVAW",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_LGL_LNDFEMOD",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_NHR_IMPLN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_NHR_IMPL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_NHR_INTEXSTN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_NHR_INTEXST",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_NHR_NOAPPLN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_NHR_NOSTUSN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_MSTKSDG",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_PRPOLRES",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_PRVNDI",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_PRVRICTRY",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_PRVRIMON",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_RECNDI",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_RECRICTRY",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_RECRIMON",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_PLN_REPOLRES",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_REG_BRTH90N",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_REG_BRTH90",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_REG_BRTH",
@@ -6178,66 +5306,38 @@
     },
     {
         "series": "SG_REG_CENSUSN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_REG_CENSUS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_REG_DETH75N",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_REG_DETH75",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_SCP_CNTRY",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_SCP_CORMEC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_SCP_OTHER",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_SCP_POLINS",
@@ -6268,138 +5368,78 @@
     },
     {
         "series": "SG_SCP_TOTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_CAPTY",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_FPOS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_NSDSFDDNR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_NSDSFDGVT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_NSDSFDOTHR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_NSDSFND",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SG_STT_NSDSIMPL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_AAP_ASMORT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_AAP_MORT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_ACS_DTP3",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_ACS_HPV",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_ACS_MCV2",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_ACS_PCV3",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_ACS_UNHC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_ALC_CONSPT",
@@ -6602,87 +5642,38 @@
     },
     {
         "series": "SH_DYN_NMRTN",
-        "filters": [
-            {
-                "age_code": "M0",
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "under 1 month old; Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_DYN_NMRT",
-        "filters": [
-            {
-                "age_code": "M0",
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "under 1 month old; Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_FPL_INFMCU",
-        "filters": [
-            {
-                "age_code": "Y15T49",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "15 to 49 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_FPL_INFMRH",
-        "filters": [
-            {
-                "age_code": "Y15T49",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "15 to 49 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_FPL_INFMSR",
-        "filters": [
-            {
-                "age_code": "Y15T49",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "15 to 49 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_FPL_INFM",
-        "filters": [
-            {
-                "age_code": "Y15T49",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "15 to 49 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_FPL_MTMM",
-        "filters": [
-            {
-                "age_code": "Y15T49",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "15 to 49 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_H2O_SAFE",
@@ -6705,32 +5696,18 @@
     },
     {
         "series": "SH_HAP_ASMORT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_HAP_HBSAG",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_HAP_MORT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_HIV_INCD",
@@ -6917,165 +5894,93 @@
     },
     {
         "series": "SH_LGR_ACSRHEC10",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC11",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC12",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC13",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC1",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC2",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC3",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC4",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC5",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC6",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC7",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC8",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHEC9",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHES1",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHES2",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHES3",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHES4",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_LGR_ACSRHE",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_MED_HEAWOR",
@@ -7208,30 +6113,18 @@
     },
     {
         "series": "SH_STA_AIRP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_ASAIRP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_BRTC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_FGMS",
@@ -7252,43 +6145,23 @@
     },
     {
         "series": "SH_STA_MALR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_MMR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_OVRWGTN",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_OVRWGT",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_POISN",
@@ -7349,65 +6222,33 @@
     },
     {
         "series": "SH_STA_STUNTN",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_STUNT",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_TRAF",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_WASH",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_WASTEN",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_STA_WASTE",
-        "filters": [
-            {
-                "age_code": "Y0T4"
-            }
-        ],
-        "labels": [
-            "under 5 years old"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_SUD_ALCOL",
@@ -7456,48 +6297,28 @@
     },
     {
         "series": "SH_TBS_INCID",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_TRP_INTVN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_XPD_EARN10",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SH_XPD_EARN25",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SI_AGR_SSFP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SI_COV_BENFTS",
@@ -7573,14 +6394,8 @@
     },
     {
         "series": "SI_COV_MATNL",
-        "filters": [
-            {
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SI_COV_PENSN",
@@ -7603,14 +6418,8 @@
     },
     {
         "series": "SI_COV_POOR",
-        "filters": [
-            {
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SI_COV_SOCAST",
@@ -7716,23 +6525,13 @@
     },
     {
         "series": "SI_POV_50MI",
-        "filters": [
-            {
-                "quantile_code": "B50"
-            }
-        ],
-        "labels": [
-            "Bottom 50%"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SI_POV_DAY1",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SI_POV_EMP1",
@@ -7807,21 +6606,13 @@
     },
     {
         "series": "SI_RMT_COST",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SL_CPA_YEMP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SL_DOM_TSPDCW",
@@ -10047,12 +8838,8 @@
     },
     {
         "series": "SL_EMP_GTOTL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SL_EMP_INJUR",
@@ -10138,12 +8925,8 @@
     },
     {
         "series": "SL_EMP_PCAP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SL_ISV_IFEM",
@@ -10199,12 +8982,8 @@
     },
     {
         "series": "SL_LBR_NTLCPL",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SL_TLF_CHLDEA",
@@ -10372,12 +9151,8 @@
     },
     {
         "series": "SL_TLF_MANF",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SL_TLF_NEET",
@@ -10562,21 +9337,13 @@
     },
     {
         "series": "SN_ITK_DEFCN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SN_ITK_DEFC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SP_ACS_BSRVH2O",
@@ -10618,48 +9385,23 @@
     },
     {
         "series": "SP_DYN_ADKL",
-        "filters": [
-            {
-                "age_code": "Y15T19",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "15 to 19 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SP_DYN_MRBF15",
-        "filters": [
-            {
-                "age_code": "Y20T24",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "20 to 24 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SP_DYN_MRBF18",
-        "filters": [
-            {
-                "age_code": "Y20T24",
-                "sex_code": "F"
-            }
-        ],
-        "labels": [
-            "20 to 24 years old; Female"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SP_GNP_WNOWNS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "SP_LGL_LNDAGSEC",
@@ -10682,39 +9424,23 @@
     },
     {
         "series": "ST_EEV_ACCSEEA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ST_EEV_ACCTSA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ST_EEV_STDACCT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "ST_GDP_ZS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "TM_TAX_DMFN",
@@ -10893,264 +9619,148 @@
     },
     {
         "series": "TX_EXP_GBMRCH",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "TX_EXP_GBSVR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "TX_IMP_GBMRCH",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "TX_IMP_GBSVR",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_AFFCT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_AGLN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_BSDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_CDAN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_CDYN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_CHLN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_CILN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_DAFF",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_DDPA",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_EFDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_ESDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_GDPLS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_HFDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_HOLN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_HSDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_IJILN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_LSGP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_MISS",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_MORT",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_MTMN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_MTMP",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_OBDN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_PDAN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_PDLN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DSR_PDYN",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_DTH_TOCVN",
@@ -11306,16 +9916,8 @@
     },
     {
         "series": "VC_DTH_TOCV",
-        "filters": [
-            {
-                "age_code": "_T",
-                "sex_code": "_T",
-                "causeOfDeath_code": "_T"
-            }
-        ],
-        "labels": [
-            "All age ranges or no breaks by age; Both sexes; No breakdown"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_HTF_DETVFL",
@@ -11472,15 +10074,8 @@
     },
     {
         "series": "VC_HTF_DETV",
-        "filters": [
-            {
-                "age_code": "_T",
-                "sex_code": "_T"
-            }
-        ],
-        "labels": [
-            "All age ranges or no breaks by age; Both sexes"
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_IHR_PSRCN",
@@ -11571,12 +10166,8 @@
     },
     {
         "series": "VC_PRS_UNSEC",
-        "filters": [
-            {}
-        ],
-        "labels": [
-            ""
-        ]
+        "filters": null,
+        "labels": null
     },
     {
         "series": "VC_SNS_WALN",

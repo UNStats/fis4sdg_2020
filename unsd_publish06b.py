@@ -38,7 +38,7 @@ for s in series_list:
 
     ts_keys = utils.unique_dicts(utils.subdict_list( x, ['series'] + dim_other))
 
-    if len(ts_keys)>0:
+    if len(ts_keys)>1:
 
         filter_dict = dict()   
 
