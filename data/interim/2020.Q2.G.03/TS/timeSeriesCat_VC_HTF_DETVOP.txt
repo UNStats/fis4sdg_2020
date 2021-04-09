@@ -1,0 +1,8 @@
+series	age_code	age_desc	sex_code	sex_desc
+VC_HTF_DETVOP	_T	All age ranges or no breaks by age	_T	Both sexes
+VC_HTF_DETVOP	_T	All age ranges or no breaks by age	F	Female
+VC_HTF_DETVOP	_T	All age ranges or no breaks by age	M	Male
+VC_HTF_DETVOP	Y0T17	under 18 years old	M	Male
+VC_HTF_DETVOP	Y_GE18	18 years old and over	M	Male
+VC_HTF_DETVOP	Y0T17	under 18 years old	F	Female
+VC_HTF_DETVOP	Y_GE18	18 years old and over	F	Female

@@ -1,0 +1,10 @@
+series	sex_code	sex_desc	disabilityStatus_code	disabilityStatus_desc
+SL_TLF_UEMDIS	_T	Both sexes	_T	No breakdown by disability
+SL_TLF_UEMDIS	_T	Both sexes	PWD	Persons without disability
+SL_TLF_UEMDIS	M	Male	_T	No breakdown by disability
+SL_TLF_UEMDIS	_T	Both sexes	PD	Persons with disability
+SL_TLF_UEMDIS	M	Male	PWD	Persons without disability
+SL_TLF_UEMDIS	F	Female	_T	No breakdown by disability
+SL_TLF_UEMDIS	F	Female	PWD	Persons without disability
+SL_TLF_UEMDIS	M	Male	PD	Persons with disability
+SL_TLF_UEMDIS	F	Female	PD	Persons with disability

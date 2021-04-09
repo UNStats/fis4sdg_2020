@@ -1,0 +1,5 @@
+series	typeOfSpeed_code	typeOfSpeed_desc
+IT_NET_BBP	_T	Any speed
+IT_NET_BBP	IS_GE10M	10 mbps and over
+IT_NET_BBP	IS_2MT10M	Between 2 mbps and 10 mbps
+IT_NET_BBP	IS_256KT2M	Between 256 kbps and 2 mbps

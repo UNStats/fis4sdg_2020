@@ -1,0 +1,7 @@
+series	levelStatus_code	levelStatus_desc
+ER_BDY_ABT2NP	ABT2_NONTLT	No national target reflecting ABT 2
+ER_BDY_ABT2NP	ABT2_NOPROG	National target reflecting ABT2  exists, but no progress
+ER_BDY_ABT2NP	ABT2_DIGRESS	National target reflecting ABT2 exists, but moving away from it
+ER_BDY_ABT2NP	ABT2_INSUFNT	National target reflecting ABT2  exists and progress is there, but at as insufficient rate
+ER_BDY_ABT2NP	ABT2_EXCEED	National target reflecting ABT2  exists and progress is on track to exceed it
+ER_BDY_ABT2NP	ABT2_ACHIEVE	National target reflecting ABT2 exists and progress is on track to achieve it

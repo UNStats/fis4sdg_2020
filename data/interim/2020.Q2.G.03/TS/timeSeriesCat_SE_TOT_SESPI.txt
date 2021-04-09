@@ -1,0 +1,9 @@
+series	educationLevel_code	educationLevel_desc	typeOfSkill_code	typeOfSkill_desc
+SE_TOT_SESPI	ISCED11_2	Lower secondary	SKILL_READ	Skill: Minimum proficiency in reading
+SE_TOT_SESPI	ISCED11_2	Lower secondary	SKILL_MATH	Skill: Minimum proficiency in mathematics
+SE_TOT_SESPI	ISCED11_1	Primary	SKILL_READ	Skill: Minimum proficiency in reading
+SE_TOT_SESPI	ISCED11_1	Primary	SKILL_MATH	Skill: Minimum proficiency in mathematics
+SE_TOT_SESPI	ISCED11A_0_G23	Grades 2/3	SKILL_READ	Skill: Minimum proficiency in reading
+SE_TOT_SESPI	ISCED11A_0_G23	Grades 2/3	SKILL_MATH	Skill: Minimum proficiency in mathematics
+SE_TOT_SESPI	_T	Total or not breakdown	SKILL_LTRCY	Literacy
+SE_TOT_SESPI	_T	Total or not breakdown	SKILL_NMRCY	Numeracy

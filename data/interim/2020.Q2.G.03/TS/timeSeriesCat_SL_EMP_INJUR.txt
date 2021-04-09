@@ -1,0 +1,16 @@
+series	sex_code	sex_desc	migratoryStatus_code	migratoryStatus_desc
+SL_EMP_INJUR	_T	Both sexes	_T	No breakdown
+SL_EMP_INJUR	M	Male	_T	No breakdown
+SL_EMP_INJUR	F	Female	_T	No breakdown
+SL_EMP_INJUR	F	Female	MS_NOMIGRANT	Non-migrant
+SL_EMP_INJUR	_T	Both sexes	MS_EUMIGRANT	EU Migrants
+SL_EMP_INJUR	F	Female	MS_EUMIGRANT	EU Migrants
+SL_EMP_INJUR	M	Male	MS_EUMIGRANT	EU Migrants
+SL_EMP_INJUR	F	Female	MS_NONEUMIGRANT	Non-EU Migrants
+SL_EMP_INJUR	M	Male	MS_NONEUMIGRANT	Non-EU Migrants
+SL_EMP_INJUR	_T	Both sexes	MS_NONEUMIGRANT	Non-EU Migrants
+SL_EMP_INJUR	M	Male	MS_NOMIGRANT	Non-migrant
+SL_EMP_INJUR	_T	Both sexes	MS_NOMIGRANT	Non-migrant
+SL_EMP_INJUR	F	Female	MS_MIGRANT	Migrants
+SL_EMP_INJUR	M	Male	MS_MIGRANT	Migrants
+SL_EMP_INJUR	_T	Both sexes	MS_MIGRANT	Migrants

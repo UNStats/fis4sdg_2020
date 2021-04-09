@@ -1,0 +1,14 @@
+series	age_code	age_desc	sex_code	sex_desc
+SH_HIV_INCD	Y15T24	15 to 24 years old	M	Male
+SH_HIV_INCD	Y15T49	15 to 49 years old	F	Female
+SH_HIV_INCD	Y15T49	15 to 49 years old	_T	Both sexes
+SH_HIV_INCD	Y15T24	15 to 24 years old	_T	Both sexes
+SH_HIV_INCD	Y15T24	15 to 24 years old	F	Female
+SH_HIV_INCD	_T	All age ranges or no breaks by age	_T	Both sexes
+SH_HIV_INCD	Y_GE50	50 years old and over	M	Male
+SH_HIV_INCD	Y_GE50	50 years old and over	F	Female
+SH_HIV_INCD	Y15T49	15 to 49 years old	M	Male
+SH_HIV_INCD	Y_GE50	50 years old and over	_T	Both sexes
+SH_HIV_INCD	_T	All age ranges or no breaks by age	M	Male
+SH_HIV_INCD	_T	All age ranges or no breaks by age	F	Female
+SH_HIV_INCD	Y0T14	under 15 years old	_T	Both sexes
