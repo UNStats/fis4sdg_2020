@@ -26,8 +26,10 @@ def read_tags(tags_file, tags_seriesCodeCol, tags_tagsListCol):
     for i in utils.tsv2dictlist(tags_file):
         tags_dict = dict()
         tags_dict['seriesCode'] = i[tags_seriesCodeCol]
-        tags_dict['tags'] = re.sub(
-            '[\[\]\']', '', i[tags_tagsListCol]).split(', ')
+        # tags_dict['tags'] = re.sub(
+        #     '[\[\]\']', '', i[tags_tagsListCol]).split(', ')
+
+        tags_dict['tags'] = i[tags_tagsListCol][2:-2].split('\', \'')
         tags_list.append(tags_dict)
     return tags_list
 

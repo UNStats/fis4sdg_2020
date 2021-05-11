@@ -61,7 +61,6 @@
                                 "description": "Proportion of population below international poverty line (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "poverty line",
                                     "poverty",
                                     "standard of living",
                                     "basic needs"
@@ -72,7 +71,6 @@
                                 "description": "Employed population below international poverty line, by sex and age (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "poverty line",
                                     "poverty",
                                     "standard of living",
                                     "basic needs",
@@ -115,7 +113,6 @@
                                 "description": "Proportion of population living below the national poverty line (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "poverty line",
                                     "poverty",
                                     "standard of living",
                                     "basic needs"
@@ -142,7 +139,6 @@
                                 "description": "Proportion of population living in multidimensional poverty (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "multidimensional poverty",
                                     "poverty",
                                     "standard of living",
                                     "basic needs"
@@ -153,7 +149,6 @@
                                 "description": "Average proportion of deprivations for people multidimensionally poor (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "multidimensional poverty",
                                     "poverty",
                                     "standard of living",
                                     "basic needs"
@@ -164,7 +159,6 @@
                                 "description": "Proportion of households living in multidimensional poverty (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "multidimensional poverty",
                                     "poverty",
                                     "standard of living",
                                     "basic needs"
@@ -175,7 +169,6 @@
                                 "description": "Proportion of children living in child-specific multidimensional poverty (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "multidimensional poverty",
                                     "poverty",
                                     "standard of living",
                                     "basic needs",
@@ -435,19 +428,28 @@
                                 "code": "SP_LGL_LNDDOC",
                                 "description": "Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "right to security of tenure",
+                                    "land tenure"
+                                ]
                             },
                             {
                                 "code": "SP_LGL_LNDSEC",
                                 "description": "Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "right to security of tenure",
+                                    "land tenure"
+                                ]
                             },
                             {
                                 "code": "SP_LGL_LNDSTR",
                                 "description": "Proportion of people with secure tenure rights to land out of total adult population, by sex (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "right to security of tenure",
+                                    "land tenure"
+                                ]
                             }
                         ]
                     }
@@ -486,9 +488,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "disappearance of persons"
                                 ]
                             },
                             {
@@ -498,7 +499,7 @@
                                 "tags": [
                                     "disaster loss",
                                     "disaster prevention",
-                                    "preparedness and relief",
+                                    "disaster preparedness",
                                     "disaster victims"
                                 ]
                             },
@@ -508,9 +509,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "death"
                                 ]
                             },
                             {
@@ -519,16 +519,21 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "death",
+                                    "disappearance of persons"
                                 ]
                             },
                             {
                                 "code": "VC_DSR_MMHN",
                                 "description": "Number of deaths and missing persons attributed to disasters (number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "disaster victims",
+                                    "death",
+                                    "disappearance of persons"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_DAFF",
@@ -536,8 +541,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "disaster victims"
                                 ]
                             },
@@ -547,9 +550,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "health"
                                 ]
                             },
                             {
@@ -558,9 +560,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "housing"
                                 ]
                             },
                             {
@@ -569,9 +570,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "housing"
                                 ]
                             },
                             {
@@ -580,9 +580,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "standard of living",
+                                    "family income"
                                 ]
                             }
                         ]
@@ -608,7 +608,8 @@
                                 "tags": [
                                     "disaster loss",
                                     "disaster prevention",
-                                    "preparedness and relief"
+                                    "disaster preparedness",
+                                    "economic growth"
                                 ]
                             },
                             {
@@ -617,21 +618,28 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth"
                                 ]
                             },
                             {
                                 "code": "VC_DSR_AGLH",
                                 "description": "Direct agriculture loss attributed to disasters (current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "economic growth",
+                                    "agriculture"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_HOLH",
                                 "description": "Direct economic loss in the housing sector attributed to disasters (current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "economic growth",
+                                    "housing"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_CILN",
@@ -639,8 +647,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth",
+                                    "physical infrastructure"
                                 ]
                             },
                             {
@@ -649,8 +657,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth",
+                                    "cultural heritage"
                                 ]
                             },
                             {
@@ -659,8 +667,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth",
+                                    "physical infrastructure"
                                 ]
                             }
                         ]
@@ -686,8 +694,7 @@
                                 "tags": [
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -697,7 +704,7 @@
                                 "tags": [
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief"
+                                    "disaster preparedness"
                                 ]
                             }
                         ]
@@ -721,11 +728,10 @@
                                 "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -733,11 +739,10 @@
                                 "description": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -745,7 +750,7 @@
                                 "description": "Number of local governments (number)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments"
+                                    "local government"
                                 ]
                             }
                         ]
@@ -783,19 +788,28 @@
                                 "code": "DC_ODA_POVLG",
                                 "description": "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "poverty",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "DC_ODA_POVDLG",
                                 "description": "Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "poverty",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "DC_ODA_POVG",
                                 "description": "Official development assistance grants for poverty reduction (percentage of GNI)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "poverty",
+                                    "means of implementation"
+                                ]
                             }
                         ]
                     },
@@ -818,7 +832,7 @@
                                 "description": "Proportion of total government spending on essential services, education (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation"
                                 ]
                             }
@@ -957,25 +971,37 @@
                                 "code": "AG_PRD_FIESMS",
                                 "description": "Prevalence of moderate or severe food insecurity in the adult population (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "food security",
+                                    "food shortage"
+                                ]
                             },
                             {
                                 "code": "AG_PRD_FIESMSN",
                                 "description": "Total population in moderate or severe food insecurity (thousands of people)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "food security",
+                                    "food shortage"
+                                ]
                             },
                             {
                                 "code": "AG_PRD_FIESS",
                                 "description": "Prevalence of severe food insecurity in the adult population (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "food security",
+                                    "food shortage"
+                                ]
                             },
                             {
                                 "code": "AG_PRD_FIESSN",
                                 "description": "Total population in severe food insecurity (thousands of people)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "food security",
+                                    "food shortage"
+                                ]
                             }
                         ]
                     }
@@ -1012,13 +1038,27 @@
                                 "code": "SH_STA_STNT",
                                 "description": "Proportion of children moderately or severely stunted (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "hunger",
+                                    "malnutrition",
+                                    "food shortage",
+                                    "child health",
+                                    "children",
+                                    "child nutrition"
+                                ]
                             },
                             {
                                 "code": "SH_STA_STNTN",
                                 "description": "Children moderately or severely stunted (thousands)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "hunger",
+                                    "malnutrition",
+                                    "food shortage",
+                                    "child health",
+                                    "children",
+                                    "child nutrition"
+                                ]
                             }
                         ]
                     },
@@ -1040,25 +1080,49 @@
                                 "code": "SH_STA_WAST",
                                 "description": "Proportion of children moderately or severely wasted (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "hunger",
+                                    "malnutrition",
+                                    "food shortage",
+                                    "child health",
+                                    "children",
+                                    "child nutrition"
+                                ]
                             },
                             {
                                 "code": "SH_STA_WASTN",
                                 "description": "Children moderately or severely wasted (thousands)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "hunger",
+                                    "malnutrition",
+                                    "food shortage",
+                                    "child health",
+                                    "children",
+                                    "child nutrition"
+                                ]
                             },
                             {
                                 "code": "SN_STA_OVWGT",
                                 "description": "Proportion of children moderately or severely overweight (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "malnutrition",
+                                    "child health",
+                                    "children",
+                                    "child nutrition"
+                                ]
                             },
                             {
                                 "code": "SN_STA_OVWGTN",
                                 "description": "Children moderately or severely overweight (thousands)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "malnutrition",
+                                    "child health",
+                                    "children",
+                                    "child nutrition"
+                                ]
                             }
                         ]
                     },
@@ -1080,19 +1144,32 @@
                                 "code": "SH_STA_ANEM",
                                 "description": "Proportion of women aged 15-49 years with anaemia (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "anaemia",
+                                    "women\u2019s health",
+                                    "health"
+                                ]
                             },
                             {
                                 "code": "SH_STA_ANEM_PREG",
                                 "description": "Proportion of women aged 15-49 years with anaemia, pregnant (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "anaemia",
+                                    "women\u2019s health",
+                                    "health",
+                                    "pregnancy"
+                                ]
                             },
                             {
                                 "code": "SH_STA_ANEM_NPRG",
                                 "description": "Proportion of women aged 15-49 years with anaemia, non-pregnant (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "anaemia",
+                                    "women\u2019s health",
+                                    "health"
+                                ]
                             }
                         ]
                     }
@@ -1130,7 +1207,7 @@
                                 "description": "Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "agricultural productifity",
+                                    "agricultural productivity",
                                     "small farms",
                                     "food production"
                                 ]
@@ -1139,7 +1216,10 @@
                                 "code": "PD_AGR_LSFP",
                                 "description": "Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "agricultural productivity",
+                                    "food production"
+                                ]
                             }
                         ]
                     },
@@ -1171,7 +1251,10 @@
                                 "code": "SI_AGR_LSFP",
                                 "description": "Average income of large-scale food producers, PPP (constant 2011 international $)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "farm income",
+                                    "food production"
+                                ]
                             }
                         ]
                     }
@@ -1466,7 +1549,11 @@
                                 "code": "AG_FPA_HMFP",
                                 "description": "Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "sustainable agriculture",
+                                    "food prices"
+                                ]
                             }
                         ]
                     }
@@ -1535,7 +1622,13 @@
                                 "code": "SH_STA_MORT",
                                 "description": "Maternal mortality ratio",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "maternal mortality",
+                                    "women\u2019s health",
+                                    "women",
+                                    "health",
+                                    "childbirth"
+                                ]
                             }
                         ]
                     },
@@ -1730,7 +1823,7 @@
                                 "description": "Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "hiv",
+                                    "hiv/aids",
                                     "health",
                                     "diseases",
                                     "communicable diseases"
@@ -1756,7 +1849,12 @@
                                 "code": "SH_TBS_INCD",
                                 "description": "Tuberculosis incidence (per 100,000 population)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "health",
+                                    "diseases",
+                                    "communicable diseases",
+                                    "tuberculosis"
+                                ]
                             }
                         ]
                     },
@@ -1808,7 +1906,8 @@
                                 "tags": [
                                     "health",
                                     "diseases",
-                                    "communicable diseases"
+                                    "communicable diseases",
+                                    "hepatitis"
                                 ]
                             }
                         ]
@@ -1889,7 +1988,13 @@
                                 "code": "SH_DTH_NCD",
                                 "description": "Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "health",
+                                    "diseases",
+                                    "communicable diseases",
+                                    "death",
+                                    "mortality"
+                                ]
                             }
                         ]
                     },
@@ -2094,7 +2199,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "womens health",
+                                    "women\u2019s health",
                                     "advancement of women",
                                     "gender equality",
                                     "women"
@@ -2125,7 +2230,7 @@
                                     "reproductive health",
                                     "sex education",
                                     "youth health",
-                                    "womens health",
+                                    "women\u2019s health",
                                     "gender equality",
                                     "women",
                                     "youth",
@@ -2539,7 +2644,12 @@
                                 "code": "SH_HLF_EMED",
                                 "description": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "health",
+                                    "health-care delivery",
+                                    "pharmaceuticals"
+                                ]
                             }
                         ]
                     }
@@ -2576,7 +2686,12 @@
                                 "code": "SH_MED_DEN",
                                 "description": "Health worker density, by type of occupation (per 10,000 population)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "health",
+                                    "health personnel",
+                                    "human resources"
+                                ]
                             },
                             {
                                 "code": "SH_MED_HWRKDIS",
@@ -2586,7 +2701,6 @@
                                     "means of implementation",
                                     "health",
                                     "health personnel",
-                                    "physicians",
                                     "human resources"
                                 ]
                             }
@@ -2651,13 +2765,19 @@
                                 "code": "SH_BLD_MRSA",
                                 "description": "Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "antimicrobial resistance",
+                                    "health"
+                                ]
                             },
                             {
                                 "code": "SH_BLD_ECOLI",
                                 "description": "Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "antimicrobial resistance",
+                                    "health"
+                                ]
                             }
                         ]
                     }
@@ -2727,8 +2847,8 @@
                                 "description": "Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "reading and literacy skills",
-                                    "mathematics and numeracy skills",
+                                    "literacy",
+                                    "numeracy",
                                     "education",
                                     "children",
                                     "youth"
@@ -2796,8 +2916,8 @@
                                 "description": "Proportion of children aged 36\u221259 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "reading and literacy skills",
-                                    "mathematics and numeracy skills",
+                                    "literacy",
+                                    "numeracy",
                                     "education",
                                     "preschool education",
                                     "child development",
@@ -2945,20 +3065,33 @@
                                 "code": "SE_GPI_PTNPRE",
                                 "description": "Gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "education",
+                                    "advancement of women",
+                                    "gender equality",
+                                    "women",
+                                    "children",
+                                    "girls"
+                                ]
                             },
                             {
                                 "code": "SE_GPI_TCAQ",
                                 "description": "Gender parity index of trained teachers, by education level (ratio)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "education",
+                                    "advancement of women",
+                                    "gender equality",
+                                    "teachers",
+                                    "teaching personnel"
+                                ]
                             },
                             {
                                 "code": "SE_GPI_PART",
                                 "description": "Gender parity index for participation rate in formal and non-formal education and training (ratio)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "reading and literacy skills",
+                                    "literacy",
                                     "education",
                                     "advancement of women",
                                     "gender equality",
@@ -3166,37 +3299,72 @@
                                 "code": "SE_ACS_CMPTR",
                                 "description": "Schools with access to\u00a0computers for pedagogical purposes, by education level (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "education",
+                                    "educational facilities",
+                                    "computers",
+                                    "information technology"
+                                ]
                             },
                             {
                                 "code": "SE_ACS_H2O",
                                 "description": "Schools with access to basic drinking water, by education level (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "education",
+                                    "educational facilities",
+                                    "drinking water"
+                                ]
                             },
                             {
                                 "code": "SE_ACS_ELECT",
                                 "description": "Schools with access to\u00a0electricity, by education level (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "education",
+                                    "educational facilities",
+                                    "electricity"
+                                ]
                             },
                             {
                                 "code": "SE_ACC_HNDWSH",
                                 "description": "Schools with basic handwashing facilities, by education level (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "education",
+                                    "educational facilities",
+                                    "water supply",
+                                    "water"
+                                ]
                             },
                             {
                                 "code": "SE_ACS_INTNT",
                                 "description": "Schools with access to the internet for pedagogical purposes, by education level (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "education",
+                                    "educational facilities",
+                                    "internet",
+                                    "information technology"
+                                ]
                             },
                             {
                                 "code": "SE_ACS_SANIT",
                                 "description": "Schools with access to\u00a0access to single-sex basic sanitation, by education level (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "education",
+                                    "educational facilities",
+                                    "sanitation",
+                                    "sanitation services",
+                                    "hygiene"
+                                ]
                             },
                             {
                                 "code": "SE_INF_DSBL",
@@ -3765,7 +3933,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "womens health",
+                                    "women\u2019s health",
                                     "advancement of women",
                                     "gender equality",
                                     "women"
@@ -3779,7 +3947,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "womens health",
+                                    "women\u2019s health",
                                     "advancement of women",
                                     "gender equality",
                                     "women"
@@ -3793,7 +3961,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "womens health",
+                                    "women\u2019s health",
                                     "advancement of women",
                                     "gender equality",
                                     "women"
@@ -3807,7 +3975,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "womens health",
+                                    "women\u2019s health",
                                     "advancement of women",
                                     "gender equality",
                                     "women"
@@ -3861,7 +4029,7 @@
                                     "laws and regulations",
                                     "health",
                                     "reproductive health",
-                                    "hiv",
+                                    "hiv/aids",
                                     "diseases",
                                     "communicable diseases"
                                 ]
@@ -3874,7 +4042,7 @@
                                     "laws and regulations",
                                     "health",
                                     "reproductive health",
-                                    "hiv",
+                                    "hiv/aids",
                                     "diseases",
                                     "communicable diseases"
                                 ]
@@ -3887,7 +4055,7 @@
                                     "laws and regulations",
                                     "health",
                                     "reproductive health",
-                                    "hiv",
+                                    "hiv/aids",
                                     "diseases",
                                     "communicable diseases"
                                 ]
@@ -3951,7 +4119,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "contraception "
+                                    "contraception"
                                 ]
                             },
                             {
@@ -4025,7 +4193,7 @@
                                     "health",
                                     "reproductive health",
                                     "family planning",
-                                    "contraception "
+                                    "contraception"
                                 ]
                             },
                             {
@@ -4048,7 +4216,7 @@
                                     "laws and regulations",
                                     "health",
                                     "reproductive health",
-                                    "hiv",
+                                    "hiv/aids",
                                     "diseases",
                                     "communicable diseases"
                                 ]
@@ -4169,7 +4337,8 @@
                                 "description": "Proportion of individuals who own a mobile telephone, by sex (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "information and communication technology (ict)",
+                                    "information technology",
+                                    "communication technology",
                                     "mobile telecommunication services"
                                 ]
                             }
@@ -4395,19 +4564,34 @@
                                 "code": "EN_WWT_GEN",
                                 "description": "Total wastewater generated (million m3/year)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "water",
+                                    "natural resources",
+                                    "waste treatment",
+                                    "water management"
+                                ]
                             },
                             {
                                 "code": "EN_WWT_TREAT",
                                 "description": "Total wastewater treated (million m3/year)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "water",
+                                    "natural resources",
+                                    "waste treatment",
+                                    "water management"
+                                ]
                             },
                             {
                                 "code": "EN_WWT_TREATR",
                                 "description": "Proportion of wastewater treated, by activity and location (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "water",
+                                    "natural resources",
+                                    "waste treatment",
+                                    "water management"
+                                ]
                             }
                         ]
                     },
@@ -4665,7 +4849,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4674,7 +4859,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4683,7 +4869,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4692,7 +4879,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4701,7 +4889,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4710,7 +4899,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4719,7 +4909,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "groundwater"
                                 ]
                             },
                             {
@@ -4728,7 +4919,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4737,7 +4929,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters",
+                                    "rivers"
                                 ]
                             },
                             {
@@ -4755,7 +4949,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "groundwater"
                                 ]
                             },
                             {
@@ -4764,7 +4959,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters"
                                 ]
                             },
                             {
@@ -4773,7 +4969,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters",
+                                    "rivers"
                                 ]
                             },
                             {
@@ -4791,7 +4989,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters",
+                                    "rivers"
                                 ]
                             },
                             {
@@ -4800,20 +5000,32 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "water",
-                                    "natural resources"
+                                    "natural resources",
+                                    "surface waters",
+                                    "wetlands"
                                 ]
                             },
                             {
                                 "code": "EN_WBE_HMWTL",
                                 "description": "Extent of human made wetlands (square kilometres)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "water",
+                                    "natural resources",
+                                    "surface waters",
+                                    "wetlands"
+                                ]
                             },
                             {
                                 "code": "EN_WBE_INWTL",
                                 "description": "Extent of inland wetlands (square kilometres)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "water",
+                                    "natural resources",
+                                    "surface waters",
+                                    "wetlands"
+                                ]
                             }
                         ]
                     }
@@ -5047,7 +5259,9 @@
                                 "code": "EG_ACS_ELEC",
                                 "description": "Proportion of population with access to electricity, by urban/rural (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "electricity"
+                                ]
                             }
                         ]
                     },
@@ -5235,7 +5449,12 @@
                                 "code": "EG_EGY_RNEW",
                                 "description": "Installed renewable\u00a0electricity-generating capacity (watts per capita)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "energy resources",
+                                    "renewable energy sources",
+                                    "sustainable energy",
+                                    "electricity"
+                                ]
                             }
                         ]
                     }
@@ -5472,7 +5691,8 @@
                                 "description": "Domestic material consumption, by type of raw material (tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "economic growth"
+                                    "economic growth",
+                                    "consumption"
                                 ]
                             },
                             {
@@ -5480,7 +5700,8 @@
                                 "description": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "economic growth"
+                                    "economic growth",
+                                    "consumption"
                                 ]
                             },
                             {
@@ -5488,7 +5709,8 @@
                                 "description": "Domestic material consumption per capita, by type of raw material (tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "economic growth"
+                                    "economic growth",
+                                    "consumption"
                                 ]
                             }
                         ]
@@ -5526,7 +5748,13 @@
                                 "code": "SL_EMP_EARN",
                                 "description": "Average hourly earnings of employees by sex and occupation (local currency)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "economic growth",
+                                    "salaries",
+                                    "wages",
+                                    "conditions of employment",
+                                    "labour costs"
+                                ]
                             }
                         ]
                     },
@@ -5549,7 +5777,8 @@
                                 "description": "Unemployment rate, by sex and age (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "employment"
+                                    "employment",
+                                    "unemployment"
                                 ]
                             },
                             {
@@ -5557,7 +5786,8 @@
                                 "description": "Unemployment rate, by sex and disability (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "employment"
+                                    "employment",
+                                    "unemployment"
                                 ]
                             }
                         ]
@@ -5599,7 +5829,8 @@
                                     "education",
                                     "youth employment",
                                     "employment",
-                                    "youth"
+                                    "youth",
+                                    "unemployment"
                                 ]
                             }
                         ]
@@ -5727,7 +5958,7 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "labour law",
-                                    "labour rights"
+                                    "workers\u2019 rights"
                                 ]
                             }
                         ]
@@ -6027,7 +6258,12 @@
                                 "code": "SP_ROD_R2KM",
                                 "description": "Proportion of the rural population who live within 2\u00a0km of an all-season road",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "transport infrastructure",
+                                    "roads",
+                                    "rural development",
+                                    "rural-urban differentials"
+                                ]
                             }
                         ]
                     },
@@ -6118,7 +6354,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "industrialization",
-                                    "economic growth"
+                                    "economic growth",
+                                    "manufacturing"
                                 ]
                             },
                             {
@@ -6127,14 +6364,19 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "industrialization",
-                                    "economic growth"
+                                    "economic growth",
+                                    "manufacturing"
                                 ]
                             },
                             {
                                 "code": "NV_IND_MANF_CD",
                                 "description": "Manufacturing value added (current United States dollars) as a proportion of GDP (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "industrialization",
+                                    "economic growth",
+                                    "manufacturing"
+                                ]
                             }
                         ]
                     },
@@ -6159,7 +6401,8 @@
                                 "tags": [
                                     "industrialization",
                                     "economic growth",
-                                    "employment"
+                                    "employment",
+                                    "manufacturing"
                                 ]
                             }
                         ]
@@ -6199,7 +6442,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "industrialization",
-                                    "economic growth"
+                                    "economic growth",
+                                    "small-scale industry",
+                                    "small enterprises"
                                 ]
                             }
                         ]
@@ -6224,7 +6469,10 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "industrialization",
-                                    "economic growth"
+                                    "economic growth",
+                                    "small-scale industry",
+                                    "small enterprises",
+                                    "financial services"
                                 ]
                             }
                         ]
@@ -6485,10 +6733,11 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "means of implementation",
-                                    "information and communication technology (ict)",
+                                    "information technology",
+                                    "communication technology",
                                     "physical infrastructure",
                                     "mobile telecommunication services",
-                                    "information socierty"
+                                    "information society"
                                 ]
                             },
                             {
@@ -6497,10 +6746,11 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "means of implementation",
-                                    "information and communication technology (ict)",
+                                    "information technology",
+                                    "communication technology",
                                     "physical infrastructure",
                                     "mobile telecommunication services",
-                                    "information socierty"
+                                    "information society"
                                 ]
                             },
                             {
@@ -6509,10 +6759,11 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "means of implementation",
-                                    "information and communication technology (ict)",
+                                    "information technology",
+                                    "communication technology",
                                     "physical infrastructure",
                                     "mobile telecommunication services",
-                                    "information socierty"
+                                    "information society"
                                 ]
                             }
                         ]
@@ -6726,7 +6977,10 @@
                                 "code": "SI_DST_FISP",
                                 "description": "Redistributive impact of fiscal policy, Gini index (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "income distribution",
+                                    "fiscal policy"
+                                ]
                             }
                         ]
                     }
@@ -6957,7 +7211,12 @@
                                 "code": "SM_DTH_MIGR",
                                 "description": "Total deaths and disappearances recorded during migration (number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "migration policy",
+                                    "migration",
+                                    "death",
+                                    "disappearance of persons"
+                                ]
                             }
                         ]
                     },
@@ -6979,7 +7238,11 @@
                                 "code": "SM_POP_REFG_OR",
                                 "description": "Number of refugees per 100,000 population, by country of origin (per 100,000 population)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "migration policy",
+                                    "migration",
+                                    "refugees"
+                                ]
                             }
                         ]
                     }
@@ -7129,13 +7392,21 @@
                                 "code": "SI_RMT_COST_BC",
                                 "description": "Corridor remittance costs as a proportion of the amount remitted (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "development finance",
+                                    "remittances"
+                                ]
                             },
                             {
                                 "code": "SI_RMT_COST_SC",
                                 "description": "SmaRT corridor remittance costs as a proportion of the amount remitted (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "development finance",
+                                    "remittances"
+                                ]
                             }
                         ]
                     }
@@ -7354,9 +7625,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "disappearance of persons"
                                 ]
                             },
                             {
@@ -7366,7 +7636,7 @@
                                 "tags": [
                                     "disaster loss",
                                     "disaster prevention",
-                                    "preparedness and relief",
+                                    "disaster preparedness",
                                     "disaster victims"
                                 ]
                             },
@@ -7376,9 +7646,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "death"
                                 ]
                             },
                             {
@@ -7387,16 +7656,21 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "death",
+                                    "disappearance of persons"
                                 ]
                             },
                             {
                                 "code": "VC_DSR_MMHN",
                                 "description": "Number of deaths and missing persons attributed to disasters (number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "disaster victims",
+                                    "death",
+                                    "disappearance of persons"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_DAFF",
@@ -7404,8 +7678,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "disaster victims"
                                 ]
                             },
@@ -7415,9 +7687,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "health"
                                 ]
                             },
                             {
@@ -7426,9 +7697,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "housing"
                                 ]
                             },
                             {
@@ -7437,9 +7707,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "housing"
                                 ]
                             },
                             {
@@ -7448,9 +7717,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "standard of living",
+                                    "family income"
                                 ]
                             }
                         ]
@@ -7476,7 +7745,8 @@
                                 "tags": [
                                     "disaster loss",
                                     "disaster prevention",
-                                    "preparedness and relief"
+                                    "disaster preparedness",
+                                    "economic growth"
                                 ]
                             },
                             {
@@ -7485,21 +7755,28 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth"
                                 ]
                             },
                             {
                                 "code": "VC_DSR_AGLH",
                                 "description": "Direct agriculture loss attributed to disasters (current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "economic growth",
+                                    "agriculture"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_HOLH",
                                 "description": "Direct economic loss in the housing sector attributed to disasters (current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "economic growth",
+                                    "housing"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_CILN",
@@ -7507,8 +7784,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth",
+                                    "physical infrastructure"
                                 ]
                             },
                             {
@@ -7517,8 +7794,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth",
+                                    "cultural heritage"
                                 ]
                             },
                             {
@@ -7527,8 +7804,7 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
+                                    "economic growth",
                                     "physical infrastructure"
                                 ]
                             },
@@ -7538,8 +7814,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "health",
                                     "physical infrastructure"
                                 ]
@@ -7550,8 +7824,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "education",
                                     "educational facilities",
                                     "physical infrastructure"
@@ -7563,8 +7835,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "physical infrastructure"
                                 ]
                             },
@@ -7574,8 +7844,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "physical infrastructure"
                                 ]
                             },
@@ -7585,8 +7853,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "education",
                                     "educational facilities",
                                     "physical infrastructure"
@@ -7598,8 +7864,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "health",
                                     "physical infrastructure"
                                 ]
@@ -7610,8 +7874,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "physical infrastructure"
                                 ]
                             },
@@ -7621,8 +7883,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief"
+                                    "economic growth",
+                                    "physical infrastructure"
                                 ]
                             }
                         ]
@@ -7774,7 +8036,12 @@
                                 "code": "SD_CPA_UPRDP",
                                 "description": "Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "cities",
+                                    "human settlements",
+                                    "urban planning",
+                                    "settlement planning"
+                                ]
                             }
                         ]
                     }
@@ -7814,8 +8081,7 @@
                                 "tags": [
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -7825,7 +8091,7 @@
                                 "tags": [
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief"
+                                    "disaster preparedness"
                                 ]
                             }
                         ]
@@ -7849,11 +8115,10 @@
                                 "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -7861,11 +8126,10 @@
                                 "description": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -7873,7 +8137,7 @@
                                 "description": "Number of local governments (number)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments"
+                                    "local government"
                                 ]
                             }
                         ]
@@ -7960,7 +8224,7 @@
                                 "tags": [
                                     "sustainable consumption",
                                     "sustainable production",
-                                    "development planning "
+                                    "development planning"
                                 ]
                             },
                             {
@@ -7970,7 +8234,7 @@
                                 "tags": [
                                     "sustainable consumption",
                                     "sustainable production",
-                                    "development planning "
+                                    "development planning"
                                 ]
                             },
                             {
@@ -7980,7 +8244,7 @@
                                 "tags": [
                                     "sustainable consumption",
                                     "sustainable production",
-                                    "development planning "
+                                    "development planning"
                                 ]
                             },
                             {
@@ -7990,7 +8254,7 @@
                                 "tags": [
                                     "sustainable consumption",
                                     "sustainable production",
-                                    "development planning "
+                                    "development planning"
                                 ]
                             },
                             {
@@ -8000,7 +8264,7 @@
                                 "tags": [
                                     "sustainable consumption",
                                     "sustainable production",
-                                    "development planning "
+                                    "development planning"
                                 ]
                             }
                         ]
@@ -8088,7 +8352,8 @@
                                 "description": "Domestic material consumption, by type of raw material (tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "economic growth"
+                                    "economic growth",
+                                    "consumption"
                                 ]
                             },
                             {
@@ -8096,7 +8361,8 @@
                                 "description": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "economic growth"
+                                    "economic growth",
+                                    "consumption"
                                 ]
                             },
                             {
@@ -8104,7 +8370,8 @@
                                 "description": "Domestic material consumption per capita, by type of raw material (tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "economic growth"
+                                    "economic growth",
+                                    "consumption"
                                 ]
                             }
                         ]
@@ -8152,13 +8419,19 @@
                                 "code": "AG_FOOD_WST_PC",
                                 "description": "Food waste per capita (KG)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "food waste",
+                                    "food losses"
+                                ]
                             },
                             {
                                 "code": "AG_FOOD_WST",
                                 "description": "Food waste (Tonnes)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "food waste",
+                                    "food losses"
+                                ]
                             }
                         ]
                     }
@@ -8273,7 +8546,9 @@
                                 "description": "Electronic waste recycling (Tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "electronic waste,recycling"
+                                    "electronic waste",
+                                    "recycling",
+                                    "solid waste management"
                                 ]
                             },
                             {
@@ -8281,7 +8556,9 @@
                                 "description": "Electronic waste recycling, rate (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "electronic waste,recycling"
+                                    "electronic waste",
+                                    "recycling",
+                                    "solid waste management"
                                 ]
                             },
                             {
@@ -8289,7 +8566,9 @@
                                 "description": "Electronic waste recycling, per capita (Kg)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "electronic waste,recycling"
+                                    "electronic waste",
+                                    "recycling",
+                                    "solid waste management"
                                 ]
                             },
                             {
@@ -8321,7 +8600,8 @@
                                 "description": "Hazardous waste treated, by type of treatment (Tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "hazardous wastes"
+                                    "hazardous wastes",
+                                    "waste treatment"
                                 ]
                             },
                             {
@@ -8329,7 +8609,9 @@
                                 "description": "Hazardous waste treated or disposed, rate (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "hazardous wastes"
+                                    "hazardous wastes",
+                                    "waste disposal",
+                                    "waste treatment"
                                 ]
                             },
                             {
@@ -8337,50 +8619,79 @@
                                 "description": "Hazardous waste treated or disposed (Tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "hazardous wastes"
+                                    "hazardous wastes",
+                                    "waste disposal",
+                                    "waste treatment"
                                 ]
                             },
                             {
                                 "code": "EN_MWT_COLLV",
                                 "description": "Municipal waste collected (Tonnes)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "sanitation",
+                                    "waste disposal",
+                                    "solid waste management"
+                                ]
                             },
                             {
                                 "code": "EN_MWT_TREATR",
                                 "description": "Municipal waste treated, by type of treatment (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "sanitation",
+                                    "waste treatment",
+                                    "solid waste management"
+                                ]
                             },
                             {
                                 "code": "EN_MWT_GENV",
                                 "description": "Municipal waste generated (Tonnes)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "sanitation"
+                                ]
                             },
                             {
                                 "code": "EN_EWT_COLLV",
                                 "description": "Electronic waste collected (Tonnes)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "electronic waste",
+                                    "waste disposal",
+                                    "solid waste management"
+                                ]
                             },
                             {
                                 "code": "EN_EWT_COLLPCAP",
                                 "description": "Electronic waste collected, per capita (KG)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "electronic waste",
+                                    "waste disposal",
+                                    "solid waste management"
+                                ]
                             },
                             {
                                 "code": "EN_EWT_COLLR",
                                 "description": "Electronic waste collection rate (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "electronic waste",
+                                    "waste disposal",
+                                    "solid waste management"
+                                ]
                             },
                             {
                                 "code": "EN_MWT_RCYV",
                                 "description": "Municipal waste recycled (Tonnes)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "sanitation",
+                                    "waste disposal",
+                                    "solid waste management",
+                                    "recycling"
+                                ]
                             }
                         ]
                     }
@@ -8418,7 +8729,9 @@
                                 "description": "Electronic waste recycling (Tonnes)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "electronic waste,recycling"
+                                    "electronic waste",
+                                    "recycling",
+                                    "solid waste management"
                                 ]
                             },
                             {
@@ -8426,7 +8739,9 @@
                                 "description": "Electronic waste recycling, rate (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "electronic waste,recycling"
+                                    "electronic waste",
+                                    "recycling",
+                                    "solid waste management"
                                 ]
                             },
                             {
@@ -8434,14 +8749,21 @@
                                 "description": "Electronic waste recycling, per capita (Kg)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "electronic waste,recycling"
+                                    "electronic waste",
+                                    "recycling",
+                                    "solid waste management"
                                 ]
                             },
                             {
                                 "code": "EN_MWT_RCYV",
                                 "description": "Municipal waste recycled (Tonnes)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "sanitation",
+                                    "waste disposal",
+                                    "solid waste management",
+                                    "recycling"
+                                ]
                             }
                         ]
                     }
@@ -8478,7 +8800,10 @@
                                 "code": "EN_SCP_FRMN",
                                 "description": "Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "corporate social responsibility",
+                                    "private sector"
+                                ]
                             }
                         ]
                     }
@@ -8575,7 +8900,12 @@
                                 "code": "EG_EGY_RNEW",
                                 "description": "Installed renewable\u00a0electricity-generating capacity (watts per capita)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "energy resources",
+                                    "renewable energy sources",
+                                    "sustainable energy",
+                                    "electricity"
+                                ]
                             }
                         ]
                     }
@@ -8671,19 +9001,28 @@
                                 "code": "ER_FFS_CMPT",
                                 "description": "Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "fossil fuels",
+                                    "energy policy"
+                                ]
                             },
                             {
                                 "code": "ER_FFS_CMPT_PC",
                                 "description": "Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "fossil fuels",
+                                    "energy policy"
+                                ]
                             },
                             {
                                 "code": "ER_FFS_CMPT_GDP",
                                 "description": "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "fossil fuels",
+                                    "energy policy"
+                                ]
                             }
                         ]
                     }
@@ -8754,9 +9093,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "disappearance of persons"
                                 ]
                             },
                             {
@@ -8766,7 +9104,7 @@
                                 "tags": [
                                     "disaster loss",
                                     "disaster prevention",
-                                    "preparedness and relief",
+                                    "disaster preparedness",
                                     "disaster victims"
                                 ]
                             },
@@ -8776,9 +9114,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "death"
                                 ]
                             },
                             {
@@ -8787,16 +9124,21 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "death",
+                                    "disappearance of persons"
                                 ]
                             },
                             {
                                 "code": "VC_DSR_MMHN",
                                 "description": "Number of deaths and missing persons attributed to disasters (number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "disaster loss",
+                                    "disaster victims",
+                                    "death",
+                                    "disappearance of persons"
+                                ]
                             },
                             {
                                 "code": "VC_DSR_DAFF",
@@ -8804,8 +9146,6 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
                                     "disaster victims"
                                 ]
                             },
@@ -8815,9 +9155,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "health"
                                 ]
                             },
                             {
@@ -8826,9 +9165,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "housing"
                                 ]
                             },
                             {
@@ -8837,9 +9175,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "housing"
                                 ]
                             },
                             {
@@ -8848,9 +9185,9 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "disaster loss",
-                                    "disaster prevention",
-                                    "preparedness and relief",
-                                    "disaster victims"
+                                    "disaster victims",
+                                    "standard of living",
+                                    "family income"
                                 ]
                             }
                         ]
@@ -8876,8 +9213,7 @@
                                 "tags": [
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -8887,7 +9223,7 @@
                                 "tags": [
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief"
+                                    "disaster preparedness"
                                 ]
                             }
                         ]
@@ -8911,11 +9247,10 @@
                                 "description": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -8923,11 +9258,10 @@
                                 "description": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments",
+                                    "local government",
                                     "means of implementation",
                                     "disaster prevention",
-                                    "preparedness and relief",
-                                    "laws and regulations"
+                                    "disaster preparedness"
                                 ]
                             },
                             {
@@ -8935,7 +9269,7 @@
                                 "description": "Number of local governments (number)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "local governments"
+                                    "local government"
                                 ]
                             }
                         ]
@@ -8973,43 +9307,85 @@
                                 "code": "EN_NACOM_NAIP",
                                 "description": "Number of countries with national communications, non-Annex I Parties (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_BIUREP_NAIP",
                                 "description": "Number of countries with biennial update reports, non-Annex I Parties (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_NACOM_AIP",
                                 "description": "Number of countries with national communications, Annex I Parties (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_BIUREP_AIP",
                                 "description": "Number of countries with biennial reports, Annex I Parties (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_ADAP_COM",
                                 "description": "Number of countries with adaptation communications (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_NAD_CONTR",
                                 "description": "Number of countries with nationally determined contributions (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_NAA_PLAN",
                                 "description": "Number of countries with national adaptation plans (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             }
                         ]
                     },
@@ -9031,13 +9407,25 @@
                                 "code": "EN_ATM_GHGT_AIP",
                                 "description": "Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO\u2082 equivalent)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "carbon dioxide"
+                                ]
                             },
                             {
                                 "code": "EN_ATM_GHGT_NAIP",
                                 "description": "Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO\u2082 equivalent)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "carbon dioxide"
+                                ]
                             }
                         ]
                     }
@@ -9104,31 +9492,62 @@
                                 "code": "DC_FIN_CLIMB",
                                 "description": "Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "DC_FIN_CLIMM",
                                 "description": "Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "DC_FIN_CLIMT",
                                 "description": "Total climate-specific financial support provided (Billions of current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "DC_FIN_GEN",
                                 "description": "Core/general contributions provided to multilateral institutions (Billions of current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "DC_FIN_TOT",
                                 "description": "Total financial support provided (Billions of current United States dollars)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation",
+                                    "development assistance"
+                                ]
                             }
                         ]
                     }
@@ -9165,31 +9584,61 @@
                                 "code": "EN_NACOM_NAIP",
                                 "description": "Number of countries with national communications, non-Annex I Parties (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_BIUREP_NAIP",
                                 "description": "Number of countries with biennial update reports, non-Annex I Parties (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_ADAP_COM",
                                 "description": "Number of countries with adaptation communications (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_NAD_CONTR",
                                 "description": "Number of countries with nationally determined contributions (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             },
                             {
                                 "code": "EN_NAA_PLAN",
                                 "description": "Number of countries with national adaptation plans (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "climate change",
+                                    "environmental protection",
+                                    "environmental policy",
+                                    "global warming",
+                                    "means of implementation"
+                                ]
                             }
                         ]
                     }
@@ -9258,19 +9707,37 @@
                                 "code": "EN_MAR_CHLDEV",
                                 "description": "Chlorophyll-a deviations, remote sensing (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "biomass",
+                                    "marine ecosystems",
+                                    "oceans",
+                                    "marine resources",
+                                    "living marine resources"
+                                ]
                             },
                             {
                                 "code": "EN_MAR_CHLANM",
                                 "description": "Chlorophyll-a anomaly, remote sensing (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "biomass",
+                                    "marine ecosystems",
+                                    "oceans",
+                                    "marine resources",
+                                    "living marine resources"
+                                ]
                             },
                             {
                                 "code": "EN_MAR_BEALITSQ",
                                 "description": "Beach litter per square kilometer (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "marine ecosystems",
+                                    "oceans",
+                                    "marine resources",
+                                    "pollution",
+                                    "marine pollution"
+                                ]
                             }
                         ]
                     }
@@ -9425,7 +9892,7 @@
                                     "marine resources",
                                     "marine ecosystems",
                                     "living marine resources",
-                                    "national parks and protected areas",
+                                    "national parks and reserves",
                                     "oceans",
                                     "biological diversity"
                                 ]
@@ -9438,7 +9905,7 @@
                                     "marine resources",
                                     "marine ecosystems",
                                     "living marine resources",
-                                    "national parks and protected areas",
+                                    "national parks and reserves",
                                     "oceans",
                                     "biological diversity"
                                 ]
@@ -9451,7 +9918,7 @@
                                     "marine resources",
                                     "marine ecosystems",
                                     "living marine resources",
-                                    "national parks and protected areas",
+                                    "national parks and reserves",
                                     "oceans",
                                     "biological diversity"
                                 ]
@@ -9533,7 +10000,11 @@
                                 "code": "EN_SCP_FSHGDP",
                                 "description": "Sustainable fisheries as a proportion of GDP",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "marine resources",
+                                    "marine ecosystems",
+                                    "fishing"
+                                ]
                             }
                         ]
                     }
@@ -9654,13 +10125,23 @@
                                 "code": "ER_UNCLOS_RATACC",
                                 "description": "Score for the ratification of and accession to UNCLOS and its two implementing agreements (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "marine resources",
+                                    "marine ecosystems",
+                                    "international instruments"
+                                ]
                             },
                             {
                                 "code": "ER_UNCLOS_IMPLE",
                                 "description": "Score for the implementation of UNCLOS and its two implementing agreements (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "marine resources",
+                                    "marine ecosystems",
+                                    "international instruments"
+                                ]
                             }
                         ]
                     }
@@ -9732,7 +10213,7 @@
                                 "tags": [
                                     "terrestrial ecosystems",
                                     "forest ecosystems",
-                                    "national parks and protected areas",
+                                    "national parks and reserves",
                                     "forests",
                                     "biological diversity",
                                     "natural resources"
@@ -9745,7 +10226,7 @@
                                 "tags": [
                                     "terrestrial ecosystems",
                                     "forest ecosystems",
-                                    "national parks and protected areas",
+                                    "national parks and reserves",
                                     "forests",
                                     "biological diversity",
                                     "natural resources"
@@ -9758,7 +10239,7 @@
                                 "tags": [
                                     "terrestrial ecosystems",
                                     "forest ecosystems",
-                                    "national parks and protected areas",
+                                    "national parks and reserves",
                                     "forests",
                                     "biological diversity",
                                     "natural resources"
@@ -9784,13 +10265,24 @@
                                 "code": "ER_PTD_FRHWTR",
                                 "description": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "national parks and reserves",
+                                    "biological diversity",
+                                    "natural resources",
+                                    "freshwater ecosystems",
+                                    "freshwater"
+                                ]
                             },
                             {
                                 "code": "ER_PTD_TERR",
                                 "description": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "national parks and reserves",
+                                    "biological diversity",
+                                    "natural resources",
+                                    "terrestrial ecosystems"
+                                ]
                             }
                         ]
                     }
@@ -9879,7 +10371,7 @@
                                     "natural resources",
                                     "forests",
                                     "forest management",
-                                    "national parks and protected areas"
+                                    "national parks and reserves"
                                 ]
                             }
                         ]
@@ -9957,7 +10449,10 @@
                                 "code": "ER_PTD_MTN",
                                 "description": "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "land degradation",
+                                    "natural resources"
+                                ]
                             }
                         ]
                     },
@@ -10020,7 +10515,10 @@
                                 "code": "ER_RSK_LST",
                                 "description": "Red List Index",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "biological diversity",
+                                    "endangered species"
+                                ]
                             }
                         ]
                     }
@@ -10236,7 +10734,7 @@
                                 "description": "Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO)",
                                 "release": "2021.Q1.G.01",
                                 "tags": [
-                                    "national accounting",
+                                    "national accounts",
                                     "biological diversity",
                                     "natural resources",
                                     "resources conservation"
@@ -10452,7 +10950,7 @@
                                 "tags": [
                                     "violence",
                                     "crime",
-                                    " deaths"
+                                    "death"
                                 ]
                             },
                             {
@@ -10462,7 +10960,7 @@
                                 "tags": [
                                     "violence",
                                     "crime",
-                                    " deaths"
+                                    "death"
                                 ]
                             }
                         ]
@@ -10488,7 +10986,7 @@
                                 "tags": [
                                     "violence",
                                     "conflict",
-                                    "deaths"
+                                    "death"
                                 ]
                             },
                             {
@@ -10498,7 +10996,7 @@
                                 "tags": [
                                     "violence",
                                     "conflict",
-                                    "deaths"
+                                    "death"
                                 ]
                             },
                             {
@@ -10508,7 +11006,7 @@
                                 "tags": [
                                     "violence",
                                     "conflict",
-                                    "deaths"
+                                    "death"
                                 ]
                             }
                         ]
@@ -10619,7 +11117,7 @@
                                 "tags": [
                                     "violence",
                                     "child abuse",
-                                    "domestic abuse",
+                                    "domestic violence",
                                     "children"
                                 ]
                             }
@@ -10789,7 +11287,10 @@
                                 "code": "VC_PRS_UNSNT",
                                 "description": "Unsentenced detainees as a proportion of overall prison population (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "detained persons",
+                                    "administration of justice"
+                                ]
                             }
                         ]
                     },
@@ -10856,7 +11357,11 @@
                                 "code": "VC_ARM_SZTRACE",
                                 "description": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "weapons tracing",
+                                    "illicit arms trafficking",
+                                    "international instruments"
+                                ]
                             }
                         ]
                     }
@@ -11017,7 +11522,11 @@
                                 "code": "SG_DMK_PARLCC_JC",
                                 "description": "Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "equality of states",
+                                    "intergovernmental organizations",
+                                    "developing countries"
+                                ]
                             },
                             {
                                 "code": "SG_DMK_PARLMP_LC",
@@ -11077,37 +11586,55 @@
                                 "code": "SG_DMK_PARLYR_LC",
                                 "description": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "legislative bodies",
+                                    "youth"
+                                ]
                             },
                             {
                                 "code": "SG_DMK_PARLYP_LC",
                                 "description": "Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "legislative bodies",
+                                    "youth"
+                                ]
                             },
                             {
                                 "code": "SG_DMK_PARLYN_LC",
                                 "description": "Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "legislative bodies",
+                                    "youth"
+                                ]
                             },
                             {
                                 "code": "SG_DMK_PARLYR_UC",
                                 "description": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary), Upper Chamber",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "legislative bodies",
+                                    "youth"
+                                ]
                             },
                             {
                                 "code": "SG_DMK_PARLYP_UC",
                                 "description": "Proportion of youth in parliament (age 45 or below), Upper Chamber (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "legislative bodies",
+                                    "youth"
+                                ]
                             },
                             {
                                 "code": "SG_DMK_PARLYN_UC",
                                 "description": "Number of youth in parliament (age 45 or below), Upper Chamber (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "legislative bodies",
+                                    "youth"
+                                ]
                             }
                         ]
                     },
@@ -11254,7 +11781,7 @@
                                 "tags": [
                                     "violence",
                                     "crime",
-                                    "deaths",
+                                    "death",
                                     "access to information",
                                     "journalists"
                                 ]
@@ -11699,7 +12226,7 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "means of implementation",
-                                    "foreing direct investment"
+                                    "foreign direct investment"
                                 ]
                             }
                         ]
@@ -11806,13 +12333,19 @@
                                 "code": "SG_CPA_SIGN_BIT",
                                 "description": "Number of countries with a signed bilateral investment treaty (BIT) (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "foreign direct investment"
+                                ]
                             },
                             {
                                 "code": "SG_CPA_INFORCE_BIT",
                                 "description": "Number of countries with an inforce bilateral investment treaty (BIT) (Number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "foreign direct investment"
+                                ]
                             }
                         ]
                     }
@@ -11849,13 +12382,25 @@
                                 "code": "IT_NET_BBNDN",
                                 "description": "Number of fixed Internet broadband subscriptions, by speed (number)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "telecommunications",
+                                    "broadband",
+                                    "internet",
+                                    "information technology"
+                                ]
                             },
                             {
                                 "code": "IT_NET_BBND",
                                 "description": "Fixed Internet broadband subscriptions per 100\u00a0inhabitants, by speed (per 100 inhabitants)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "telecommunications",
+                                    "broadband",
+                                    "internet",
+                                    "information technology"
+                                ]
                             }
                         ]
                     }
@@ -11924,7 +12469,8 @@
                                 "release": "2021.Q1.G.01",
                                 "tags": [
                                     "means of implementation",
-                                    "information and communication technology (ict)",
+                                    "information technology",
+                                    "communication technology",
                                     "physical infrastructure",
                                     "internet"
                                 ]
@@ -12210,7 +12756,11 @@
                                 "code": "SG_CPA_SDEVP",
                                 "description": "Mechanisms in place to enhance policy coherence for sustainable development (%)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "programme evaluation",
+                                    "programme planning"
+                                ]
                             }
                         ]
                     }
@@ -12364,13 +12914,23 @@
                                 "code": "SG_PLN_MSTKSDG_P",
                                 "description": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "programme ownership",
+                                    "programme evaluation",
+                                    "results-based management"
+                                ]
                             },
                             {
                                 "code": "SG_PLN_MSTKSDG_R",
                                 "description": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "programme ownership",
+                                    "programme evaluation",
+                                    "results-based management"
+                                ]
                             }
                         ]
                     }
@@ -12407,13 +12967,21 @@
                                 "code": "GF_COM_PPPI",
                                 "description": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "public-private partnerships",
+                                    "physical infrastructure"
+                                ]
                             },
                             {
                                 "code": "GF_COM_PPPI_KD",
                                 "description": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",
                                 "release": "2021.Q1.G.01",
-                                "tags": []
+                                "tags": [
+                                    "means of implementation",
+                                    "public-private partnerships",
+                                    "physical infrastructure"
+                                ]
                             }
                         ]
                     }

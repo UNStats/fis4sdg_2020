@@ -15,7 +15,7 @@ release = set_release.set_release()
 # Read or update sdg metadata file
 # ---------------------------------------------
 
-tags_template = {'file': 'data/external/tagsTemplate2020.Q2.G.03.txt',
+tags_template = {'file': 'data/external/tagsTemplate2021.Q1.G.01.txt',
                  'seriesCodeCol': 'seriesCode',
                  'seriesTagsCol': 'seriesTags'}
 
