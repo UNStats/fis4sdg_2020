@@ -1,0 +1,7 @@
+series	UnitMultiplier	Observation Status	Age	Freq	Location	Sex	Type of occupation	Type of product	Cities	Quantile	Disability status	Education level	Activity	levelStatus_code	levelStatus_desc
+ER_BDY_ABT2NP	UNIT	A	ALLAGE	ANNUAL	ALLAREA	BOTHSEX	isco08	ALP	NOCITI	_T	_T	_T	TOTAL	ABT2_ACHIEVE	National target reflecting ABT2 exists and progress is on track to achieve it
+ER_BDY_ABT2NP	UNIT	A	ALLAGE	ANNUAL	ALLAREA	BOTHSEX	isco08	ALP	NOCITI	_T	_T	_T	TOTAL	ABT2_INSUFNT	National target reflecting ABT2  exists and progress is there, but at as insufficient rate
+ER_BDY_ABT2NP	UNIT	A	ALLAGE	ANNUAL	ALLAREA	BOTHSEX	isco08	ALP	NOCITI	_T	_T	_T	TOTAL	ABT2_NONTLT	No national target reflecting ABT 2
+ER_BDY_ABT2NP	UNIT	A	ALLAGE	ANNUAL	ALLAREA	BOTHSEX	isco08	ALP	NOCITI	_T	_T	_T	TOTAL	ABT2_NOPROG	National target reflecting ABT2  exists, but no progress
+ER_BDY_ABT2NP	UNIT	A	ALLAGE	ANNUAL	ALLAREA	BOTHSEX	isco08	ALP	NOCITI	_T	_T	_T	TOTAL	ABT2_DIGRESS	National target reflecting ABT2 exists, but moving away from it
+ER_BDY_ABT2NP	UNIT	A	ALLAGE	ANNUAL	ALLAREA	BOTHSEX	isco08	ALP	NOCITI	_T	_T	_T	TOTAL	ABT2_EXCEED	National target reflecting ABT2  exists and progress is on track to exceed it

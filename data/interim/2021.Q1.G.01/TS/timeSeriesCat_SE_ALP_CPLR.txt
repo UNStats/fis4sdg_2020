@@ -1,0 +1,55 @@
+series	sex_code	sex_desc	educationLevel_code	educationLevel_desc	quantile_code	quantile_desc
+SE_ALP_CPLR	_T	Both sexes	ISCED11_3	Upper secondary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	_T	Both sexes	ISCED11_2	Lower secondary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	_T	Both sexes	ISCED11_1	Primary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	M	Male	ISCED11_3	Upper secondary	Q3	Quantile 3
+SE_ALP_CPLR	_T	Both sexes	ISCED11_2	Lower secondary	Q2	Quantile 2
+SE_ALP_CPLR	M	Male	ISCED11_2	Lower secondary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	M	Male	ISCED11_2	Lower secondary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	F	Female	ISCED11_3	Upper secondary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	F	Female	ISCED11_2	Lower secondary	Q3	Quantile 3
+SE_ALP_CPLR	_T	Both sexes	ISCED11_3	Upper secondary	Q2	Quantile 2
+SE_ALP_CPLR	F	Female	ISCED11_3	Upper secondary	Q4	Quantile 4
+SE_ALP_CPLR	F	Female	ISCED11_2	Lower secondary	Q4	Quantile 4
+SE_ALP_CPLR	M	Male	ISCED11_3	Upper secondary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	F	Female	ISCED11_1	Primary	Q3	Quantile 3
+SE_ALP_CPLR	_T	Both sexes	ISCED11_3	Upper secondary	Q3	Quantile 3
+SE_ALP_CPLR	M	Male	ISCED11_2	Lower secondary	Q4	Quantile 4
+SE_ALP_CPLR	M	Male	ISCED11_1	Primary	Q3	Quantile 3
+SE_ALP_CPLR	M	Male	ISCED11_2	Lower secondary	Q3	Quantile 3
+SE_ALP_CPLR	M	Male	ISCED11_1	Primary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	_T	Both sexes	ISCED11_3	Upper secondary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	M	Male	ISCED11_3	Upper secondary	Q4	Quantile 4
+SE_ALP_CPLR	_T	Both sexes	ISCED11_2	Lower secondary	Q4	Quantile 4
+SE_ALP_CPLR	_T	Both sexes	ISCED11_3	Upper secondary	Q4	Quantile 4
+SE_ALP_CPLR	F	Female	ISCED11_1	Primary	Q2	Quantile 2
+SE_ALP_CPLR	F	Female	ISCED11_2	Lower secondary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	M	Male	ISCED11_1	Primary	Q4	Quantile 4
+SE_ALP_CPLR	_T	Both sexes	ISCED11_2	Lower secondary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	M	Male	ISCED11_3	Upper secondary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	F	Female	ISCED11_1	Primary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	F	Female	ISCED11_2	Lower secondary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	F	Female	ISCED11_1	Primary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	F	Female	ISCED11_3	Upper secondary	Q3	Quantile 3
+SE_ALP_CPLR	_T	Both sexes	ISCED11_1	Primary	Q2	Quantile 2
+SE_ALP_CPLR	F	Female	ISCED11_1	Primary	Q4	Quantile 4
+SE_ALP_CPLR	_T	Both sexes	ISCED11_2	Lower secondary	Q3	Quantile 3
+SE_ALP_CPLR	_T	Both sexes	ISCED11_1	Primary	Q3	Quantile 3
+SE_ALP_CPLR	M	Male	ISCED11_1	Primary	_T	Total (national average) or no breakdown
+SE_ALP_CPLR	M	Male	ISCED11_1	Primary	Q2	Quantile 2
+SE_ALP_CPLR	_T	Both sexes	ISCED11_1	Primary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	_T	Both sexes	ISCED11_1	Primary	Q4	Quantile 4
+SE_ALP_CPLR	_T	Both sexes	ISCED11_1	Primary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	F	Female	ISCED11_3	Upper secondary	Q5	Quantile 5 (richest)
+SE_ALP_CPLR	M	Male	ISCED11_2	Lower secondary	Q2	Quantile 2
+SE_ALP_CPLR	F	Female	ISCED11_3	Upper secondary	Q2	Quantile 2
+SE_ALP_CPLR	_T	Both sexes	ISCED11_2	Lower secondary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	M	Male	ISCED11_3	Upper secondary	Q2	Quantile 2
+SE_ALP_CPLR	F	Female	ISCED11_2	Lower secondary	Q2	Quantile 2
+SE_ALP_CPLR	_T	Both sexes	ISCED11_3	Upper secondary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	M	Male	ISCED11_1	Primary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	F	Female	ISCED11_1	Primary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	M	Male	ISCED11_2	Lower secondary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	M	Male	ISCED11_3	Upper secondary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	F	Female	ISCED11_2	Lower secondary	Q1	Quantile 1 (poorest)
+SE_ALP_CPLR	F	Female	ISCED11_3	Upper secondary	Q1	Quantile 1 (poorest)

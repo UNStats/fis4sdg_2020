@@ -1,0 +1,8 @@
+series	mountainElevation_code	mountainElevation_desc
+ER_MTN_GRNCVI	_T	All elevations
+ER_MTN_GRNCVI	ELV_5	Elevation 1000–1500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters
+ER_MTN_GRNCVI	ELV_4	Elevation 1500–2500 meters and slope > 2
+ER_MTN_GRNCVI	ELV_6	Elevation 300–1000 meters and local elevation range (7 kilometer radius) > 300 meters
+ER_MTN_GRNCVI	ELV_1	Elevation > 4500 meters
+ER_MTN_GRNCVI	ELV_2	Elevation 3500–4500 meters
+ER_MTN_GRNCVI	ELV_3	Elevation 2500–3500 meters

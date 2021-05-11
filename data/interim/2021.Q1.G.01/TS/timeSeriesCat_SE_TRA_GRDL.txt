@@ -1,0 +1,16 @@
+series	sex_code	sex_desc	educationLevel_code	educationLevel_desc
+SE_TRA_GRDL	M	Male	ISCED11_1	Primary
+SE_TRA_GRDL	F	Female	ISCED11_1	Primary
+SE_TRA_GRDL	_T	Both sexes	ISCED11_1	Primary
+SE_TRA_GRDL	F	Female	ISCED11_2	Lower secondary
+SE_TRA_GRDL	M	Male	ISCED11_2	Lower secondary
+SE_TRA_GRDL	_T	Both sexes	ISCED11_2	Lower secondary
+SE_TRA_GRDL	_T	Both sexes	AGG_2_3	Secondary
+SE_TRA_GRDL	F	Female	AGG_2_3	Secondary
+SE_TRA_GRDL	M	Male	AGG_2_3	Secondary
+SE_TRA_GRDL	F	Female	ISCED11_3	Upper secondary
+SE_TRA_GRDL	_T	Both sexes	ISCED11_3	Upper secondary
+SE_TRA_GRDL	M	Male	ISCED11_3	Upper secondary
+SE_TRA_GRDL	M	Male	ISCED11_02	Pre-primary
+SE_TRA_GRDL	F	Female	ISCED11_02	Pre-primary
+SE_TRA_GRDL	_T	Both sexes	ISCED11_02	Pre-primary

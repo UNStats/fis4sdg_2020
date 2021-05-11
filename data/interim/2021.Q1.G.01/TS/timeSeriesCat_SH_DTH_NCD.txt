@@ -1,0 +1,13 @@
+series	sex_code	sex_desc	nameOfNonCommunicableDisease_code	nameOfNonCommunicableDisease_desc
+SH_DTH_NCD	F	Female	NCD_CARDIO	Cardiovascular disease
+SH_DTH_NCD	M	Male	NCD_CARDIO	Cardiovascular disease
+SH_DTH_NCD	_T	Both sexes	NCD_CARDIO	Cardiovascular disease
+SH_DTH_NCD	F	Female	NCD_DIABTS	Diabetes
+SH_DTH_NCD	M	Male	NCD_DIABTS	Diabetes
+SH_DTH_NCD	_T	Both sexes	NCD_DIABTS	Diabetes
+SH_DTH_NCD	_T	Both sexes	NCD_CNCR	Cancer
+SH_DTH_NCD	M	Male	NCD_CNCR	Cancer
+SH_DTH_NCD	F	Female	NCD_CRESPD	Chronic respiratory disease
+SH_DTH_NCD	_T	Both sexes	NCD_CRESPD	Chronic respiratory disease
+SH_DTH_NCD	M	Male	NCD_CRESPD	Chronic respiratory disease
+SH_DTH_NCD	F	Female	NCD_CNCR	Cancer

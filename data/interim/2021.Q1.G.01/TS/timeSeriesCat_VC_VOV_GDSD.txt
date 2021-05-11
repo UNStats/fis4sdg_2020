@@ -1,0 +1,157 @@
+series	sex_code	sex_desc	disabilityStatus_code	disabilityStatus_desc	groundsOfDiscrimination_code	groundsOfDiscrimination_desc
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_SEX	Sex
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_GEO	Geographic location
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_GEO	Geographic location
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_GEO	Geographic location
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_SOCIOECON	Socioeconomic status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_SOCIOECON	Socioeconomic status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_SOCIOECON	Socioeconomic status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_SEX	Sex
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_SEX	Sex
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_SEX	Sex
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_SEX	Sex
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_AGE	Age
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_AGE	Age
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_AGE	Age
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_AGE	Age
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_AGE	Age
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_OTHER	Other
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_OTHER	Other
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_OTHER	Other
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_OTHER	Other
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_OTHER	Other
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	M	Male	PD	Persons with disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	F	Female	PD	Persons with disability	_T	All grounds or no breakdown
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_AGE	Age
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_AGE	Age
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_ETHCOLLAN	Ethnicity, colour, language
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_DISHEA	Disability or health status
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_AGE	Age
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_AGE	Age
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_SEX	Sex
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_SEX	Sex
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_SEX	Sex
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_SEX	Sex
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_RELIGION	Religion
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_OTHER	Other
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_OTHER	Other
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_OTHER	Other
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_OTHER	Other
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_SEXO	Sexual orientation
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_MIG	Migration status
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_MIG	Migration status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_MIG	Migration status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_EDU	Educational
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_EDU	Educational
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_EDU	Educational
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_EDU	Educational
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_EDU	Educational
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_MAR	Marital status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_MAR	Marital status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_FAM	Family status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_FAM	Family status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_FAM	Family status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_ETHCOLLANNAL	Ethnicity, colour, language, nationality
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_ETHCOLLANNAL	Ethnicity, colour, language, nationality
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_ETHCOLLANNAL	Ethnicity, colour, language, nationality
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_MAR	Marital status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_RES	Place of residence
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_MIG	Migration status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_GENID	Gender identity
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_GENID	Gender identity
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_GENID	Gender identity
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_GENID	Gender identity
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_GENID	Gender identity
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_SEXOGENID	Sexual orientation and gender identity
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_MIG	Migration status
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_ETH	Ethnic
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_ETH	Ethnic
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_ETH	Ethnic
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_LANDIA	Language  or dialect
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_LANDIA	Language  or dialect
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_RACE	Race
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_RACE	Race
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_WEALTH	Wealth status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_WEALTH	Wealth status
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_WEALTH	Wealth status
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_RACE	Race
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_LANDIA	Language  or dialect
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_PREGY	Pregnancy
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	F	Female	_T	No breakdown by disability	GRD_PREGY	Pregnancy
+VC_VOV_GDSD	M	Male	_T	No breakdown by disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_PREGY	Pregnancy
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	F	Female	PD	Persons with disability	GRD_MARFAM	Marital and family status
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	F	Female	PWD	Persons without disability	GRD_POLVIEW	Political opinion
+VC_VOV_GDSD	_T	Both sexes	_T	No breakdown by disability	GRD_WEDLOCK	Born out of wedlock
+VC_VOV_GDSD	_T	Both sexes	PD	Persons with disability	GRD_MIG	Migration status
+VC_VOV_GDSD	_T	Both sexes	PWD	Persons without disability	GRD_MIG	Migration status
+VC_VOV_GDSD	M	Male	PD	Persons with disability	GRD_MIG	Migration status
+VC_VOV_GDSD	M	Male	PWD	Persons without disability	GRD_MIG	Migration status
