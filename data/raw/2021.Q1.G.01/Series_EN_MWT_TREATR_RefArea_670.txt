@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Type of waste treatment
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	670	Saint Vincent and the Grenadines	2002.0	0	Float						UNSTATS / WESR 		['']	C	PERCENT	G	INCINRT
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	670	Saint Vincent and the Grenadines	2002.0	0	Float						UNSTATS / WESR 		['']	C	PERCENT	G	OTHERWM
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	670	Saint Vincent and the Grenadines	2002.0	84.92063	Float						UNSTATS / WESR 		['']	C	PERCENT	G	LANDFIL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	670	Saint Vincent and the Grenadines	2002.0	15.07937	Float						UNSTATS / WESR 		['Data refer to recycling and composting together.']	C	PERCENT	G	RECYCL

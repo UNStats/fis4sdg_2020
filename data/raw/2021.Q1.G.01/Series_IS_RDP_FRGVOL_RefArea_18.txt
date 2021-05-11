@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2017.0	855,700,474	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2018.0	742,653,683	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2018.0	78,931,003	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2018.0	129,903,115,577	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2018.0	177,889,178,806	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2019.0	286,336,200,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2019.0	197,623,600,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2019.0	6,800,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	18	Southern Africa	2019.0	546,475,931	Float						ICAO		['']	G	T_KM	AIR	G

@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2017.0	118,005,606,093	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2018.0	122,886,558,644	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2018.0	4,038,255,295,566	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2018.0	12,663,727,000,187	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2018.0	1,595,921,036,155	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2019.0	1,972,689,800,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2019.0	13,427,739,600,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2019.0	4,769,203,800,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	142	Asia	2019.0	119,343,039,808	Float						ICAO		['']	G	T_KM	AIR	G

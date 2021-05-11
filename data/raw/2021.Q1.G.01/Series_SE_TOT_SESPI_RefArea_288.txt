@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	288	Ghana	2007.0	0.085121675717781	Float						TIMSS 2007		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	288	Ghana	2011.0	0.252575646471958	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	288	Ghana	2013.0	0.361591048424722	Float						Skills Towards Employability and Productivity (STEP) of World Bank		['']	C	Ratio	_T	G	LITE

@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Sex	Reporting Type
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	184	Cook Islands	2001.0	36.11	Float						PC - Population Census		['Data reference period: December']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	184	Cook Islands	2011.0	47.5	Float						PC - Population Census		['']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	184	Cook Islands	2016.0	42.33	Float						HIES - Household Income and Expenditure Survey		['Repository: ILO-STATISTICS - Micro data processing | Age coverage - minimum age: Nonstandard minimum age | Break in series: Methodology revised']	C	PERCENT	FEMALE	G
+IC_GEN_MGTL	Proportion of women in managerial positions (%)	184	Cook Islands	2019.0	59.78	Float						LFS - Labour Force Survey		['Repository: ILO-STATISTICS - Micro data processing | Employment definition: Excluding own-use production workers | Break in series: Methodology revised']	C	PERCENT	FEMALE	G

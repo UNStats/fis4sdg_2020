@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	512	Oman	2007.0	1.30068851496012	Float						TIMSS 2007		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	512	Oman	2011.0	3.65792963976474	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	512	Oman	2011.0	0.861239432349841	Float						PIRLS 2011		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	512	Oman	2015.0	0.795896961475915	Float						TIMSS 2015		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_LGP_ACHI	Language test parity index for achievement (ratio)	512	Oman	2016.0	1.13399821413125	Float						PIRLS 2016		['']	C	Ratio	GRAD23	G	SKILL_READ

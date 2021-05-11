@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Type of waste treatment
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	64	Bhutan	2012.0	15	Float						UNSTATS / WESR 		['Figure excludes municipal waste collected from origins other than households.']	C	PERCENT	G	RECYCL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	64	Bhutan	2017.0	9	Float						UNSTATS / WESR 		['Of the total, the remaining (non-recycled, non-composted, non-incinerated, non-landfilled) is assumed to go into the environment through release into water, etc.']	C	PERCENT	G	OTHERWM
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	64	Bhutan	2017.0	60	Float						UNSTATS / WESR 		['60% is of the total municipal waste is assumed to be landfilled.']	C	PERCENT	G	LANDFIL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	64	Bhutan	2017.0	15	Float						UNSTATS / WESR 		['15% is of the total municipal waste is assumed to be incinerated.']	C	PERCENT	G	INCINRT
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	64	Bhutan	2017.0	1	Float						UNSTATS / WESR 		['1% is of the total municipal waste is assumed to be composted.']	C	PERCENT	G	COMPOST

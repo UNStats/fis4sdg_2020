@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Food Waste Sector
+AG_FOOD_WST	Food waste (Tonnes)	150	Europe	2019.0	49489956.01195	Float						Food Waste Index Report 2020 / WESR		['']	E	TONNES	G	HHS
+AG_FOOD_WST	Food waste (Tonnes)	150	Europe	2019.0	32311875.76835	Float						Food Waste Index Report 2020 / WESR		['']	E	TONNES	G	MNFC
+AG_FOOD_WST	Food waste (Tonnes)	150	Europe	2019.0	18330226.97083	Float						Food Waste Index Report 2020 / WESR		['']	E	TONNES	G	OOHC
+AG_FOOD_WST	Food waste (Tonnes)	150	Europe	2019.0	8996954.70187	Float						Food Waste Index Report 2020 / WESR		['']	E	TONNES	G	RTL

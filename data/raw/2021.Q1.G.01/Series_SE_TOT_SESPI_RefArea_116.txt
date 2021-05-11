@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	116	Cambodia	2013.0	0.505660377358491	Float						National Learning Assessment (NLA): National Assessment; Grade 6; Minimum proficiency level: Level 3: Proficient		['']	C	Ratio	PRIMAR	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	116	Cambodia	2015.0	0.221246584833134	Float						PISA D 2015		['']	C	Ratio	LOWSEC	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	116	Cambodia	2015.0	0.187263222571629	Float						PISA D 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH

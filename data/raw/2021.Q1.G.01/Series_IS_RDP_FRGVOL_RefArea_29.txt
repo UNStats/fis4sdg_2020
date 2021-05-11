@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2017.0	88,523,369	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2018.0	63,939,551	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2018.0	0	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2018.0	609,114,971	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2018.0	42,697,046,666	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2019.0	48,703,800,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2019.0	1,913,200,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2019.0	0	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	29	Caribbean	2019.0	61,228,584	Float						ICAO		['']	G	T_KM	AIR	G

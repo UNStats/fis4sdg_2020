@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2017.0	912,898,000	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2018.0	994,542,000	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2018.0	0	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2018.0	896,407,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2018.0	11,581,786,204	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2019.0	14,796,200,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2019.0	2,549,800,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2019.0	0	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	376	Israel	2019.0	889,334,000	Float						ICAO		['']	C	T_KM	AIR	G

@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2017.0	45,776,862	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2018.0	47,627,413	Float						ICAO		['']	C	T_KM	AIR	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2018.0	7,371,481,819	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2018.0	0	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2018.0	30,436,223	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2019.0	74,400,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	IWW	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2019.0	0	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	RAI	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2019.0	9,565,000,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	T_KM	ROA	G
+IS_RDP_FRGVOL	Freight volume, by mode of transport (tonne kilometres)	591	Panama	2019.0	94,840,477	Float						ICAO		['']	C	T_KM	AIR	G

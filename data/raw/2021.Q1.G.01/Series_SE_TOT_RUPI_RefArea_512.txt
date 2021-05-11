@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	512	Oman	2011.0	0.753651782528183	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	512	Oman	2011.0	0.844612525273304	Float						PIRLS 2011		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	512	Oman	2015.0	0.562801183653718	Float						TIMSS 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_RUPI	Rural to urban parity index for achievement (ratio)	512	Oman	2016.0	0.563248718328559	Float						PIRLS 2016		['']	C	Ratio	GRAD23	G	SKILL_READ

@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Type of waste treatment
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	156	China	2017.0	2.47759	Float						UNSTATS / WESR 		"[""In cases where the source is unable to distinguish clearly how much waste has been disposed by various methods, data are allotted into the 'other' category.""]"	C	PERCENT	G	OTHERWM
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	156	China	2017.0	55.93446	Float						UNSTATS / WESR 		['']	C	PERCENT	G	LANDFIL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	156	China	2017.0	39.32596	Float						UNSTATS / WESR 		['']	C	PERCENT	G	INCINRT

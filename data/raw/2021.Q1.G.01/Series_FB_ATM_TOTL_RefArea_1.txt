@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Observation Status	Reporting Type
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	1	World	2010.0	45.33557	Float						IMF		['186 countries']	NA	NUMBER	A	G
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	1	World	2015.0	64.81	Float						IMF		['186 countries']	NA	NUMBER	A	G
+FB_ATM_TOTL	Number of automated teller machines (ATMs) per 100,000 adults	1	World	2019.0	68.76	Float						IMF		['186 countries']	NA	NUMBER	A	G

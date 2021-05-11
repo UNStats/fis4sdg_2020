@@ -1,0 +1,5 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Food Waste Sector
+AG_FOOD_WST_PC	Food waste per capita (KG)	19	Americas	2019.0	16.77924	Float						Food Waste Index Report 2020 / WESR		['']	E	KG	G	RTL
+AG_FOOD_WST_PC	Food waste per capita (KG)	19	Americas	2019.0	42.83695	Float						Food Waste Index Report 2020 / WESR		['']	E	KG	G	OOHC
+AG_FOOD_WST_PC	Food waste per capita (KG)	19	Americas	2019.0	51.90258	Float						Food Waste Index Report 2020 / WESR		['']	E	KG	G	MNFC
+AG_FOOD_WST_PC	Food waste per capita (KG)	19	Americas	2019.0	74.96122	Float						Food Waste Index Report 2020 / WESR		['']	E	KG	G	HHS

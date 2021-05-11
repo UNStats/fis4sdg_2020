@@ -1,0 +1,8 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2017.0	58,196,810,476	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2018.0	750,736,272,957	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2018.0	4,047,121,731	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2018.0	59,536,136,377	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2019.0	127944417857	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2019.0	922841653175	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	15	Northern Africa	2019.0	66,227,167,808	Float						ICAO		['']	G	P_KM	AIR	G

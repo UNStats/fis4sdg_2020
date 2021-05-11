@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	214	Dominican Republic	2018.0	100,893,034,813	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	214	Dominican Republic	2018.0	82,355,884	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	214	Dominican Republic	2019.0	3004542857.14286	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	214	Dominican Republic	2019.0	93519061904.7619	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	214	Dominican Republic	2019.0	149,023,970	Float						ICAO		['']	C	P_KM	AIR	G

@@ -1,0 +1,10 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Education level	Reporting Type	Type of skill
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2003.0	0.604348808121636	Float						TIMSS 2003		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2007.0	0.497447233047186	Float						TIMSS 2007		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2011.0	0.715002120709816	Float						TIMSS 2011		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2011.0	0.733735720565508	Float						TIMSS 2011		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2011.0	0.761697190196492	Float						PIRLS 2011		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2015.0	0.378496392606636	Float						TIMSS 2015		['']	C	Ratio	GRAD23	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2015.0	0.235919834061428	Float						TIMSS 2015		['']	C	Ratio	LOWSEC	G	SKILL_MATH
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2016.0	0.758449760055992	Float						PIRLS 2016		['']	C	Ratio	GRAD23	G	SKILL_READ
+SE_TOT_SESPI	Low to high socio-economic parity status index for achievement (ratio)	682	Saudi Arabia	2018.0	0.42291368264823	Float						PISA 2018		['']	C	Ratio	LOWSEC	G	SKILL_READ

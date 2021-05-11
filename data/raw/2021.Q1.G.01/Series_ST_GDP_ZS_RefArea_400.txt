@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type
+ST_GDP_ZS	Tourism direct GDP as a proportion of total GDP (%)	400	Jordan	2010.0	7	Float						USAID, Department of Statistics, Ministry of Tourism and Antiquities		['The data correspond to Tourism GVA (direct) as a percentage of total GVA']	C	PERCENT	G
+ST_GDP_ZS	Tourism direct GDP as a proportion of total GDP (%)	400	Jordan	2012.0	6.5	Float						USAID, Department of Statistics, Ministry of Tourism and Antiquities		['The data correspond to Tourism GVA (direct) as a percentage of total GVA']	C	PERCENT	G
+ST_GDP_ZS	Tourism direct GDP as a proportion of total GDP (%)	400	Jordan	2016.0	6	Float						USAID, Department of Statistics, Ministry of Tourism and Antiquities		['The data correspond to Tourism GVA (direct) as a percentage of total GVA']	C	PERCENT	G

@@ -1,0 +1,7 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Type of waste treatment
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	764	Thailand	2014.0	25.53408	Float						UNSTATS / WESR 		['']	C	PERCENT	G	RECYCL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	764	Thailand	2015.0	23.36266	Float						UNSTATS / WESR 		['']	C	PERCENT	G	RECYCL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	764	Thailand	2017.0	4.05761	Float						UNSTATS / WESR 		['']	C	PERCENT	G	INCINRT
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	764	Thailand	2017.0	17.88303	Float						UNSTATS / WESR 		['']	C	PERCENT	G	OTHERWM
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	764	Thailand	2017.0	2.75124	Float						UNSTATS / WESR 		['']	C	PERCENT	G	COMPOST
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	764	Thailand	2017.0	47.13567	Float						UNSTATS / WESR 		['']	C	PERCENT	G	LANDFIL

@@ -1,0 +1,8 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Mode of transportation	Reporting Type
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2017.0	216,779,805,789	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2018.0	882,294,533,151	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2018.0	224,308,000,000	Float						ICAO		['']	C	P_KM	AIR	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2018.0	1,598,000,000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	C	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2019.0	27773600000	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	P_KM	RAI	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2019.0	771298042857.143	Float						the International Transport Forum at the OECD (ITF-OECD)		['']	M	P_KM	ROA	G
+IS_RDP_PFVOL	Passenger volume (passenger kilometres), by mode of transport	124	Canada	2019.0	232,006,658,000	Float						ICAO		['']	C	P_KM	AIR	G

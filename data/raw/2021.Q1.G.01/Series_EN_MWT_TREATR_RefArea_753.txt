@@ -1,0 +1,4 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Type of waste treatment
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	753	Eastern and South-Eastern Asia	2017.0	39.63677	Float						UNSTATS / WESR 		['']	C	PERCENT	G	INCINRT
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	753	Eastern and South-Eastern Asia	2017.0	50.53746	Float						UNSTATS / WESR 		['']	C	PERCENT	G	LANDFIL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	753	Eastern and South-Eastern Asia	2017.0	3.18087	Float						UNSTATS / WESR 		['']	C	PERCENT	G	OTHERWM

@@ -1,0 +1,6 @@
+series	seriesDescription	geoAreaCode	geoAreaName	timePeriodStart	value	valueType	time_detail	timeCoverage	upperBound	lowerBound	basePeriod	source	geoInfoUrl	footnotes	Nature	Units	Reporting Type	Type of waste treatment
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	36	Australia	2009.0	40.97613	Float						UNSTATS / WESR 		['Break.']	C	PERCENT	G	RECYCL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	36	Australia	2011.0	45.17347	Float						UNSTATS / WESR 		['']	C	PERCENT	G	RECYCL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	36	Australia	2015.0	41.58483	Float						UNSTATS / WESR 		['']	C	PERCENT	G	RECYCL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	36	Australia	2015.0	48.60247	Float						UNSTATS / WESR 		['']	C	PERCENT	G	LANDFIL
+EN_MWT_TREATR	Municipal waste treated, by type of treatment (%)	36	Australia	2015.0	9.38928	Float						UNSTATS / WESR 		['']	C	PERCENT	G	INCINRT
